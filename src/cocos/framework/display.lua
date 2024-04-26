@@ -28,8 +28,8 @@ local director = cc.Director:getInstance()
 local view = director:getOpenGLView()
 
 if not view then
-    local width = 1280
-    local height = 720
+    local width = 960
+    local height = 640
     if CC_DESIGN_RESOLUTION then
         if CC_DESIGN_RESOLUTION.width then
             width = CC_DESIGN_RESOLUTION.width
@@ -158,7 +158,7 @@ function display.setAutoScale(configs)
 end
 
 if type(CC_DESIGN_RESOLUTION) == "table" then
-    -- display.setAutoScale(CC_DESIGN_RESOLUTION)
+    display.setAutoScale(CC_DESIGN_RESOLUTION)
 end
 
 display.COLOR_WHITE = cc.c3b(255, 255, 255)

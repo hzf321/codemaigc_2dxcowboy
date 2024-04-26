@@ -9,15 +9,12 @@ CC_USE_FRAMEWORK = true
 CC_SHOW_FPS = true
 
 -- disable create unexpected global variable
-CC_DISABLE_GLOBAL = false
-
-COMMON_PICS_PATH = "commonpics/"
-COMMON_FONTS_PATH = "commonfonts/"
+CC_DISABLE_GLOBAL = true
 
 -- for module display
 CC_DESIGN_RESOLUTION = {
-    width = 1280,
-    height = 720,
+    width = 960,
+    height = 640,
     autoscale = "FIXED_HEIGHT",
     callback = function(framesize)
         local ratio = framesize.width / framesize.height
@@ -26,12 +23,4 @@ CC_DESIGN_RESOLUTION = {
             return {autoscale = "FIXED_WIDTH"}
         end
     end
-}
-
-Splunk_Type = {
-	RECORD = "record",         -- pid  1
-	ACTION = "action",         -- action ""
-	Error = "client_error",    -- error ""
-	CoinError = "coin_error",  -- coin_error "" 
-	Guide = "guide"            -- pid 1
 }

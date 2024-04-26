@@ -26,11 +26,6 @@ require "cocos.cocos2d.Cocos2d"
 require "cocos.cocos2d.Cocos2dConstants"
 require "cocos.cocos2d.functions"
 
-
-local breakSocketHandle, debugXpCall = require("LuaDebugjit")("localhost", 7003)
-cc.Director:getInstance():getScheduler():scheduleScriptFunc(breakSocketHandle, 0.3, false)
-_G.debugXpCall = debugXpCall
-
 __G__TRACKBACK__ = function(msg)
     local msg = debug.traceback(msg, 3)
     print(msg)
