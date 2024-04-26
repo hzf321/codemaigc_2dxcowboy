@@ -1,0 +1,153 @@
+
+jdt_qz.png
+size: 800,798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/fg_0
+  rotate: false
+  xy: 266, 11
+  size: 254, 39
+  orig: 264, 56
+  offset: 5, 8
+  index: -1
+tx/jm/jm_0
+  rotate: false
+  xy: 268, 149
+  size: 264, 95
+  orig: 264, 120
+  offset: 0, 8
+  index: -1
+tx/jm/jm_1
+  rotate: false
+  xy: 2, 238
+  size: 264, 105
+  orig: 264, 120
+  offset: 0, 12
+  index: -1
+tx/jm/jm_10
+  rotate: false
+  xy: 268, 354
+  size: 264, 106
+  orig: 264, 120
+  offset: 0, 14
+  index: -1
+tx/jm/jm_11
+  rotate: false
+  xy: 2, 24
+  size: 262, 104
+  orig: 264, 120
+  offset: 2, 15
+  index: -1
+tx/jm/jm_12
+  rotate: false
+  xy: 268, 246
+  size: 262, 106
+  orig: 264, 120
+  offset: 2, 14
+  index: -1
+tx/jm/jm_13
+  rotate: false
+  xy: 2, 130
+  size: 262, 106
+  orig: 264, 120
+  offset: 2, 14
+  index: -1
+tx/jm/jm_14
+  rotate: false
+  xy: 534, 353
+  size: 264, 106
+  orig: 264, 120
+  offset: 0, 14
+  index: -1
+tx/jm/jm_15
+  rotate: false
+  xy: 2, 680
+  size: 264, 116
+  orig: 264, 120
+  offset: 0, 4
+  index: -1
+tx/jm/jm_16
+  rotate: false
+  xy: 268, 570
+  size: 264, 109
+  orig: 264, 120
+  offset: 0, 11
+  index: -1
+tx/jm/jm_17
+  rotate: false
+  xy: 532, 251
+  size: 263, 100
+  orig: 264, 120
+  offset: 1, 16
+  index: -1
+tx/jm/jm_18
+  rotate: false
+  xy: 266, 52
+  size: 262, 95
+  orig: 264, 120
+  offset: 2, 17
+  index: -1
+tx/jm/jm_19
+  rotate: false
+  xy: 534, 150
+  size: 264, 99
+  orig: 264, 120
+  offset: 0, 9
+  index: -1
+tx/jm/jm_2
+  rotate: false
+  xy: 268, 462
+  size: 264, 106
+  orig: 264, 120
+  offset: 0, 14
+  index: -1
+tx/jm/jm_3
+  rotate: false
+  xy: 2, 453
+  size: 264, 108
+  orig: 264, 120
+  offset: 0, 12
+  index: -1
+tx/jm/jm_4
+  rotate: false
+  xy: 2, 563
+  size: 264, 115
+  orig: 264, 120
+  offset: 0, 5
+  index: -1
+tx/jm/jm_5
+  rotate: false
+  xy: 534, 461
+  size: 264, 106
+  orig: 264, 120
+  offset: 0, 12
+  index: -1
+tx/jm/jm_6
+  rotate: false
+  xy: 534, 682
+  size: 264, 114
+  orig: 264, 120
+  offset: 0, 2
+  index: -1
+tx/jm/jm_7
+  rotate: false
+  xy: 268, 681
+  size: 264, 115
+  orig: 264, 120
+  offset: 0, 5
+  index: -1
+tx/jm/jm_8
+  rotate: false
+  xy: 534, 569
+  size: 264, 111
+  orig: 264, 120
+  offset: 0, 9
+  index: -1
+tx/jm/jm_9
+  rotate: false
+  xy: 2, 345
+  size: 264, 106
+  orig: 264, 120
+  offset: 0, 14
+  index: -1

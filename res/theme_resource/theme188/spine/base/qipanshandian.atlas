@@ -1,0 +1,125 @@
+
+qipanshandian.png
+size: 1763,825
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiglow_00
+  rotate: false
+  xy: 1101, 445
+  size: 225, 163
+  orig: 261, 190
+  offset: 20, 10
+  index: -1
+qipanshandian/qipanshandian_00
+  rotate: false
+  xy: 1061, 0
+  size: 349, 99
+  orig: 544, 396
+  offset: 79, 260
+  index: -1
+qipanshandian/qipanshandian_01
+  rotate: false
+  xy: 1412, 75
+  size: 349, 164
+  orig: 544, 396
+  offset: 80, 197
+  index: -1
+qipanshandian/qipanshandian_02
+  rotate: false
+  xy: 1415, 648
+  size: 348, 177
+  orig: 544, 396
+  offset: 83, 183
+  index: -1
+qipanshandian/qipanshandian_03
+  rotate: false
+  xy: 1061, 101
+  size: 345, 218
+  orig: 544, 396
+  offset: 84, 161
+  index: -1
+qipanshandian/qipanshandian_04
+  rotate: false
+  xy: 380, 304
+  size: 375, 248
+  orig: 544, 396
+  offset: 81, 120
+  index: -1
+qipanshandian/qipanshandian_05
+  rotate: false
+  xy: 757, 321
+  size: 342, 241
+  orig: 544, 396
+  offset: 85, 129
+  index: -1
+qipanshandian/qipanshandian_06
+  rotate: false
+  xy: 1408, 241
+  size: 343, 168
+  orig: 544, 396
+  offset: 84, 211
+  index: -1
+qipanshandian/qipanshandian_08
+  rotate: false
+  xy: 351, 1
+  size: 344, 241
+  orig: 544, 396
+  offset: 83, 145
+  index: -1
+qipanshandian/qipanshandian_09
+  rotate: false
+  xy: 0, 244
+  size: 378, 260
+  orig: 544, 396
+  offset: 68, 126
+  index: -1
+qipanshandian/qipanshandian_12
+  rotate: false
+  xy: 1055, 610
+  size: 358, 215
+  orig: 544, 396
+  offset: 78, 156
+  index: -1
+qipanshandian/qipanshandian_14
+  rotate: false
+  xy: 1408, 411
+  size: 346, 197
+  orig: 544, 396
+  offset: 81, 179
+  index: -1
+qipanshandian/qipanshandian_16
+  rotate: false
+  xy: 698, 564
+  size: 355, 261
+  orig: 544, 396
+  offset: 73, 124
+  index: -1
+qipanshandian/qipanshandian_17
+  rotate: false
+  xy: 0, 0
+  size: 349, 242
+  orig: 544, 396
+  offset: 80, 124
+  index: -1
+qipanshandian/qipanshandian_18
+  rotate: false
+  xy: 345, 554
+  size: 351, 271
+  orig: 544, 396
+  offset: 78, 93
+  index: -1
+qipanshandian/qipanshandian_19
+  rotate: false
+  xy: 697, 53
+  size: 362, 249
+  orig: 544, 396
+  offset: 65, 118
+  index: -1
+qipanshandian/qipanshandian_20
+  rotate: false
+  xy: 0, 506
+  size: 343, 319
+  orig: 544, 396
+  offset: 84, 57
+  index: -1

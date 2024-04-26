@@ -1,0 +1,146 @@
+
+q.png
+size: 327,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/q
+  rotate: false
+  xy: 2, 250
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+images/q/q_0
+  rotate: false
+  xy: 63, 254
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_1
+  rotate: false
+  xy: 128, 254
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_10
+  rotate: false
+  xy: 67, 41
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_11
+  rotate: false
+  xy: 132, 112
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_12
+  rotate: false
+  xy: 197, 183
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_13
+  rotate: false
+  xy: 132, 41
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_14
+  rotate: false
+  xy: 197, 112
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_15
+  rotate: false
+  xy: 197, 41
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_16
+  rotate: false
+  xy: 262, 183
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_17
+  rotate: false
+  xy: 262, 112
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_2
+  rotate: false
+  xy: 193, 254
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_3
+  rotate: false
+  xy: 258, 254
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_4
+  rotate: false
+  xy: 2, 179
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_5
+  rotate: false
+  xy: 2, 108
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_6
+  rotate: false
+  xy: 2, 37
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_7
+  rotate: false
+  xy: 67, 183
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_8
+  rotate: false
+  xy: 67, 112
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/q/q_9
+  rotate: false
+  xy: 132, 183
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+images/xingguang
+  rotate: false
+  xy: 262, 53
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

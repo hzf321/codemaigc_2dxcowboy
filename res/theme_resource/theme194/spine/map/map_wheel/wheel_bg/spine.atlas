@@ -1,0 +1,153 @@
+
+lunpanbianyuan.png
+size: 2004,783
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 1792, 678
+  size: 105, 105
+  orig: 128, 128
+  offset: 12, 11
+  index: -1
+zhuanquan/zhuanquan_00
+  rotate: true
+  xy: 0, 3
+  size: 168, 304
+  orig: 478, 420
+  offset: 149, 57
+  index: -1
+zhuanquan/zhuanquan_01
+  rotate: true
+  xy: 897, 260
+  size: 237, 304
+  orig: 478, 420
+  offset: 113, 57
+  index: -1
+zhuanquan/zhuanquan_02
+  rotate: false
+  xy: 0, 479
+  size: 284, 304
+  orig: 478, 420
+  offset: 89, 57
+  index: -1
+zhuanquan/zhuanquan_03
+  rotate: false
+  xy: 286, 498
+  size: 303, 285
+  orig: 478, 420
+  offset: 80, 68
+  index: -1
+zhuanquan/zhuanquan_04
+  rotate: false
+  xy: 1203, 260
+  size: 304, 237
+  orig: 478, 420
+  offset: 80, 95
+  index: -1
+zhuanquan/zhuanquan_05
+  rotate: false
+  xy: 306, 41
+  size: 304, 168
+  orig: 478, 420
+  offset: 80, 131
+  index: -1
+zhuanquan/zhuanquan_06
+  rotate: false
+  xy: 591, 239
+  size: 304, 238
+  orig: 478, 420
+  offset: 80, 94
+  index: -1
+zhuanquan/zhuanquan_07
+  rotate: false
+  xy: 877, 499
+  size: 303, 284
+  orig: 478, 420
+  offset: 81, 69
+  index: -1
+zhuanquan/zhuanquan_08
+  rotate: false
+  xy: 0, 173
+  size: 284, 304
+  orig: 478, 420
+  offset: 92, 57
+  index: -1
+zhuanquan/zhuanquan_09
+  rotate: true
+  xy: 1509, 260
+  size: 237, 304
+  orig: 478, 420
+  offset: 116, 57
+  index: -1
+zhuanquan/zhuanquan_10
+  rotate: false
+  xy: 1815, 372
+  size: 168, 304
+  orig: 478, 420
+  offset: 149, 57
+  index: -1
+zhuanquan/zhuanquan_11
+  rotate: true
+  xy: 612, 0
+  size: 237, 304
+  orig: 478, 420
+  offset: 113, 57
+  index: -1
+zhuanquan/zhuanquan_12
+  rotate: true
+  xy: 1182, 499
+  size: 284, 303
+  orig: 478, 420
+  offset: 89, 57
+  index: -1
+zhuanquan/zhuanquan_13
+  rotate: false
+  xy: 286, 211
+  size: 303, 285
+  orig: 478, 420
+  offset: 80, 68
+  index: -1
+zhuanquan/zhuanquan_14
+  rotate: false
+  xy: 918, 21
+  size: 304, 237
+  orig: 478, 420
+  offset: 80, 94
+  index: -1
+zhuanquan/zhuanquan_15
+  rotate: true
+  xy: 1836, 66
+  size: 304, 168
+  orig: 478, 420
+  offset: 80, 131
+  index: -1
+zhuanquan/zhuanquan_16
+  rotate: false
+  xy: 1224, 21
+  size: 304, 237
+  orig: 478, 420
+  offset: 80, 95
+  index: -1
+zhuanquan/zhuanquan_17
+  rotate: false
+  xy: 1487, 499
+  size: 303, 284
+  orig: 478, 420
+  offset: 81, 69
+  index: -1
+zhuanquan/zhuanquan_18
+  rotate: false
+  xy: 591, 479
+  size: 284, 304
+  orig: 478, 420
+  offset: 92, 57
+  index: -1
+zhuanquan/zhuanquan_19
+  rotate: true
+  xy: 1530, 21
+  size: 237, 304
+  orig: 478, 420
+  offset: 116, 57
+  index: -1

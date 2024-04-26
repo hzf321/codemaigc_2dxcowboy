@@ -1,0 +1,118 @@
+
+scatter_jl_01.png
+size: 510,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scatter_jl_0/scatter_jl_0
+  rotate: true
+  xy: 47, 156
+  size: 44, 295
+  orig: 112, 364
+  offset: 31, 36
+  index: -1
+scatter_jl_0/scatter_jl_15
+  rotate: true
+  xy: 47, 156
+  size: 44, 295
+  orig: 112, 364
+  offset: 31, 36
+  index: -1
+scatter_jl_0/scatter_jl_1
+  rotate: true
+  xy: 0, 19
+  size: 44, 294
+  orig: 112, 364
+  offset: 31, 35
+  index: -1
+scatter_jl_0/scatter_jl_10
+  rotate: false
+  xy: 281, 205
+  size: 43, 303
+  orig: 112, 364
+  offset: 31, 33
+  index: -1
+scatter_jl_0/scatter_jl_11
+  rotate: false
+  xy: 326, 209
+  size: 44, 299
+  orig: 112, 364
+  offset: 31, 35
+  index: -1
+scatter_jl_0/scatter_jl_12
+  rotate: false
+  xy: 372, 210
+  size: 45, 298
+  orig: 112, 364
+  offset: 31, 36
+  index: -1
+scatter_jl_0/scatter_jl_13
+  rotate: false
+  xy: 465, 211
+  size: 45, 297
+  orig: 112, 364
+  offset: 31, 36
+  index: -1
+scatter_jl_0/scatter_jl_14
+  rotate: true
+  xy: 0, 65
+  size: 44, 295
+  orig: 112, 364
+  offset: 31, 36
+  index: -1
+scatter_jl_0/scatter_jl_2
+  rotate: false
+  xy: 419, 210
+  size: 44, 298
+  orig: 112, 364
+  offset: 31, 31
+  index: -1
+scatter_jl_0/scatter_jl_3
+  rotate: true
+  xy: 0, 111
+  size: 43, 299
+  orig: 112, 364
+  offset: 31, 31
+  index: -1
+scatter_jl_0/scatter_jl_4
+  rotate: false
+  xy: 234, 207
+  size: 45, 301
+  orig: 112, 364
+  offset: 31, 31
+  index: -1
+scatter_jl_0/scatter_jl_5
+  rotate: false
+  xy: 187, 206
+  size: 45, 302
+  orig: 112, 364
+  offset: 31, 31
+  index: -1
+scatter_jl_0/scatter_jl_6
+  rotate: false
+  xy: 47, 202
+  size: 45, 306
+  orig: 112, 364
+  offset: 31, 29
+  index: -1
+scatter_jl_0/scatter_jl_7
+  rotate: false
+  xy: 0, 201
+  size: 45, 307
+  orig: 112, 364
+  offset: 31, 29
+  index: -1
+scatter_jl_0/scatter_jl_8
+  rotate: false
+  xy: 94, 202
+  size: 45, 306
+  orig: 112, 364
+  offset: 31, 31
+  index: -1
+scatter_jl_0/scatter_jl_9
+  rotate: false
+  xy: 141, 202
+  size: 44, 306
+  orig: 112, 364
+  offset: 31, 31
+  index: -1

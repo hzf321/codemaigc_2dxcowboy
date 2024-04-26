@@ -1,0 +1,27 @@
+
+dl.png
+size: 280,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/syc
+  rotate: false
+  xy: 152, 205
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+images/tx/fg1_0
+  rotate: false
+  xy: 0, 130
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+images/tx/guang1
+  rotate: false
+  xy: 0, 0
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

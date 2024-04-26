@@ -1,0 +1,27 @@
+
+l2.png
+size: 409,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dian_zi
+  rotate: false
+  xy: 2, 15
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+images/huaduo
+  rotate: false
+  xy: 333, 331
+  size: 74, 74
+  orig: 75, 74
+  offset: 1, 0
+  index: -1
+images/lizi
+  rotate: false
+  xy: 2, 84
+  size: 329, 321
+  orig: 329, 321
+  offset: 0, 0
+  index: -1

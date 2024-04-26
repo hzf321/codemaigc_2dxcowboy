@@ -1,0 +1,153 @@
+
+tubiao.png
+size: 872,872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 580, 7
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 858, 532
+  size: 49, 8
+  orig: 49, 8
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 580, 16
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 696, 39
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+222
+  rotate: false
+  xy: 580, 54
+  size: 164, 189
+  orig: 164, 189
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 659, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 746, 148
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+444_444
+  rotate: false
+  xy: 580, 423
+  size: 276, 158
+  orig: 276, 158
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 659, 20
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 783, 271
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 783, 259
+  size: 57, 10
+  orig: 57, 10
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 783, 333
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+bao/bao_000
+  rotate: false
+  xy: 2, 583
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+bao/bao_001
+  rotate: false
+  xy: 2, 294
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+bao/bao_002
+  rotate: false
+  xy: 291, 583
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+bao/bao_003
+  rotate: false
+  xy: 2, 5
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+bao/bao_004
+  rotate: false
+  xy: 291, 294
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+bao/bao_005
+  rotate: false
+  xy: 580, 583
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+bao/bao_006
+  rotate: false
+  xy: 291, 5
+  size: 287, 287
+  orig: 287, 287
+  offset: 0, 0
+  index: -1
+jindutiaok
+  rotate: false
+  xy: 580, 245
+  size: 201, 176
+  orig: 201, 176
+  offset: 0, 0
+  index: -1
+x_7
+  rotate: false
+  xy: 746, 177
+  size: 26, 66
+  orig: 26, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+177cp.png
+size: 834,175
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gggg
+  rotate: false
+  xy: 696, 110
+  size: 72, 63
+  orig: 74, 65
+  offset: 1, 1
+  index: -1
+s_00
+  rotate: false
+  xy: 730, 36
+  size: 32, 72
+  orig: 176, 83
+  offset: 11, 2
+  index: -1
+s_01
+  rotate: false
+  xy: 615, 29
+  size: 47, 73
+  orig: 176, 83
+  offset: 11, 2
+  index: -1
+s_02
+  rotate: false
+  xy: 664, 30
+  size: 64, 73
+  orig: 176, 83
+  offset: 11, 2
+  index: -1
+s_03
+  rotate: false
+  xy: 533, 29
+  size: 80, 73
+  orig: 176, 83
+  offset: 11, 2
+  index: -1
+s_04
+  rotate: false
+  xy: 357, 101
+  size: 86, 72
+  orig: 176, 83
+  offset: 21, 2
+  index: -1
+s_05
+  rotate: false
+  xy: 357, 29
+  size: 86, 70
+  orig: 176, 83
+  offset: 37, 4
+  index: -1
+s_06
+  rotate: false
+  xy: 445, 103
+  size: 86, 70
+  orig: 176, 83
+  offset: 53, 4
+  index: -1
+s_07
+  rotate: false
+  xy: 445, 32
+  size: 86, 69
+  orig: 176, 83
+  offset: 69, 5
+  index: -1
+s_08
+  rotate: false
+  xy: 533, 104
+  size: 86, 69
+  orig: 176, 83
+  offset: 85, 4
+  index: -1
+s_09
+  rotate: false
+  xy: 621, 105
+  size: 73, 68
+  orig: 176, 83
+  offset: 101, 4
+  index: -1
+s_10
+  rotate: false
+  xy: 770, 105
+  size: 57, 68
+  orig: 176, 83
+  offset: 117, 5
+  index: -1
+s_11
+  rotate: false
+  xy: 764, 36
+  size: 41, 67
+  orig: 176, 83
+  offset: 133, 5
+  index: -1
+s_12
+  rotate: false
+  xy: 807, 38
+  size: 25, 65
+  orig: 176, 83
+  offset: 149, 7
+  index: -1
+s_13
+  rotate: false
+  xy: 357, 2
+  size: 7, 25
+  orig: 176, 83
+  offset: 166, 43
+  index: -1
+theme177_logo
+  rotate: false
+  xy: 2, 6
+  size: 353, 167
+  orig: 353, 167
+  offset: 0, 0
+  index: -1

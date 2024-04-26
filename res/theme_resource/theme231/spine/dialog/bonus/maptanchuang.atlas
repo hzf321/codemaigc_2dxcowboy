@@ -1,0 +1,272 @@
+
+maptanchuang.png
+size: 1712,1712
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/and
+  rotate: true
+  xy: 1190, 809
+  size: 649, 48
+  orig: 649, 48
+  offset: 0, 0
+  index: -1
+images/biaoti
+  rotate: true
+  xy: 1298, 1015
+  size: 443, 202
+  orig: 443, 202
+  offset: 0, 0
+  index: -1
+images/biaoti02
+  rotate: false
+  xy: 1168, 1460
+  size: 429, 250
+  orig: 429, 250
+  offset: 0, 0
+  index: -1
+images/biaoti03
+  rotate: true
+  xy: 1066, 696
+  size: 734, 122
+  orig: 734, 122
+  offset: 0, 0
+  index: -1
+images/cao1
+  rotate: false
+  xy: 867, 2
+  size: 158, 194
+  orig: 158, 194
+  offset: 0, 0
+  index: -1
+images/cao10
+  rotate: false
+  xy: 2, 51
+  size: 863, 145
+  orig: 863, 145
+  offset: 0, 0
+  index: -1
+images/cao11
+  rotate: false
+  xy: 1055, 204
+  size: 212, 224
+  orig: 212, 224
+  offset: 0, 0
+  index: -1
+images/cao12
+  rotate: false
+  xy: 1262, 566
+  size: 216, 245
+  orig: 216, 245
+  offset: 0, 0
+  index: -1
+images/cao2
+  rotate: false
+  xy: 1027, 8
+  size: 158, 194
+  orig: 158, 194
+  offset: 0, 0
+  index: -1
+images/cao3
+  rotate: false
+  xy: 1480, 617
+  size: 158, 194
+  orig: 158, 194
+  offset: 0, 0
+  index: -1
+images/cao4
+  rotate: false
+  xy: 1298, 813
+  size: 225, 200
+  orig: 225, 200
+  offset: 0, 0
+  index: -1
+images/cao5
+  rotate: false
+  xy: 1319, 8
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+images/cao6
+  rotate: false
+  xy: 1599, 1486
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+images/cao7
+  rotate: false
+  xy: 1600, 1371
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+images/cao8
+  rotate: false
+  xy: 1600, 1256
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+images/cao9
+  rotate: false
+  xy: 1600, 1256
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+images/fairy
+  rotate: true
+  xy: 1240, 863
+  size: 595, 56
+  orig: 595, 56
+  offset: 0, 0
+  index: -1
+images/find
+  rotate: false
+  xy: 310, 6
+  size: 364, 43
+  orig: 364, 43
+  offset: 0, 0
+  index: -1
+images/hua1
+  rotate: false
+  xy: 1599, 1601
+  size: 106, 109
+  orig: 106, 109
+  offset: 0, 0
+  index: -1
+images/hua2
+  rotate: false
+  xy: 2, 878
+  size: 856, 552
+  orig: 856, 552
+  offset: 0, 0
+  index: -1
+images/hudie
+  rotate: true
+  xy: 1269, 339
+  size: 225, 223
+  orig: 225, 223
+  offset: 0, 0
+  index: -1
+images/is
+  rotate: true
+  xy: 1004, 311
+  size: 553, 49
+  orig: 553, 49
+  offset: 0, 0
+  index: -1
+images/jsk01
+  rotate: false
+  xy: 2, 1432
+  size: 1164, 278
+  orig: 1164, 278
+  offset: 0, 0
+  index: -1
+images/lizi1
+  rotate: false
+  xy: 2, 198
+  size: 997, 203
+  orig: 997, 203
+  offset: 0, 0
+  index: -1
+images/mogu
+  rotate: false
+  xy: 1546, 1093
+  size: 97, 109
+  orig: 97, 109
+  offset: 0, 0
+  index: -1
+images/on
+  rotate: true
+  xy: 1502, 1076
+  size: 382, 42
+  orig: 382, 42
+  offset: 0, 0
+  index: -1
+images/tiao1
+  rotate: false
+  xy: 1055, 430
+  size: 205, 264
+  orig: 205, 264
+  offset: 0, 0
+  index: -1
+images/tiao2
+  rotate: false
+  xy: 2, 403
+  size: 843, 473
+  orig: 843, 473
+  offset: 0, 0
+  index: -1
+images/tiao3
+  rotate: false
+  xy: 1269, 123
+  size: 222, 214
+  orig: 222, 214
+  offset: 0, 0
+  index: -1
+images/xx
+  rotate: true
+  xy: 847, 415
+  size: 449, 155
+  orig: 449, 155
+  offset: 0, 0
+  index: -1
+images/ye1
+  rotate: true
+  xy: 1187, 2
+  size: 119, 130
+  orig: 119, 130
+  offset: 0, 0
+  index: -1
+images/ye2
+  rotate: false
+  xy: 1494, 472
+  size: 136, 143
+  orig: 136, 143
+  offset: 0, 0
+  index: -1
+images/ye3
+  rotate: true
+  xy: 1494, 335
+  size: 135, 144
+  orig: 135, 144
+  offset: 0, 0
+  index: -1
+images/ye4
+  rotate: false
+  xy: 1493, 193
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+images/ye5
+  rotate: false
+  xy: 1493, 51
+  size: 138, 140
+  orig: 138, 140
+  offset: 0, 0
+  index: -1
+images/ying
+  rotate: true
+  xy: 860, 866
+  size: 564, 204
+  orig: 564, 204
+  offset: 0, 0
+  index: -1
+images/youwin
+  rotate: true
+  xy: 1546, 1204
+  size: 254, 52
+  orig: 254, 52
+  offset: 0, 0
+  index: -1
+images/zi01
+  rotate: false
+  xy: 2, 2
+  size: 306, 47
+  orig: 306, 47
+  offset: 0, 0
+  index: -1

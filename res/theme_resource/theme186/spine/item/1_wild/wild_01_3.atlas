@@ -1,0 +1,20 @@
+
+wild_01_3.png
+size: 233,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang04
+  rotate: false
+  xy: 0, 0
+  size: 155, 116
+  orig: 155, 116
+  offset: 0, 0
+  index: -1
+guangbian01
+  rotate: false
+  xy: 0, 118
+  size: 162, 115
+  orig: 162, 116
+  offset: 0, 0
+  index: -1

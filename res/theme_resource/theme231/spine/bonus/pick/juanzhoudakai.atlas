@@ -1,0 +1,76 @@
+
+juanzhoudakai.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+卷轴/hong1
+  rotate: true
+  xy: 936, 806
+  size: 147, 486
+  orig: 147, 486
+  offset: 0, 0
+  index: -1
+卷轴/hong2
+  rotate: false
+  xy: 2, 1390
+  size: 932, 463
+  orig: 932, 463
+  offset: 0, 0
+  index: -1
+卷轴/jin1
+  rotate: false
+  xy: 153, 2
+  size: 147, 486
+  orig: 147, 486
+  offset: 0, 0
+  index: -1
+卷轴/jin2
+  rotate: false
+  xy: 2, 940
+  size: 932, 448
+  orig: 932, 448
+  offset: 0, 0
+  index: -1
+卷轴/lan1
+  rotate: false
+  xy: 1870, 1367
+  size: 150, 486
+  orig: 150, 486
+  offset: 0, 0
+  index: -1
+卷轴/lan2
+  rotate: false
+  xy: 936, 955
+  size: 932, 448
+  orig: 932, 448
+  offset: 0, 0
+  index: -1
+卷轴/lv1
+  rotate: true
+  xy: 936, 657
+  size: 147, 486
+  orig: 147, 486
+  offset: 0, 0
+  index: -1
+卷轴/lv2
+  rotate: false
+  xy: 2, 490
+  size: 932, 448
+  orig: 932, 448
+  offset: 0, 0
+  index: -1
+卷轴/zi1
+  rotate: false
+  xy: 2, 2
+  size: 149, 486
+  orig: 149, 486
+  offset: 0, 0
+  index: -1
+卷轴/zi2
+  rotate: false
+  xy: 936, 1405
+  size: 932, 448
+  orig: 932, 448
+  offset: 0, 0
+  index: -1

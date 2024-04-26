@@ -1,0 +1,27 @@
+
+shuzibianhua.png
+size: 496,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle_Circle_12
+  rotate: false
+  xy: 258, 261
+  size: 235, 235
+  orig: 256, 256
+  offset: 11, 10
+  index: -1
+adv_common_at_circle01
+  rotate: true
+  xy: 0, 0
+  size: 238, 249
+  orig: 256, 256
+  offset: 11, 7
+  index: -1
+cmn_burst06
+  rotate: false
+  xy: 0, 240
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

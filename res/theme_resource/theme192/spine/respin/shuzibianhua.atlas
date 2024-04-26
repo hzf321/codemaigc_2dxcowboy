@@ -1,0 +1,153 @@
+
+shuzibianhua.png
+size: 595,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuzi/shuzi_00
+  rotate: false
+  xy: 429, 94
+  size: 64, 47
+  orig: 125, 97
+  offset: 28, 27
+  index: -1
+shuzi/shuzi_01
+  rotate: false
+  xy: 357, 32
+  size: 69, 52
+  orig: 125, 97
+  offset: 26, 25
+  index: -1
+shuzi/shuzi_02
+  rotate: false
+  xy: 278, 13
+  size: 77, 56
+  orig: 125, 97
+  offset: 22, 24
+  index: -1
+shuzi/shuzi_03
+  rotate: false
+  xy: 0, 1
+  size: 84, 62
+  orig: 125, 97
+  offset: 18, 21
+  index: -1
+shuzi/shuzi_04
+  rotate: false
+  xy: 184, 0
+  size: 92, 66
+  orig: 125, 97
+  offset: 14, 18
+  index: -1
+shuzi/shuzi_05
+  rotate: false
+  xy: 223, 71
+  size: 99, 70
+  orig: 125, 97
+  offset: 10, 17
+  index: -1
+shuzi/shuzi_06
+  rotate: false
+  xy: 115, 68
+  size: 106, 73
+  orig: 125, 97
+  offset: 6, 16
+  index: -1
+shuzi/shuzi_07
+  rotate: false
+  xy: 0, 65
+  size: 113, 76
+  orig: 125, 97
+  offset: 3, 16
+  index: -1
+shuzi/shuzi_08
+  rotate: false
+  xy: 86, 7
+  size: 96, 56
+  orig: 125, 97
+  offset: 23, 17
+  index: -1
+shuzi/shuzi_09
+  rotate: false
+  xy: 324, 86
+  size: 103, 55
+  orig: 125, 97
+  offset: 20, 16
+  index: -1
+shuzi/shuzi_10
+  rotate: false
+  xy: 428, 34
+  size: 54, 50
+  orig: 125, 97
+  offset: 36, 20
+  index: -1
+shuzi/shuzi_11
+  rotate: false
+  xy: 484, 45
+  size: 50, 47
+  orig: 125, 97
+  offset: 38, 23
+  index: -1
+shuzi/shuzi_12
+  rotate: false
+  xy: 495, 95
+  size: 50, 46
+  orig: 125, 97
+  offset: 38, 24
+  index: -1
+shuzi/shuzi_13
+  rotate: false
+  xy: 522, 0
+  size: 50, 43
+  orig: 125, 97
+  offset: 38, 24
+  index: -1
+shuzi/shuzi_14
+  rotate: false
+  xy: 536, 50
+  size: 49, 43
+  orig: 125, 97
+  offset: 39, 24
+  index: -1
+shuzi/shuzi_15
+  rotate: false
+  xy: 547, 102
+  size: 48, 39
+  orig: 125, 97
+  offset: 40, 25
+  index: -1
+shuzi/shuzi_16
+  rotate: false
+  xy: 428, 0
+  size: 45, 32
+  orig: 125, 97
+  offset: 43, 25
+  index: -1
+shuzi/shuzi_17
+  rotate: false
+  xy: 475, 0
+  size: 45, 32
+  orig: 125, 97
+  offset: 43, 25
+  index: -1
+shuzi/shuzi_18
+  rotate: false
+  xy: 357, 1
+  size: 39, 29
+  orig: 125, 97
+  offset: 49, 25
+  index: -1
+shuzi/shuzi_19
+  rotate: false
+  xy: 398, 12
+  size: 28, 18
+  orig: 125, 97
+  offset: 49, 25
+  index: -1
+shuzi/shuzi_20
+  rotate: false
+  xy: 115, 65
+  size: 4, 1
+  orig: 125, 97
+  offset: 57, 33
+  index: -1

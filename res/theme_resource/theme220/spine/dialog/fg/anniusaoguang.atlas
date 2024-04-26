@@ -1,0 +1,118 @@
+
+anniusaoguang.png
+size: 741,319
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fg1/s_0
+  rotate: true
+  xy: 666, 2
+  size: 34, 73
+  orig: 361, 106
+  offset: 0, 14
+  index: -1
+fg1/s_1
+  rotate: false
+  xy: 652, 121
+  size: 67, 91
+  orig: 361, 106
+  offset: 0, 7
+  index: -1
+fg1/s_10
+  rotate: false
+  xy: 400, 214
+  size: 173, 103
+  orig: 361, 106
+  offset: 156, 0
+  index: -1
+fg1/s_11
+  rotate: false
+  xy: 187, 4
+  size: 163, 103
+  orig: 361, 106
+  offset: 188, 0
+  index: -1
+fg1/s_12
+  rotate: false
+  xy: 575, 214
+  size: 137, 103
+  orig: 361, 106
+  offset: 220, 0
+  index: -1
+fg1/s_13
+  rotate: false
+  xy: 541, 110
+  size: 109, 102
+  orig: 361, 106
+  offset: 252, 0
+  index: -1
+fg1/s_14
+  rotate: false
+  xy: 587, 14
+  size: 77, 94
+  orig: 361, 106
+  offset: 284, 6
+  index: -1
+fg1/s_15
+  rotate: false
+  xy: 666, 38
+  size: 45, 81
+  orig: 361, 106
+  offset: 316, 10
+  index: -1
+fg1/s_2
+  rotate: false
+  xy: 486, 6
+  size: 99, 101
+  orig: 361, 106
+  offset: 0, 1
+  index: -1
+fg1/s_3
+  rotate: false
+  xy: 352, 4
+  size: 132, 103
+  orig: 361, 106
+  offset: 0, 0
+  index: -1
+fg1/s_4
+  rotate: false
+  xy: 379, 109
+  size: 160, 103
+  orig: 361, 106
+  offset: 5, 0
+  index: -1
+fg1/s_5
+  rotate: false
+  xy: 197, 109
+  size: 180, 103
+  orig: 361, 106
+  offset: 18, 0
+  index: -1
+fg1/s_6
+  rotate: false
+  xy: 207, 214
+  size: 191, 103
+  orig: 361, 106
+  offset: 39, 0
+  index: -1
+fg1/s_7
+  rotate: false
+  xy: 2, 214
+  size: 203, 103
+  orig: 361, 106
+  offset: 60, 0
+  index: -1
+fg1/s_8
+  rotate: false
+  xy: 2, 109
+  size: 193, 103
+  orig: 361, 106
+  offset: 92, 0
+  index: -1
+fg1/s_9
+  rotate: false
+  xy: 2, 4
+  size: 183, 103
+  orig: 361, 106
+  offset: 124, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+jp_lz.png
+size: 997,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: false
+  xy: 963, 961
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lz1
+  rotate: false
+  xy: 2, 439
+  size: 775, 554
+  orig: 775, 554
+  offset: 0, 0
+  index: -1
+lz2
+  rotate: true
+  xy: 2, 3
+  size: 434, 608
+  orig: 434, 608
+  offset: 0, 0
+  index: -1
+lz3
+  rotate: false
+  xy: 779, 335
+  size: 182, 658
+  orig: 182, 658
+  offset: 0, 0
+  index: -1

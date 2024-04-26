@@ -1,0 +1,181 @@
+
+fg_tanchuang.png
+size: 1561,1559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti
+  rotate: true
+  xy: 214, 209
+  size: 852, 173
+  orig: 852, 173
+  offset: 0, 0
+  index: -1
+bkg
+  rotate: false
+  xy: 855, 1063
+  size: 340, 198
+  orig: 340, 198
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 1063
+  size: 851, 494
+  orig: 851, 494
+  offset: 0, 0
+  index: -1
+freegames
+  rotate: true
+  xy: 1460, 234
+  size: 263, 46
+  orig: 263, 46
+  offset: 0, 0
+  index: -1
+guangxiao05
+  rotate: false
+  xy: 855, 1263
+  size: 300, 294
+  orig: 300, 294
+  offset: 0, 0
+  index: -1
+sg01
+  rotate: false
+  xy: 389, 851
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg02
+  rotate: false
+  xy: 1157, 1347
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg03
+  rotate: false
+  xy: 389, 639
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg04
+  rotate: false
+  xy: 389, 427
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg05
+  rotate: false
+  xy: 389, 215
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg06
+  rotate: false
+  xy: 746, 851
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg07
+  rotate: false
+  xy: 746, 639
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg08
+  rotate: false
+  xy: 746, 427
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg09
+  rotate: false
+  xy: 746, 215
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg10
+  rotate: false
+  xy: 1197, 1135
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg11
+  rotate: false
+  xy: 1197, 923
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg12
+  rotate: false
+  xy: 1151, 711
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg13
+  rotate: false
+  xy: 1151, 499
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg14
+  rotate: false
+  xy: 1103, 287
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg15
+  rotate: false
+  xy: 1103, 75
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+sg16
+  rotate: false
+  xy: 389, 3
+  size: 355, 210
+  orig: 355, 210
+  offset: 0, 0
+  index: -1
+shuzikuang
+  rotate: true
+  xy: 2, 72
+  size: 989, 210
+  orig: 989, 210
+  offset: 0, 0
+  index: -1
+shuzikuang2
+  rotate: false
+  xy: 746, 42
+  size: 296, 171
+  orig: 296, 171
+  offset: 0, 0
+  index: -1
+wenzi3
+  rotate: true
+  xy: 1103, 651
+  size: 410, 46
+  orig: 410, 46
+  offset: 0, 0
+  index: -1
+youwin
+  rotate: true
+  xy: 1514, 1352
+  size: 205, 45
+  orig: 205, 45
+  offset: 0, 0
+  index: -1

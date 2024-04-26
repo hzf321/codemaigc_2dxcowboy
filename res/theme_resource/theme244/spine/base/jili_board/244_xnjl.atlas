@@ -1,0 +1,153 @@
+
+244_xnjl.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao
+  rotate: true
+  xy: 893, 763
+  size: 256, 127
+  orig: 256, 127
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 451, 176
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+ltui1
+  rotate: false
+  xy: 680, 20
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+ltui2
+  rotate: true
+  xy: 588, 17
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+ltui3
+  rotate: true
+  xy: 2, 2
+  size: 71, 118
+  orig: 71, 118
+  offset: 0, 0
+  index: -1
+ltui4
+  rotate: false
+  xy: 588, 108
+  size: 151, 207
+  orig: 151, 207
+  offset: 0, 0
+  index: -1
+nitu
+  rotate: true
+  xy: 734, 351
+  size: 183, 126
+  orig: 183, 126
+  offset: 0, 0
+  index: -1
+pigu
+  rotate: true
+  xy: 2, 75
+  size: 174, 260
+  orig: 174, 260
+  offset: 0, 0
+  index: -1
+rtui1
+  rotate: true
+  xy: 264, 82
+  size: 167, 101
+  orig: 167, 101
+  offset: 0, 0
+  index: -1
+rtui3
+  rotate: false
+  xy: 893, 679
+  size: 121, 82
+  orig: 121, 82
+  offset: 0, 0
+  index: -1
+rtui4
+  rotate: false
+  xy: 588, 317
+  size: 144, 217
+  orig: 144, 217
+  offset: 0, 0
+  index: -1
+rui2
+  rotate: false
+  xy: 877, 571
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 646
+  size: 598, 373
+  orig: 598, 373
+  offset: 0, 0
+  index: -1
+shitou
+  rotate: true
+  xy: 333, 257
+  size: 387, 164
+  orig: 387, 164
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 741, 124
+  size: 123, 225
+  orig: 123, 225
+  offset: 0, 0
+  index: -1
+shuye
+  rotate: true
+  xy: 367, 94
+  size: 15, 43
+  orig: 15, 43
+  offset: 0, 0
+  index: -1
+smoker
+  rotate: false
+  xy: 2, 251
+  size: 329, 393
+  orig: 329, 393
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 602, 693
+  size: 289, 326
+  orig: 289, 326
+  offset: 0, 0
+  index: -1
+tudi
+  rotate: true
+  xy: 499, 40
+  size: 604, 87
+  orig: 604, 87
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 367, 111
+  size: 82, 144
+  orig: 82, 144
+  offset: 0, 0
+  index: -1
+yuancao
+  rotate: false
+  xy: 602, 536
+  size: 273, 155
+  orig: 273, 155
+  offset: 0, 0
+  index: -1

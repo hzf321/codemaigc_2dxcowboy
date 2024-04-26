@@ -1,0 +1,118 @@
+
+grandtuowei.png
+size: 1054,578
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GRAND211 拷贝
+  rotate: true
+  xy: 638, 0
+  size: 324, 96
+  orig: 324, 96
+  offset: 0, 0
+  index: -1
+tuowei/tuowei_00
+  rotate: false
+  xy: 260, 326
+  size: 262, 124
+  orig: 306, 151
+  offset: 27, 20
+  index: -1
+tuowei/tuowei_01
+  rotate: false
+  xy: 792, 457
+  size: 262, 121
+  orig: 306, 151
+  offset: 28, 20
+  index: -1
+tuowei/tuowei_02
+  rotate: true
+  xy: 388, 61
+  size: 263, 123
+  orig: 306, 151
+  offset: 28, 20
+  index: -1
+tuowei/tuowei_03
+  rotate: true
+  xy: 259, 50
+  size: 263, 127
+  orig: 306, 151
+  offset: 28, 20
+  index: -1
+tuowei/tuowei_04
+  rotate: true
+  xy: 0, 48
+  size: 263, 128
+  orig: 306, 151
+  offset: 28, 20
+  index: -1
+tuowei/tuowei_05
+  rotate: true
+  xy: 130, 315
+  size: 263, 128
+  orig: 306, 151
+  offset: 28, 20
+  index: -1
+tuowei/tuowei_06
+  rotate: true
+  xy: 513, 61
+  size: 263, 123
+  orig: 306, 151
+  offset: 28, 20
+  index: -1
+tuowei/tuowei_07
+  rotate: true
+  xy: 0, 313
+  size: 265, 128
+  orig: 306, 151
+  offset: 26, 20
+  index: -1
+tuowei/tuowei_08
+  rotate: true
+  xy: 130, 48
+  size: 265, 127
+  orig: 306, 151
+  offset: 26, 20
+  index: -1
+tuowei/tuowei_09
+  rotate: false
+  xy: 524, 326
+  size: 260, 124
+  orig: 306, 151
+  offset: 28, 20
+  index: -1
+tuowei/tuowei_10
+  rotate: false
+  xy: 736, 90
+  size: 262, 119
+  orig: 306, 151
+  offset: 28, 20
+  index: -1
+tuowei/tuowei_11
+  rotate: false
+  xy: 786, 333
+  size: 264, 121
+  orig: 306, 151
+  offset: 27, 20
+  index: -1
+tuowei/tuowei_12
+  rotate: false
+  xy: 260, 452
+  size: 265, 126
+  orig: 306, 151
+  offset: 26, 20
+  index: -1
+tuowei/tuowei_13
+  rotate: false
+  xy: 786, 211
+  size: 264, 120
+  orig: 306, 151
+  offset: 26, 20
+  index: -1
+tuowei/tuowei_14
+  rotate: false
+  xy: 527, 456
+  size: 263, 122
+  orig: 306, 151
+  offset: 27, 20
+  index: -1

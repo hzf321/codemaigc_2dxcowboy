@@ -1,0 +1,27 @@
+
+kuang.png
+size: 311,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_0
+  rotate: false
+  xy: 2, 29
+  size: 136, 136
+  orig: 154, 154
+  offset: 9, 9
+  index: -1
+shizi
+  rotate: false
+  xy: 140, 121
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 2, 167
+  size: 307, 140
+  orig: 307, 307
+  offset: 0, 84
+  index: -1

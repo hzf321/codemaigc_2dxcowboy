@@ -1,0 +1,496 @@
+
+xiaojiedian.png
+size: 1937,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao_hongse/bao_hongse_00
+  rotate: false
+  xy: 1446, 174
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_hongse/bao_hongse_01
+  rotate: false
+  xy: 1547, 174
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_hongse/bao_hongse_02
+  rotate: false
+  xy: 1648, 174
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_hongse/bao_hongse_03
+  rotate: false
+  xy: 1749, 174
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_hongse/bao_hongse_04
+  rotate: false
+  xy: 320, 77
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_hongse/bao_hongse_05
+  rotate: false
+  xy: 320, 174
+  size: 101, 95
+  orig: 115, 111
+  offset: 5, 11
+  index: -1
+bao_hongse/bao_hongse_06
+  rotate: false
+  xy: 0, 22
+  size: 102, 95
+  orig: 115, 111
+  offset: 4, 11
+  index: -1
+bao_hongse/bao_hongse_07
+  rotate: false
+  xy: 527, 175
+  size: 101, 94
+  orig: 115, 111
+  offset: 3, 11
+  index: -1
+bao_hongse/bao_hongse_08
+  rotate: false
+  xy: 423, 175
+  size: 102, 94
+  orig: 115, 111
+  offset: 2, 11
+  index: -1
+bao_hongse/bao_hongse_09
+  rotate: false
+  xy: 630, 174
+  size: 100, 95
+  orig: 115, 111
+  offset: 4, 10
+  index: -1
+bao_hongse/bao_hongse_10
+  rotate: false
+  xy: 1232, 77
+  size: 97, 94
+  orig: 115, 111
+  offset: 6, 10
+  index: -1
+bao_hongse/bao_hongse_11
+  rotate: false
+  xy: 1531, 81
+  size: 91, 91
+  orig: 115, 111
+  offset: 9, 10
+  index: -1
+bao_hongse/bao_hongse_12
+  rotate: false
+  xy: 1624, 84
+  size: 90, 88
+  orig: 115, 111
+  offset: 9, 10
+  index: -1
+bao_hongse/bao_hongse_13
+  rotate: true
+  xy: 1850, 178
+  size: 91, 87
+  orig: 115, 111
+  offset: 8, 10
+  index: -1
+bao_hongse/bao_hongse_14
+  rotate: true
+  xy: 1850, 88
+  size: 88, 87
+  orig: 115, 111
+  offset: 11, 10
+  index: -1
+bao_hongse/bao_hongse_15
+  rotate: false
+  xy: 458, 0
+  size: 87, 86
+  orig: 115, 111
+  offset: 12, 10
+  index: -1
+bao_hongse/bao_hongse_16
+  rotate: false
+  xy: 519, 88
+  size: 87, 85
+  orig: 115, 111
+  offset: 12, 11
+  index: -1
+bao_hongse/bao_hongse_17
+  rotate: true
+  xy: 547, 0
+  size: 86, 84
+  orig: 115, 111
+  offset: 13, 11
+  index: -1
+bao_hongse/bao_hongse_18
+  rotate: true
+  xy: 633, 1
+  size: 85, 82
+  orig: 115, 111
+  offset: 13, 12
+  index: -1
+bao_hongse/bao_hongse_19
+  rotate: true
+  xy: 608, 88
+  size: 84, 80
+  orig: 115, 111
+  offset: 14, 12
+  index: -1
+bao_hongse/bao_hongse_20
+  rotate: false
+  xy: 104, 21
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_hongse/bao_hongse_21
+  rotate: false
+  xy: 205, 21
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_hongse/bao_hongse_22
+  rotate: false
+  xy: 929, 76
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_hongse/bao_hongse_23
+  rotate: false
+  xy: 1030, 76
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_hongse/bao_hongse_24
+  rotate: false
+  xy: 1131, 76
+  size: 99, 95
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_lanse/bao_lanse_00
+  rotate: false
+  xy: 732, 173
+  size: 100, 96
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_lanse/bao_lanse_01
+  rotate: false
+  xy: 834, 173
+  size: 100, 96
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_lanse/bao_lanse_02
+  rotate: false
+  xy: 936, 173
+  size: 100, 96
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_lanse/bao_lanse_03
+  rotate: false
+  xy: 1038, 173
+  size: 100, 96
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_lanse/bao_lanse_04
+  rotate: false
+  xy: 1140, 173
+  size: 100, 96
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_lanse/bao_lanse_05
+  rotate: false
+  xy: 1242, 173
+  size: 100, 96
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_lanse/bao_lanse_06
+  rotate: false
+  xy: 1344, 173
+  size: 100, 96
+  orig: 115, 111
+  offset: 7, 11
+  index: -1
+bao_lanse/bao_lanse_07
+  rotate: false
+  xy: 1432, 79
+  size: 97, 92
+  orig: 115, 111
+  offset: 8, 13
+  index: -1
+bao_lanse/bao_lanse_08
+  rotate: true
+  xy: 817, 0
+  size: 98, 92
+  orig: 115, 111
+  offset: 7, 13
+  index: -1
+bao_lanse/bao_lanse_09
+  rotate: false
+  xy: 1331, 79
+  size: 99, 92
+  orig: 115, 111
+  offset: 6, 13
+  index: -1
+bao_lanse/bao_lanse_10
+  rotate: false
+  xy: 717, 0
+  size: 98, 90
+  orig: 115, 111
+  offset: 5, 14
+  index: -1
+bao_lanse/bao_lanse_11
+  rotate: false
+  xy: 421, 88
+  size: 96, 84
+  orig: 115, 111
+  offset: 5, 17
+  index: -1
+bao_lanse/bao_lanse_12
+  rotate: false
+  xy: 690, 92
+  size: 89, 79
+  orig: 115, 111
+  offset: 5, 18
+  index: -1
+bao_lanse/bao_lanse_13
+  rotate: false
+  xy: 1716, 92
+  size: 85, 80
+  orig: 115, 111
+  offset: 7, 18
+  index: -1
+bao_lanse/bao_lanse_14
+  rotate: true
+  xy: 306, 2
+  size: 73, 77
+  orig: 115, 111
+  offset: 18, 19
+  index: -1
+bao_lanse/bao_lanse_15
+  rotate: true
+  xy: 385, 2
+  size: 73, 71
+  orig: 115, 111
+  offset: 18, 19
+  index: -1
+bao_lanse/bao_lanse_16
+  rotate: false
+  xy: 781, 100
+  size: 72, 71
+  orig: 115, 111
+  offset: 18, 19
+  index: -1
+bao_lanse/bao_lanse_17
+  rotate: false
+  xy: 855, 100
+  size: 72, 71
+  orig: 115, 111
+  offset: 18, 19
+  index: -1
+bao_lanse/bao_lanse_18
+  rotate: false
+  xy: 911, 4
+  size: 71, 70
+  orig: 115, 111
+  offset: 19, 19
+  index: -1
+bao_lanse/bao_lanse_19
+  rotate: false
+  xy: 984, 4
+  size: 71, 70
+  orig: 115, 111
+  offset: 19, 19
+  index: -1
+bao_lanse/bao_lanse_20
+  rotate: false
+  xy: 1057, 4
+  size: 71, 70
+  orig: 115, 111
+  offset: 19, 19
+  index: -1
+bao_lanse/bao_lanse_21
+  rotate: false
+  xy: 1130, 5
+  size: 68, 69
+  orig: 115, 111
+  offset: 21, 20
+  index: -1
+bao_lanse/bao_lanse_22
+  rotate: false
+  xy: 1200, 6
+  size: 67, 68
+  orig: 115, 111
+  offset: 22, 20
+  index: -1
+bao_lanse/bao_lanse_23
+  rotate: false
+  xy: 1269, 8
+  size: 67, 67
+  orig: 115, 111
+  offset: 22, 20
+  index: -1
+bao_lanse/bao_lanse_24
+  rotate: false
+  xy: 1338, 11
+  size: 66, 66
+  orig: 115, 111
+  offset: 23, 20
+  index: -1
+theme194_map_4
+  rotate: false
+  xy: 0, 119
+  size: 159, 150
+  orig: 159, 155
+  offset: 0, 5
+  index: -1
+theme194_map_5
+  rotate: false
+  xy: 161, 118
+  size: 157, 151
+  orig: 157, 156
+  offset: 0, 5
+  index: -1
+weirao_hong/weirao_hong_01
+  rotate: false
+  xy: 0, 6
+  size: 10, 14
+  orig: 115, 111
+  offset: 26, 43
+  index: -1
+weirao_hong/weirao_hong_03
+  rotate: true
+  xy: 1803, 92
+  size: 21, 29
+  orig: 115, 111
+  offset: 23, 29
+  index: -1
+weirao_hong/weirao_hong_05
+  rotate: true
+  xy: 1678, 41
+  size: 41, 31
+  orig: 115, 111
+  offset: 22, 28
+  index: -1
+weirao_hong/weirao_hong_07
+  rotate: true
+  xy: 1803, 115
+  size: 57, 32
+  orig: 115, 111
+  offset: 22, 27
+  index: -1
+weirao_hong/weirao_hong_09
+  rotate: false
+  xy: 1542, 30
+  size: 66, 49
+  orig: 115, 111
+  offset: 23, 28
+  index: -1
+weirao_hong/weirao_hong_11
+  rotate: false
+  xy: 1406, 22
+  size: 66, 55
+  orig: 115, 111
+  offset: 24, 28
+  index: -1
+weirao_hong/weirao_hong_13
+  rotate: false
+  xy: 1784, 38
+  size: 51, 52
+  orig: 115, 111
+  offset: 40, 32
+  index: -1
+weirao_hong/weirao_hong_15
+  rotate: false
+  xy: 1610, 36
+  size: 32, 43
+  orig: 115, 111
+  offset: 59, 41
+  index: -1
+weirao_hong/weirao_hong_17
+  rotate: false
+  xy: 1542, 0
+  size: 22, 28
+  orig: 115, 111
+  offset: 68, 55
+  index: -1
+weirao_lan/weirao_lan_01
+  rotate: false
+  xy: 306, 102
+  size: 10, 14
+  orig: 115, 101
+  offset: 26, 43
+  index: -1
+weirao_lan/weirao_lan_03
+  rotate: true
+  xy: 1590, 7
+  size: 21, 29
+  orig: 115, 101
+  offset: 23, 29
+  index: -1
+weirao_lan/weirao_lan_05
+  rotate: false
+  xy: 1621, 3
+  size: 41, 31
+  orig: 115, 101
+  offset: 22, 28
+  index: -1
+weirao_lan/weirao_lan_07
+  rotate: true
+  xy: 1891, 29
+  size: 57, 32
+  orig: 115, 101
+  offset: 22, 27
+  index: -1
+weirao_lan/weirao_lan_09
+  rotate: false
+  xy: 1716, 41
+  size: 66, 49
+  orig: 115, 101
+  offset: 23, 28
+  index: -1
+weirao_lan/weirao_lan_11
+  rotate: false
+  xy: 1474, 22
+  size: 66, 55
+  orig: 115, 101
+  offset: 24, 28
+  index: -1
+weirao_lan/weirao_lan_13
+  rotate: true
+  xy: 1837, 35
+  size: 51, 52
+  orig: 115, 101
+  offset: 40, 32
+  index: -1
+weirao_lan/weirao_lan_15
+  rotate: false
+  xy: 1644, 39
+  size: 32, 43
+  orig: 115, 101
+  offset: 59, 41
+  index: -1
+weirao_lan/weirao_lan_17
+  rotate: false
+  xy: 1566, 0
+  size: 22, 28
+  orig: 115, 101
+  offset: 68, 55
+  index: -1

@@ -1,0 +1,13 @@
+
+map_ui.png
+size: 127,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui
+  rotate: false
+  xy: 2, 2
+  size: 105, 123
+  orig: 105, 123
+  offset: 0, 0
+  index: -1

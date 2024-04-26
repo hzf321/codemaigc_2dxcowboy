@@ -1,0 +1,20 @@
+
+spindaidianji.png
+size: 164,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang02
+  rotate: false
+  xy: 0, 1
+  size: 82, 79
+  orig: 82, 79
+  offset: 0, 0
+  index: -1
+guangquan01
+  rotate: false
+  xy: 84, 0
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

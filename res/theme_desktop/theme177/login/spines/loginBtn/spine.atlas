@@ -1,0 +1,153 @@
+
+spine.png
+size: 1032,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PLAY
+  rotate: false
+  xy: 2, 15
+  size: 403, 110
+  orig: 403, 110
+  offset: 0, 0
+  index: -1
+PLAY_1
+  rotate: false
+  xy: 2, 127
+  size: 484, 158
+  orig: 484, 158
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 488, 98
+  size: 374, 187
+  orig: 374, 187
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: false
+  xy: 407, 9
+  size: 201, 87
+  orig: 204, 87
+  offset: 3, 0
+  index: -1
+xx
+  rotate: false
+  xy: 864, 146
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+yansan01
+  rotate: false
+  xy: 926, 56
+  size: 56, 42
+  orig: 73, 61
+  offset: 8, 10
+  index: -1
+yansan02
+  rotate: true
+  xy: 984, 28
+  size: 56, 43
+  orig: 73, 61
+  offset: 8, 9
+  index: -1
+yansan03
+  rotate: false
+  xy: 864, 54
+  size: 57, 43
+  orig: 73, 61
+  offset: 8, 9
+  index: -1
+yansan04
+  rotate: false
+  xy: 732, 6
+  size: 58, 44
+  orig: 73, 61
+  offset: 7, 8
+  index: -1
+yansan05
+  rotate: false
+  xy: 796, 52
+  size: 59, 44
+  orig: 73, 61
+  offset: 6, 8
+  index: -1
+yansan06
+  rotate: false
+  xy: 610, 6
+  size: 59, 44
+  orig: 73, 61
+  offset: 6, 8
+  index: -1
+yansan07
+  rotate: false
+  xy: 671, 6
+  size: 59, 44
+  orig: 73, 61
+  offset: 6, 8
+  index: -1
+yansan08
+  rotate: false
+  xy: 610, 52
+  size: 60, 44
+  orig: 73, 61
+  offset: 5, 7
+  index: -1
+yansan09
+  rotate: false
+  xy: 926, 100
+  size: 60, 44
+  orig: 73, 61
+  offset: 5, 7
+  index: -1
+yansan10
+  rotate: false
+  xy: 864, 99
+  size: 60, 45
+  orig: 73, 61
+  offset: 5, 6
+  index: -1
+yansan11
+  rotate: false
+  xy: 672, 52
+  size: 60, 44
+  orig: 73, 61
+  offset: 5, 6
+  index: -1
+yansan12
+  rotate: false
+  xy: 734, 52
+  size: 60, 44
+  orig: 73, 61
+  offset: 5, 6
+  index: -1
+yansan13
+  rotate: false
+  xy: 792, 7
+  size: 59, 43
+  orig: 73, 61
+  offset: 5, 6
+  index: -1
+yansan14
+  rotate: true
+  xy: 988, 86
+  size: 58, 42
+  orig: 73, 61
+  offset: 5, 6
+  index: -1
+yansan15
+  rotate: true
+  xy: 853, 2
+  size: 48, 42
+  orig: 73, 61
+  offset: 6, 6
+  index: -1
+yansan16
+  rotate: true
+  xy: 897, 4
+  size: 48, 42
+  orig: 73, 61
+  offset: 6, 6
+  index: -1

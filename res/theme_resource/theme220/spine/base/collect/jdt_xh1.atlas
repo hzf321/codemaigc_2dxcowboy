@@ -1,0 +1,132 @@
+
+jdt_xh1.png
+size: 596,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/jdt/jdt_0
+  rotate: false
+  xy: 2, 526
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_1
+  rotate: false
+  xy: 2, 492
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_10
+  rotate: false
+  xy: 2, 220
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_11
+  rotate: false
+  xy: 2, 186
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_12
+  rotate: false
+  xy: 2, 152
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_13
+  rotate: false
+  xy: 2, 118
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_14
+  rotate: false
+  xy: 2, 84
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_15
+  rotate: false
+  xy: 2, 50
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_16
+  rotate: false
+  xy: 2, 16
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_17
+  rotate: true
+  xy: 562, 34
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_2
+  rotate: false
+  xy: 2, 458
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_3
+  rotate: false
+  xy: 2, 424
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_4
+  rotate: false
+  xy: 2, 390
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_5
+  rotate: false
+  xy: 2, 356
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_6
+  rotate: false
+  xy: 2, 322
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_7
+  rotate: false
+  xy: 2, 288
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_8
+  rotate: false
+  xy: 2, 254
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1
+tx/jdt/jdt_9
+  rotate: false
+  xy: 2, 560
+  size: 558, 32
+  orig: 570, 58
+  offset: 6, 13
+  index: -1

@@ -1,0 +1,146 @@
+
+240_respin_tuowei.png
+size: 593,593
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tuow/01_000
+  rotate: false
+  xy: 483, 242
+  size: 57, 68
+  orig: 72, 352
+  offset: 9, 32
+  index: -1
+tuow/01_001
+  rotate: false
+  xy: 315, 51
+  size: 60, 90
+  orig: 72, 352
+  offset: 7, 30
+  index: -1
+tuow/01_002
+  rotate: false
+  xy: 315, 143
+  size: 60, 110
+  orig: 72, 352
+  offset: 7, 29
+  index: -1
+tuow/01_003
+  rotate: false
+  xy: 191, 104
+  size: 61, 139
+  orig: 72, 352
+  offset: 6, 26
+  index: -1
+tuow/01_004
+  rotate: false
+  xy: 128, 77
+  size: 61, 166
+  orig: 72, 352
+  offset: 7, 24
+  index: -1
+tuow/01_005
+  rotate: false
+  xy: 65, 45
+  size: 61, 192
+  orig: 72, 352
+  offset: 7, 22
+  index: -1
+tuow/01_006
+  rotate: false
+  xy: 2, 16
+  size: 61, 221
+  orig: 72, 352
+  offset: 7, 19
+  index: -1
+tuow/01_007
+  rotate: false
+  xy: 254, 2
+  size: 59, 247
+  orig: 72, 352
+  offset: 8, 16
+  index: -1
+tuow/01_008
+  rotate: false
+  xy: 480, 312
+  size: 60, 279
+  orig: 72, 352
+  offset: 8, 11
+  index: -1
+tuow/01_009
+  rotate: false
+  xy: 361, 284
+  size: 61, 307
+  orig: 72, 352
+  offset: 8, 7
+  index: -1
+tuow/01_010
+  rotate: false
+  xy: 300, 255
+  size: 59, 336
+  orig: 72, 352
+  offset: 9, 3
+  index: -1
+tuow/01_011
+  rotate: false
+  xy: 2, 239
+  size: 60, 352
+  orig: 72, 352
+  offset: 9, 0
+  index: -1
+tuow/01_012
+  rotate: false
+  xy: 64, 239
+  size: 57, 352
+  orig: 72, 352
+  offset: 10, 0
+  index: -1
+tuow/01_013
+  rotate: false
+  xy: 123, 245
+  size: 57, 346
+  orig: 72, 352
+  offset: 10, 6
+  index: -1
+tuow/01_014
+  rotate: false
+  xy: 182, 245
+  size: 57, 346
+  orig: 72, 352
+  offset: 10, 6
+  index: -1
+tuow/01_015
+  rotate: false
+  xy: 241, 251
+  size: 57, 340
+  orig: 72, 352
+  offset: 10, 12
+  index: -1
+tuow/01_016
+  rotate: false
+  xy: 424, 297
+  size: 54, 294
+  orig: 72, 352
+  offset: 12, 58
+  index: -1
+tuow/01_017
+  rotate: false
+  xy: 377, 7
+  size: 52, 275
+  orig: 72, 352
+  offset: 14, 77
+  index: -1
+tuow/01_018
+  rotate: false
+  xy: 431, 22
+  size: 50, 273
+  orig: 72, 352
+  offset: 15, 79
+  index: -1
+tuow/01_019
+  rotate: false
+  xy: 542, 315
+  size: 43, 276
+  orig: 72, 352
+  offset: 15, 76
+  index: -1

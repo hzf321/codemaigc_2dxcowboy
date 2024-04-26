@@ -1,0 +1,496 @@
+
+jpjizhong.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baodian/baodian_00
+  rotate: false
+  xy: 1458, 127
+  size: 67, 66
+  orig: 206, 198
+  offset: 62, 68
+  index: -1
+baodian/baodian_01
+  rotate: false
+  xy: 2, 328
+  size: 182, 182
+  orig: 206, 198
+  offset: 5, 6
+  index: -1
+baodian/baodian_02
+  rotate: false
+  xy: 536, 55
+  size: 139, 139
+  orig: 206, 198
+  offset: 26, 28
+  index: -1
+baodian/baodian_03
+  rotate: false
+  xy: 1875, 256
+  size: 95, 95
+  orig: 206, 198
+  offset: 48, 50
+  index: -1
+baodian/baodian_04
+  rotate: false
+  xy: 536, 2
+  size: 51, 51
+  orig: 206, 198
+  offset: 70, 72
+  index: -1
+baodian/baodian_05
+  rotate: false
+  xy: 1458, 116
+  size: 8, 9
+  orig: 206, 198
+  offset: 91, 93
+  index: -1
+jphuo/jphuo_00
+  rotate: false
+  xy: 1563, 162
+  size: 18, 35
+  orig: 197, 129
+  offset: 41, 33
+  index: -1
+jphuo/jphuo_01
+  rotate: false
+  xy: 1583, 166
+  size: 26, 35
+  orig: 197, 129
+  offset: 41, 33
+  index: -1
+jphuo/jphuo_02
+  rotate: false
+  xy: 1658, 234
+  size: 31, 35
+  orig: 197, 129
+  offset: 44, 33
+  index: -1
+jphuo/jphuo_03
+  rotate: false
+  xy: 1691, 248
+  size: 39, 35
+  orig: 197, 129
+  offset: 44, 33
+  index: -1
+jphuo/jphuo_04
+  rotate: false
+  xy: 1476, 90
+  size: 47, 35
+  orig: 197, 129
+  offset: 44, 33
+  index: -1
+jphuo/jphuo_05
+  rotate: false
+  xy: 674, 6
+  size: 54, 35
+  orig: 197, 129
+  offset: 45, 33
+  index: -1
+jphuo/jphuo_06
+  rotate: false
+  xy: 1583, 239
+  size: 73, 30
+  orig: 197, 129
+  offset: 34, 33
+  index: -1
+jphuo/jphuo_07
+  rotate: false
+  xy: 1107, 4
+  size: 84, 30
+  orig: 197, 129
+  offset: 31, 33
+  index: -1
+jphuo/jphuo_08
+  rotate: false
+  xy: 1381, 47
+  size: 89, 30
+  orig: 197, 129
+  offset: 34, 33
+  index: -1
+jphuo/jphuo_09
+  rotate: false
+  xy: 1220, 92
+  size: 96, 30
+  orig: 197, 129
+  offset: 32, 33
+  index: -1
+jphuo/jphuo_10
+  rotate: false
+  xy: 1381, 79
+  size: 93, 35
+  orig: 197, 129
+  offset: 33, 33
+  index: -1
+jphuo/jphuo_11
+  rotate: false
+  xy: 589, 18
+  size: 83, 35
+  orig: 197, 129
+  offset: 41, 33
+  index: -1
+jphuo/jphuo_12
+  rotate: false
+  xy: 1379, 10
+  size: 76, 35
+  orig: 197, 129
+  offset: 48, 33
+  index: -1
+jphuo/jphuo_13
+  rotate: false
+  xy: 1309, 14
+  size: 68, 35
+  orig: 197, 129
+  offset: 56, 33
+  index: -1
+jphuo/jphuo_14
+  rotate: false
+  xy: 1583, 203
+  size: 58, 34
+  orig: 197, 129
+  offset: 65, 33
+  index: -1
+jphuo/jphuo_15
+  rotate: false
+  xy: 730, 2
+  size: 49, 29
+  orig: 197, 129
+  offset: 74, 33
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_01
+  rotate: false
+  xy: 1611, 167
+  size: 27, 34
+  orig: 197, 129
+  offset: 33, 53
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_02
+  rotate: false
+  xy: 1688, 285
+  size: 49, 64
+  orig: 197, 129
+  offset: 25, 32
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_03
+  rotate: false
+  xy: 1220, 124
+  size: 64, 70
+  orig: 197, 129
+  offset: 25, 27
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_04
+  rotate: false
+  xy: 1381, 116
+  size: 75, 75
+  orig: 197, 129
+  offset: 25, 22
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_05
+  rotate: false
+  xy: 1014, 109
+  size: 85, 76
+  orig: 197, 129
+  offset: 25, 21
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_06
+  rotate: false
+  xy: 1009, 29
+  size: 96, 78
+  orig: 197, 129
+  offset: 25, 20
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_07
+  rotate: false
+  xy: 1107, 36
+  size: 107, 78
+  orig: 197, 129
+  offset: 25, 20
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_08
+  rotate: false
+  xy: 1101, 116
+  size: 117, 78
+  orig: 197, 129
+  offset: 25, 20
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_09
+  rotate: false
+  xy: 1427, 270
+  size: 129, 78
+  orig: 197, 129
+  offset: 25, 20
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_10
+  rotate: false
+  xy: 1558, 271
+  size: 128, 78
+  orig: 197, 129
+  offset: 25, 20
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_11
+  rotate: false
+  xy: 1156, 196
+  size: 128, 77
+  orig: 197, 129
+  offset: 25, 20
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_12
+  rotate: false
+  xy: 1286, 193
+  size: 127, 77
+  orig: 197, 129
+  offset: 26, 20
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_13
+  rotate: false
+  xy: 1295, 272
+  size: 130, 76
+  orig: 197, 129
+  offset: 26, 21
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_14
+  rotate: false
+  xy: 741, 110
+  size: 135, 75
+  orig: 197, 129
+  offset: 26, 21
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_15
+  rotate: false
+  xy: 878, 109
+  size: 134, 76
+  orig: 197, 129
+  offset: 27, 21
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_16
+  rotate: false
+  xy: 741, 33
+  size: 133, 75
+  orig: 197, 129
+  offset: 28, 21
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_17
+  rotate: false
+  xy: 876, 32
+  size: 131, 75
+  orig: 197, 129
+  offset: 30, 21
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_18
+  rotate: false
+  xy: 1415, 195
+  size: 127, 73
+  orig: 197, 129
+  offset: 34, 22
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_19
+  rotate: false
+  xy: 1162, 275
+  size: 131, 73
+  orig: 197, 129
+  offset: 29, 22
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_20
+  rotate: false
+  xy: 1741, 278
+  size: 132, 73
+  orig: 197, 129
+  offset: 26, 22
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_21
+  rotate: false
+  xy: 1216, 23
+  size: 91, 67
+  orig: 197, 129
+  offset: 65, 25
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_22
+  rotate: false
+  xy: 1286, 124
+  size: 93, 67
+  orig: 197, 129
+  offset: 55, 26
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_23
+  rotate: false
+  xy: 1318, 51
+  size: 61, 71
+  orig: 197, 129
+  offset: 61, 24
+  index: -1
+jpjizhong_lanse/jpjizhong_lanse_24
+  rotate: false
+  xy: 1544, 199
+  size: 37, 69
+  orig: 197, 129
+  offset: 80, 24
+  index: -1
+jpjizhongda/jpjizhongda_01
+  rotate: false
+  xy: 1527, 139
+  size: 34, 54
+  orig: 245, 208
+  offset: 19, 111
+  index: -1
+jpjizhongda/jpjizhongda_02
+  rotate: false
+  xy: 1972, 251
+  size: 68, 104
+  orig: 245, 208
+  offset: 8, 70
+  index: -1
+jpjizhongda/jpjizhongda_03
+  rotate: false
+  xy: 1062, 200
+  size: 92, 147
+  orig: 245, 208
+  offset: 7, 29
+  index: -1
+jpjizhongda/jpjizhongda_04
+  rotate: false
+  xy: 1933, 357
+  size: 110, 153
+  orig: 245, 208
+  offset: 7, 23
+  index: -1
+jpjizhongda/jpjizhongda_05
+  rotate: false
+  xy: 934, 187
+  size: 126, 160
+  orig: 245, 208
+  offset: 7, 16
+  index: -1
+jpjizhongda/jpjizhongda_06
+  rotate: false
+  xy: 789, 187
+  size: 143, 160
+  orig: 245, 208
+  offset: 7, 16
+  index: -1
+jpjizhongda/jpjizhongda_07
+  rotate: false
+  xy: 374, 25
+  size: 160, 161
+  orig: 245, 208
+  offset: 7, 15
+  index: -1
+jpjizhongda/jpjizhongda_08
+  rotate: false
+  xy: 194, 25
+  size: 178, 161
+  orig: 245, 208
+  offset: 7, 15
+  index: -1
+jpjizhongda/jpjizhongda_09
+  rotate: false
+  xy: 186, 348
+  size: 194, 162
+  orig: 245, 208
+  offset: 7, 15
+  index: -1
+jpjizhongda/jpjizhongda_10
+  rotate: false
+  xy: 382, 349
+  size: 194, 161
+  orig: 245, 208
+  offset: 7, 16
+  index: -1
+jpjizhongda/jpjizhongda_11
+  rotate: false
+  xy: 578, 349
+  size: 193, 161
+  orig: 245, 208
+  offset: 7, 15
+  index: -1
+jpjizhongda/jpjizhongda_12
+  rotate: false
+  xy: 773, 349
+  size: 193, 161
+  orig: 245, 208
+  offset: 7, 15
+  index: -1
+jpjizhongda/jpjizhongda_13
+  rotate: false
+  xy: 968, 349
+  size: 192, 161
+  orig: 245, 208
+  offset: 8, 15
+  index: -1
+jpjizhongda/jpjizhongda_14
+  rotate: false
+  xy: 1162, 350
+  size: 192, 160
+  orig: 245, 208
+  offset: 8, 15
+  index: -1
+jpjizhongda/jpjizhongda_15
+  rotate: false
+  xy: 1356, 350
+  size: 191, 160
+  orig: 245, 208
+  offset: 9, 15
+  index: -1
+jpjizhongda/jpjizhongda_16
+  rotate: false
+  xy: 1549, 351
+  size: 190, 159
+  orig: 245, 208
+  offset: 10, 16
+  index: -1
+jpjizhongda/jpjizhongda_17
+  rotate: false
+  xy: 2, 168
+  size: 188, 158
+  orig: 245, 208
+  offset: 12, 16
+  index: -1
+jpjizhongda/jpjizhongda_18
+  rotate: false
+  xy: 192, 188
+  size: 185, 158
+  orig: 245, 208
+  offset: 15, 16
+  index: -1
+jpjizhongda/jpjizhongda_19
+  rotate: false
+  xy: 1741, 353
+  size: 190, 157
+  orig: 245, 208
+  offset: 9, 17
+  index: -1
+jpjizhongda/jpjizhongda_20
+  rotate: false
+  xy: 2, 9
+  size: 190, 157
+  orig: 245, 208
+  offset: 8, 16
+  index: -1
+jpjizhongda/jpjizhongda_21
+  rotate: false
+  xy: 639, 197
+  size: 148, 150
+  orig: 245, 208
+  offset: 46, 20
+  index: -1
+jpjizhongda/jpjizhongda_22
+  rotate: false
+  xy: 485, 196
+  size: 152, 151
+  orig: 245, 208
+  offset: 35, 21
+  index: -1
+jpjizhongda/jpjizhongda_23
+  rotate: false
+  xy: 379, 191
+  size: 104, 155
+  orig: 245, 208
+  offset: 40, 19
+  index: -1
+jpjizhongda/jpjizhongda_24
+  rotate: false
+  xy: 677, 43
+  size: 62, 152
+  orig: 245, 208
+  offset: 74, 20
+  index: -1

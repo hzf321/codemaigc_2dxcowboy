@@ -1,0 +1,426 @@
+
+jili1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jili1/jili1_00
+  rotate: false
+  xy: 764, 768
+  size: 67, 233
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_01
+  rotate: false
+  xy: 833, 768
+  size: 67, 233
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_02
+  rotate: false
+  xy: 1109, 769
+  size: 67, 232
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_03
+  rotate: false
+  xy: 1178, 769
+  size: 67, 232
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_04
+  rotate: false
+  xy: 350, 766
+  size: 67, 235
+  orig: 83, 255
+  offset: 4, 8
+  index: -1
+jili1/jili1_05
+  rotate: false
+  xy: 71, 40
+  size: 67, 235
+  orig: 83, 255
+  offset: 4, 7
+  index: -1
+jili1/jili1_06
+  rotate: false
+  xy: 1661, 770
+  size: 67, 231
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_07
+  rotate: false
+  xy: 485, 234
+  size: 67, 229
+  orig: 83, 255
+  offset: 4, 11
+  index: -1
+jili1/jili1_08
+  rotate: false
+  xy: 209, 296
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_09
+  rotate: false
+  xy: 140, 521
+  size: 67, 238
+  orig: 83, 255
+  offset: 4, 7
+  index: -1
+jili1/jili1_10
+  rotate: false
+  xy: 71, 758
+  size: 67, 243
+  orig: 83, 255
+  offset: 4, 3
+  index: -1
+jili1/jili1_11
+  rotate: false
+  xy: 2, 755
+  size: 67, 246
+  orig: 83, 255
+  offset: 4, 0
+  index: -1
+jili1/jili1_12
+  rotate: false
+  xy: 140, 45
+  size: 67, 235
+  orig: 83, 255
+  offset: 4, 11
+  index: -1
+jili1/jili1_13
+  rotate: false
+  xy: 902, 768
+  size: 67, 233
+  orig: 83, 255
+  offset: 4, 12
+  index: -1
+jili1/jili1_14
+  rotate: false
+  xy: 1247, 769
+  size: 67, 232
+  orig: 83, 255
+  offset: 4, 12
+  index: -1
+jili1/jili1_15
+  rotate: false
+  xy: 209, 64
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 13
+  index: -1
+jili1/jili1_16
+  rotate: false
+  xy: 278, 530
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 12
+  index: -1
+jili1/jili1_17
+  rotate: false
+  xy: 347, 3
+  size: 67, 228
+  orig: 83, 255
+  offset: 4, 12
+  index: -1
+jili1/jili1_18
+  rotate: false
+  xy: 278, 298
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_19
+  rotate: false
+  xy: 1316, 769
+  size: 67, 232
+  orig: 83, 255
+  offset: 4, 8
+  index: -1
+jili1/jili1_20
+  rotate: false
+  xy: 554, 465
+  size: 66, 230
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_21
+  rotate: false
+  xy: 554, 234
+  size: 67, 229
+  orig: 83, 255
+  offset: 4, 11
+  index: -1
+jili1/jili1_22
+  rotate: false
+  xy: 416, 2
+  size: 67, 229
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_23
+  rotate: false
+  xy: 1730, 770
+  size: 67, 231
+  orig: 83, 255
+  offset: 4, 8
+  index: -1
+jili1/jili1_24
+  rotate: false
+  xy: 626, 767
+  size: 67, 234
+  orig: 83, 255
+  offset: 4, 5
+  index: -1
+jili1/jili1_25
+  rotate: false
+  xy: 71, 277
+  size: 67, 237
+  orig: 83, 255
+  offset: 4, 2
+  index: -1
+jili1/jili1_26
+  rotate: false
+  xy: 211, 762
+  size: 68, 239
+  orig: 83, 255
+  offset: 4, 0
+  index: -1
+jili1/jili1_27
+  rotate: false
+  xy: 140, 761
+  size: 69, 240
+  orig: 83, 255
+  offset: 4, 0
+  index: -1
+jili1/jili1_28
+  rotate: false
+  xy: 1799, 770
+  size: 67, 231
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili1/jili1_29
+  rotate: false
+  xy: 1868, 770
+  size: 67, 231
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili11/jili11_00
+  rotate: false
+  xy: 971, 768
+  size: 67, 233
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili11/jili11_01
+  rotate: false
+  xy: 1385, 769
+  size: 67, 232
+  orig: 83, 255
+  offset: 4, 11
+  index: -1
+jili11/jili11_02
+  rotate: false
+  xy: 1937, 770
+  size: 67, 231
+  orig: 83, 255
+  offset: 4, 11
+  index: -1
+jili11/jili11_03
+  rotate: false
+  xy: 1454, 769
+  size: 67, 232
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili11/jili11_04
+  rotate: false
+  xy: 419, 766
+  size: 67, 235
+  orig: 83, 255
+  offset: 4, 8
+  index: -1
+jili11/jili11_05
+  rotate: false
+  xy: 488, 766
+  size: 67, 235
+  orig: 83, 255
+  offset: 4, 7
+  index: -1
+jili11/jili11_06
+  rotate: true
+  xy: 350, 697
+  size: 67, 231
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili11/jili11_07
+  rotate: false
+  xy: 485, 3
+  size: 67, 229
+  orig: 83, 255
+  offset: 4, 11
+  index: -1
+jili11/jili11_08
+  rotate: false
+  xy: 278, 66
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili11/jili11_09
+  rotate: false
+  xy: 281, 763
+  size: 67, 238
+  orig: 83, 255
+  offset: 4, 7
+  index: -1
+jili11/jili11_10
+  rotate: false
+  xy: 2, 262
+  size: 67, 243
+  orig: 83, 255
+  offset: 4, 3
+  index: -1
+jili11/jili11_11
+  rotate: false
+  xy: 2, 507
+  size: 67, 246
+  orig: 83, 255
+  offset: 4, 0
+  index: -1
+jili11/jili11_12
+  rotate: false
+  xy: 557, 766
+  size: 67, 235
+  orig: 83, 255
+  offset: 4, 11
+  index: -1
+jili11/jili11_13
+  rotate: false
+  xy: 1040, 768
+  size: 67, 233
+  orig: 83, 255
+  offset: 4, 12
+  index: -1
+jili11/jili11_14
+  rotate: false
+  xy: 1523, 769
+  size: 67, 232
+  orig: 83, 255
+  offset: 4, 12
+  index: -1
+jili11/jili11_15
+  rotate: false
+  xy: 347, 465
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 13
+  index: -1
+jili11/jili11_16
+  rotate: false
+  xy: 347, 233
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 12
+  index: -1
+jili11/jili11_17
+  rotate: true
+  xy: 1340, 700
+  size: 67, 228
+  orig: 83, 255
+  offset: 4, 12
+  index: -1
+jili11/jili11_18
+  rotate: false
+  xy: 416, 465
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili11/jili11_19
+  rotate: false
+  xy: 1592, 769
+  size: 67, 232
+  orig: 83, 255
+  offset: 4, 8
+  index: -1
+jili11/jili11_20
+  rotate: true
+  xy: 764, 700
+  size: 66, 230
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili11/jili11_21
+  rotate: false
+  xy: 554, 3
+  size: 67, 229
+  orig: 83, 255
+  offset: 4, 11
+  index: -1
+jili11/jili11_22
+  rotate: true
+  xy: 1109, 700
+  size: 67, 229
+  orig: 83, 255
+  offset: 4, 10
+  index: -1
+jili11/jili11_23
+  rotate: false
+  xy: 209, 528
+  size: 67, 231
+  orig: 83, 255
+  offset: 4, 8
+  index: -1
+jili11/jili11_24
+  rotate: false
+  xy: 695, 767
+  size: 67, 234
+  orig: 83, 255
+  offset: 4, 5
+  index: -1
+jili11/jili11_25
+  rotate: false
+  xy: 140, 282
+  size: 67, 237
+  orig: 83, 255
+  offset: 4, 2
+  index: -1
+jili11/jili11_26
+  rotate: false
+  xy: 2, 21
+  size: 67, 239
+  orig: 83, 255
+  offset: 4, 0
+  index: -1
+jili11/jili11_27
+  rotate: false
+  xy: 71, 516
+  size: 67, 240
+  orig: 83, 255
+  offset: 4, 0
+  index: -1
+jili11/jili11_28
+  rotate: false
+  xy: 416, 233
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 11
+  index: -1
+jili11/jili11_29
+  rotate: false
+  xy: 485, 465
+  size: 67, 230
+  orig: 83, 255
+  offset: 4, 11
+  index: -1

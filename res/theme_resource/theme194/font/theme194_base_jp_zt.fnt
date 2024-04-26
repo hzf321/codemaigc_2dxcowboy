@@ -1,0 +1,23 @@
+info face="Terminal" size=-26 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,1,1,0 spacing=1,1 outline=0
+common lineHeight=48 base=22 scaleW=600 scaleH=300 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="theme194_base_jp_zt.png"
+chars count=19
+char id=44   x=570   y=0     width=21    height=49    xoffset=0     yoffset=0     xadvance=20    page=0  chnl=15
+char id=46   x=62    y=50    width=17    height=49    xoffset=0     yoffset=0     xadvance=16    page=0  chnl=15
+char id=48   x=85    y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=49   x=124   y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=50   x=163   y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=51   x=202   y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=52   x=241   y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=53   x=280   y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=54   x=319   y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=55   x=358   y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=56   x=397   y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=57   x=436   y=0     width=38    height=49    xoffset=0     yoffset=0     xadvance=37    page=0  chnl=15
+char id=66   x=475   y=0     width=31    height=49    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=75   x=45    y=0     width=39    height=49    xoffset=0     yoffset=0     xadvance=38    page=0  chnl=15
+char id=77   x=0     y=0     width=44    height=49    xoffset=0     yoffset=0     xadvance=43    page=0  chnl=15
+char id=79   x=539   y=0     width=30    height=49    xoffset=0     yoffset=0     xadvance=29    page=0  chnl=15
+char id=81   x=507   y=0     width=31    height=49    xoffset=0     yoffset=0     xadvance=30    page=0  chnl=15
+char id=83   x=0     y=50    width=30    height=49    xoffset=0     yoffset=0     xadvance=29    page=0  chnl=15
+char id=84   x=31    y=50    width=30    height=49    xoffset=0     yoffset=0     xadvance=29    page=0  chnl=15

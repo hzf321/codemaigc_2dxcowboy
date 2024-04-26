@@ -1,0 +1,97 @@
+
+scsj.png
+size: 344,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_10
+  rotate: false
+  xy: 124, 284
+  size: 120, 120
+  orig: 136, 136
+  offset: 7, 9
+  index: -1
+eff_11
+  rotate: false
+  xy: 0, 282
+  size: 122, 121
+  orig: 136, 136
+  offset: 6, 9
+  index: -1
+eff_12
+  rotate: false
+  xy: 124, 406
+  size: 122, 121
+  orig: 136, 136
+  offset: 6, 9
+  index: -1
+eff_13
+  rotate: false
+  xy: 0, 159
+  size: 121, 121
+  orig: 136, 136
+  offset: 6, 9
+  index: -1
+eff_14
+  rotate: false
+  xy: 0, 405
+  size: 122, 122
+  orig: 136, 136
+  offset: 6, 9
+  index: -1
+eff_2
+  rotate: false
+  xy: 0, 0
+  size: 39, 39
+  orig: 136, 136
+  offset: 47, 52
+  index: -1
+eff_3
+  rotate: false
+  xy: 248, 356
+  size: 76, 77
+  orig: 136, 136
+  offset: 28, 33
+  index: -1
+eff_4
+  rotate: false
+  xy: 248, 435
+  size: 91, 92
+  orig: 136, 136
+  offset: 20, 25
+  index: -1
+eff_5
+  rotate: false
+  xy: 246, 255
+  size: 98, 99
+  orig: 136, 136
+  offset: 17, 22
+  index: -1
+eff_6
+  rotate: false
+  xy: 235, 61
+  size: 104, 106
+  orig: 136, 136
+  offset: 14, 18
+  index: -1
+eff_7
+  rotate: false
+  xy: 123, 58
+  size: 110, 109
+  orig: 136, 136
+  offset: 12, 16
+  index: -1
+eff_8
+  rotate: false
+  xy: 124, 169
+  size: 116, 113
+  orig: 136, 136
+  offset: 10, 13
+  index: -1
+eff_9
+  rotate: false
+  xy: 0, 41
+  size: 117, 116
+  orig: 136, 136
+  offset: 9, 11
+  index: -1

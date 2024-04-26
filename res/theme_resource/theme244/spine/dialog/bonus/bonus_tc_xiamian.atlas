@@ -1,0 +1,62 @@
+
+bonus_tc_xiamian.png
+size: 1266,1264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: true
+  xy: 886, 30
+  size: 450, 263
+  orig: 450, 263
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 540, 153
+  size: 344, 327
+  orig: 344, 327
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 2, 782
+  size: 780, 480
+  orig: 780, 480
+  offset: 0, 0
+  index: -1
+di2
+  rotate: true
+  xy: 784, 482
+  size: 780, 480
+  orig: 780, 480
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 234
+  size: 536, 546
+  orig: 536, 546
+  offset: 0, 0
+  index: -1
+niao
+  rotate: false
+  xy: 216, 192
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: true
+  xy: 540, 503
+  size: 277, 230
+  orig: 277, 230
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: false
+  xy: 2, 62
+  size: 212, 170
+  orig: 212, 170
+  offset: 0, 0
+  index: -1

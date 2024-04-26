@@ -1,0 +1,272 @@
+
+qiziqieping.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 1282, 1408
+  size: 53, 53
+  orig: 64, 64
+  offset: 6, 5
+  index: -1
+guangxain01
+  rotate: false
+  xy: 1891, 1974
+  size: 142, 16
+  orig: 142, 16
+  offset: 0, 0
+  index: -1
+guangxain02
+  rotate: false
+  xy: 600, 1512
+  size: 142, 16
+  orig: 142, 16
+  offset: 0, 0
+  index: -1
+sd/sd_00
+  rotate: true
+  xy: 513, 257
+  size: 71, 252
+  orig: 108, 284
+  offset: 16, 20
+  index: -1
+sd/sd_01
+  rotate: false
+  xy: 645, 2
+  size: 63, 253
+  orig: 108, 284
+  offset: 18, 16
+  index: -1
+sd/sd_02
+  rotate: false
+  xy: 710, 8
+  size: 57, 247
+  orig: 108, 284
+  offset: 18, 19
+  index: -1
+sd/sd_03
+  rotate: false
+  xy: 1844, 936
+  size: 64, 247
+  orig: 108, 284
+  offset: 19, 18
+  index: -1
+theme0065_qieping_1
+  rotate: false
+  xy: 2, 1028
+  size: 550, 480
+  orig: 550, 480
+  offset: 0, 0
+  index: -1
+theme0065_qieping_2
+  rotate: false
+  xy: 2, 1510
+  size: 596, 480
+  orig: 596, 480
+  offset: 0, 0
+  index: -1
+theme0065_qieping_3
+  rotate: true
+  xy: 994, 1179
+  size: 282, 286
+  orig: 282, 286
+  offset: 0, 0
+  index: -1
+theme0065_qieping_4
+  rotate: false
+  xy: 2, 565
+  size: 416, 461
+  orig: 416, 461
+  offset: 0, 0
+  index: -1
+theme0065_qieping_6
+  rotate: false
+  xy: 1031, 1652
+  size: 336, 338
+  orig: 336, 338
+  offset: 0, 0
+  index: -1
+theme0065_qieping_7
+  rotate: false
+  xy: 600, 1530
+  size: 429, 460
+  orig: 429, 460
+  offset: 0, 0
+  index: -1
+tuowei1/tuowei1_00
+  rotate: true
+  xy: 774, 1182
+  size: 346, 218
+  orig: 780, 530
+  offset: 197, 132
+  index: -1
+tuowei1/tuowei1_02
+  rotate: true
+  xy: 420, 679
+  size: 347, 218
+  orig: 780, 530
+  offset: 196, 132
+  index: -1
+tuowei1/tuowei1_04
+  rotate: true
+  xy: 296, 216
+  size: 347, 215
+  orig: 780, 530
+  offset: 196, 135
+  index: -1
+tuowei1/tuowei1_06
+  rotate: false
+  xy: 1366, 1367
+  size: 347, 218
+  orig: 780, 530
+  offset: 196, 132
+  index: -1
+tuowei1/tuowei1_08
+  rotate: true
+  xy: 554, 1161
+  size: 347, 218
+  orig: 780, 530
+  offset: 196, 132
+  index: -1
+tuowei1/tuowei1_10
+  rotate: false
+  xy: 1282, 1153
+  size: 347, 212
+  orig: 780, 530
+  offset: 196, 137
+  index: -1
+tuowei1/tuowei1_12
+  rotate: false
+  xy: 1369, 1587
+  size: 348, 209
+  orig: 780, 530
+  offset: 195, 136
+  index: -1
+tuowei1/tuowei1_14
+  rotate: false
+  xy: 296, 3
+  size: 347, 211
+  orig: 780, 530
+  offset: 196, 134
+  index: -1
+tuowei1/tuowei1_16
+  rotate: true
+  xy: 513, 330
+  size: 347, 217
+  orig: 780, 530
+  offset: 196, 132
+  index: -1
+tuowei1/tuowei1_18
+  rotate: true
+  xy: 640, 814
+  size: 345, 218
+  orig: 780, 530
+  offset: 198, 132
+  index: -1
+tuowei2/tuowei2_00
+  rotate: false
+  xy: 860, 785
+  size: 328, 194
+  orig: 780, 421
+  offset: 208, 115
+  index: -1
+tuowei2/tuowei2_02
+  rotate: false
+  xy: 1190, 762
+  size: 325, 191
+  orig: 780, 421
+  offset: 211, 116
+  index: -1
+tuowei2/tuowei2_04
+  rotate: false
+  xy: 1031, 1463
+  size: 333, 187
+  orig: 780, 421
+  offset: 203, 116
+  index: -1
+tuowei2/tuowei2_06
+  rotate: false
+  xy: 1719, 1393
+  size: 320, 196
+  orig: 780, 421
+  offset: 216, 117
+  index: -1
+tuowei2/tuowei2_08
+  rotate: false
+  xy: 1192, 955
+  size: 328, 196
+  orig: 780, 421
+  offset: 208, 117
+  index: -1
+tuowei2/tuowei2_10
+  rotate: false
+  xy: 860, 981
+  size: 330, 196
+  orig: 780, 421
+  offset: 206, 117
+  index: -1
+tuowei2/tuowei2_12
+  rotate: false
+  xy: 1719, 1591
+  size: 327, 205
+  orig: 780, 421
+  offset: 208, 109
+  index: -1
+tuowei2/tuowei2_14
+  rotate: false
+  xy: 1715, 1185
+  size: 320, 206
+  orig: 780, 421
+  offset: 216, 110
+  index: -1
+tuowei2/tuowei2_16
+  rotate: false
+  xy: 1522, 952
+  size: 320, 199
+  orig: 780, 421
+  offset: 216, 110
+  index: -1
+tuowei2/tuowei2_18
+  rotate: false
+  xy: 1517, 755
+  size: 314, 195
+  orig: 780, 421
+  offset: 222, 109
+  index: -1
+zhongxian/zhongxian_00
+  rotate: false
+  xy: 1369, 1894
+  size: 520, 96
+  orig: 524, 119
+  offset: 4, 7
+  index: -1
+zhongxian/zhongxian_01
+  rotate: true
+  xy: 100, 46
+  size: 517, 96
+  orig: 524, 119
+  offset: 0, 7
+  index: -1
+zhongxian/zhongxian_02
+  rotate: true
+  xy: 2, 39
+  size: 524, 96
+  orig: 524, 119
+  offset: 0, 7
+  index: -1
+zhongxian/zhongxian_03
+  rotate: false
+  xy: 1369, 1798
+  size: 519, 94
+  orig: 524, 119
+  offset: 0, 7
+  index: -1
+zhongxian/zhongxian_04
+  rotate: true
+  xy: 198, 46
+  size: 517, 96
+  orig: 524, 119
+  offset: 0, 7
+  index: -1

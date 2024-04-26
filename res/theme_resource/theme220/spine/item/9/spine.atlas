@@ -1,0 +1,20 @@
+
+q.png
+size: 137,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q
+  rotate: false
+  xy: 2, 63
+  size: 66, 70
+  orig: 157, 120
+  offset: 44, 25
+  index: -1
+theme220_s_9
+  rotate: false
+  xy: 70, 64
+  size: 65, 69
+  orig: 105, 75
+  offset: 20, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+ds_jl_01.png
+size: 520,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daishu01/biyan
+  rotate: true
+  xy: 303, 215
+  size: 60, 18
+  orig: 60, 18
+  offset: 0, 0
+  index: -1
+daishu01/reduo01
+  rotate: false
+  xy: 256, 16
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+daishu01/reduo02
+  rotate: false
+  xy: 333, 344
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+daishu01/shenti
+  rotate: false
+  xy: 0, 0
+  size: 254, 520
+  orig: 254, 520
+  offset: 0, 0
+  index: -1
+daishu01/tou
+  rotate: false
+  xy: 333, 419
+  size: 70, 101
+  orig: 70, 101
+  offset: 0, 0
+  index: -1
+daishu01/yougebo
+  rotate: false
+  xy: 256, 57
+  size: 45, 218
+  orig: 45, 218
+  offset: 0, 0
+  index: -1
+daishu01/zuogebo
+  rotate: false
+  xy: 256, 277
+  size: 75, 243
+  orig: 75, 243
+  offset: 0, 0
+  index: -1

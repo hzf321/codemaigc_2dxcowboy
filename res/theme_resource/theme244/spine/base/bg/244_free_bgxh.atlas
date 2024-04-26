@@ -1,0 +1,90 @@
+
+244_free_bgxh.png
+size: 522,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XG_22
+  rotate: false
+  xy: 262, 79
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+shuiwen1
+  rotate: false
+  xy: 2, 68
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+shuiwen2
+  rotate: false
+  xy: 132, 198
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+shuiwen3
+  rotate: false
+  xy: 2, 2
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+shuiwen4
+  rotate: false
+  xy: 132, 132
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+shuiwen5
+  rotate: false
+  xy: 262, 198
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+shuiwen6
+  rotate: false
+  xy: 132, 66
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+shuiwen7
+  rotate: false
+  xy: 262, 132
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+shuiwen8
+  rotate: true
+  xy: 392, 134
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+yhc
+  rotate: false
+  xy: 2, 134
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yueliang
+  rotate: false
+  xy: 132, 13
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 2, 264
+  size: 512, 256
+  orig: 512, 256
+  offset: 0, 0
+  index: -1

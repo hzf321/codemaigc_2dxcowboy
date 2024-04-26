@@ -1,0 +1,13 @@
+
+m1_shouji.png
+size: 109,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/m1
+  rotate: false
+  xy: 2, 13
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+m5_01.png
+size: 146,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan01
+  rotate: false
+  xy: 77, 54
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+leida/daguogai
+  rotate: false
+  xy: 0, 9
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+leida/dipan
+  rotate: false
+  xy: 71, 27
+  size: 75, 25
+  orig: 75, 25
+  offset: 0, 0
+  index: -1
+leida/miaobian
+  rotate: false
+  xy: 0, 59
+  size: 75, 85
+  orig: 75, 85
+  offset: 0, 0
+  index: -1
+leida/zhizhen
+  rotate: false
+  xy: 77, 99
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1

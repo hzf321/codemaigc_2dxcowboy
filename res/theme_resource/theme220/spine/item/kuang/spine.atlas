@@ -1,0 +1,146 @@
+
+zhongjline.png
+size: 583,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhongjline/zj_0
+  rotate: false
+  xy: 148, 356
+  size: 144, 111
+  orig: 179, 137
+  offset: 17, 17
+  index: -1
+zhongjline/zj_1
+  rotate: false
+  xy: 292, 469
+  size: 144, 110
+  orig: 179, 137
+  offset: 17, 17
+  index: -1
+zhongjline/zj_10
+  rotate: false
+  xy: 437, 354
+  size: 144, 111
+  orig: 179, 137
+  offset: 17, 17
+  index: -1
+zhongjline/zj_11
+  rotate: false
+  xy: 2, 358
+  size: 144, 110
+  orig: 179, 137
+  offset: 17, 17
+  index: -1
+zhongjline/zj_12
+  rotate: false
+  xy: 147, 470
+  size: 143, 109
+  orig: 179, 137
+  offset: 18, 17
+  index: -1
+zhongjline/zj_13
+  rotate: false
+  xy: 280, 124
+  size: 143, 113
+  orig: 179, 137
+  offset: 18, 16
+  index: -1
+zhongjline/zj_14
+  rotate: false
+  xy: 425, 124
+  size: 143, 113
+  orig: 179, 137
+  offset: 18, 16
+  index: -1
+zhongjline/zj_15
+  rotate: false
+  xy: 280, 9
+  size: 141, 113
+  orig: 179, 137
+  offset: 19, 16
+  index: -1
+zhongjline/zj_16
+  rotate: false
+  xy: 423, 9
+  size: 140, 113
+  orig: 179, 137
+  offset: 19, 16
+  index: -1
+zhongjline/zj_17
+  rotate: false
+  xy: 2, 14
+  size: 138, 113
+  orig: 179, 137
+  offset: 20, 16
+  index: -1
+zhongjline/zj_18
+  rotate: false
+  xy: 142, 11
+  size: 136, 113
+  orig: 179, 137
+  offset: 21, 16
+  index: -1
+zhongjline/zj_19
+  rotate: false
+  xy: 2, 244
+  size: 143, 112
+  orig: 179, 137
+  offset: 18, 16
+  index: -1
+zhongjline/zj_2
+  rotate: false
+  xy: 2, 470
+  size: 143, 109
+  orig: 179, 137
+  offset: 18, 17
+  index: -1
+zhongjline/zj_3
+  rotate: false
+  xy: 147, 241
+  size: 143, 113
+  orig: 179, 137
+  offset: 18, 16
+  index: -1
+zhongjline/zj_4
+  rotate: false
+  xy: 292, 239
+  size: 143, 113
+  orig: 179, 137
+  offset: 18, 16
+  index: -1
+zhongjline/zj_5
+  rotate: false
+  xy: 294, 354
+  size: 141, 113
+  orig: 179, 137
+  offset: 19, 16
+  index: -1
+zhongjline/zj_6
+  rotate: false
+  xy: 437, 239
+  size: 140, 113
+  orig: 179, 137
+  offset: 19, 16
+  index: -1
+zhongjline/zj_7
+  rotate: false
+  xy: 2, 129
+  size: 138, 113
+  orig: 179, 137
+  offset: 20, 16
+  index: -1
+zhongjline/zj_8
+  rotate: false
+  xy: 142, 126
+  size: 136, 113
+  orig: 179, 137
+  offset: 21, 16
+  index: -1
+zhongjline/zj_9
+  rotate: false
+  xy: 438, 467
+  size: 143, 112
+  orig: 179, 137
+  offset: 18, 16
+  index: -1

@@ -1,0 +1,678 @@
+
+fgtanchuang.png
+size: 1875,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cong/cong_00
+  rotate: false
+  xy: 1829, 621
+  size: 46, 56
+  orig: 422, 173
+  offset: 42, 24
+  index: -1
+cong/cong_01
+  rotate: false
+  xy: 1541, 173
+  size: 70, 70
+  orig: 422, 173
+  offset: 31, 24
+  index: -1
+cong/cong_02
+  rotate: false
+  xy: 759, 35
+  size: 94, 98
+  orig: 422, 173
+  offset: 19, 11
+  index: -1
+cong/cong_03
+  rotate: false
+  xy: 1471, 279
+  size: 118, 116
+  orig: 422, 173
+  offset: 18, 8
+  index: -1
+cong/cong_04
+  rotate: false
+  xy: 1708, 408
+  size: 128, 126
+  orig: 422, 173
+  offset: 22, 10
+  index: -1
+cong/cong_05
+  rotate: false
+  xy: 1330, 285
+  size: 139, 121
+  orig: 422, 173
+  offset: 35, 21
+  index: -1
+cong/cong_06
+  rotate: false
+  xy: 1172, 283
+  size: 156, 123
+  orig: 422, 173
+  offset: 40, 24
+  index: -1
+cong/cong_07
+  rotate: false
+  xy: 857, 302
+  size: 187, 125
+  orig: 422, 173
+  offset: 42, 24
+  index: -1
+cong/cong_08
+  rotate: false
+  xy: 1493, 397
+  size: 213, 137
+  orig: 422, 173
+  offset: 42, 24
+  index: -1
+cong/cong_09
+  rotate: false
+  xy: 1588, 536
+  size: 239, 141
+  orig: 422, 173
+  offset: 42, 24
+  index: -1
+cong/cong_10
+  rotate: false
+  xy: 1588, 679
+  size: 266, 147
+  orig: 422, 173
+  offset: 42, 24
+  index: -1
+cong/cong_11
+  rotate: false
+  xy: 1565, 891
+  size: 291, 149
+  orig: 422, 173
+  offset: 42, 24
+  index: -1
+cong/cong_12
+  rotate: false
+  xy: 492, 275
+  size: 311, 150
+  orig: 422, 173
+  offset: 42, 23
+  index: -1
+cong/cong_13
+  rotate: false
+  xy: 858, 572
+  size: 326, 156
+  orig: 422, 173
+  offset: 42, 17
+  index: -1
+cong/cong_14
+  rotate: false
+  xy: 528, 572
+  size: 328, 156
+  orig: 422, 173
+  offset: 42, 17
+  index: -1
+cong/cong_15
+  rotate: false
+  xy: 1235, 884
+  size: 328, 156
+  orig: 422, 173
+  offset: 42, 17
+  index: -1
+cong/cong_16
+  rotate: false
+  xy: 163, 305
+  size: 327, 156
+  orig: 422, 173
+  offset: 43, 17
+  index: -1
+cong/cong_17
+  rotate: false
+  xy: 163, 150
+  size: 327, 153
+  orig: 422, 173
+  offset: 43, 17
+  index: -1
+cong/cong_18
+  rotate: false
+  xy: 1235, 736
+  size: 327, 146
+  orig: 422, 173
+  offset: 43, 17
+  index: -1
+cong/cong_19
+  rotate: false
+  xy: 528, 427
+  size: 327, 143
+  orig: 422, 173
+  offset: 43, 17
+  index: -1
+cong/cong_20
+  rotate: false
+  xy: 857, 429
+  size: 326, 141
+  orig: 422, 173
+  offset: 44, 17
+  index: -1
+cong/cong_21
+  rotate: false
+  xy: 492, 135
+  size: 323, 138
+  orig: 422, 173
+  offset: 47, 17
+  index: -1
+cong/cong_22
+  rotate: false
+  xy: 163, 16
+  size: 321, 132
+  orig: 422, 173
+  offset: 49, 17
+  index: -1
+cong/cong_23
+  rotate: false
+  xy: 1186, 537
+  size: 313, 129
+  orig: 422, 173
+  offset: 57, 17
+  index: -1
+cong/cong_24
+  rotate: false
+  xy: 1185, 408
+  size: 306, 127
+  orig: 422, 173
+  offset: 64, 17
+  index: -1
+cong/cong_25
+  rotate: false
+  xy: 0, 3
+  size: 143, 119
+  orig: 422, 173
+  offset: 227, 17
+  index: -1
+cong/cong_26
+  rotate: false
+  xy: 1046, 315
+  size: 124, 112
+  orig: 422, 173
+  offset: 246, 17
+  index: -1
+cong/cong_27
+  rotate: false
+  xy: 1591, 294
+  size: 112, 101
+  orig: 422, 173
+  offset: 263, 17
+  index: -1
+cong/cong_28
+  rotate: false
+  xy: 1705, 282
+  size: 97, 89
+  orig: 422, 173
+  offset: 281, 17
+  index: -1
+cong/cong_29
+  rotate: false
+  xy: 923, 186
+  size: 87, 79
+  orig: 422, 173
+  offset: 297, 17
+  index: -1
+freegames/freegames_00
+  rotate: false
+  xy: 1827, 373
+  size: 48, 33
+  orig: 216, 88
+  offset: 24, 23
+  index: -1
+freegames/freegames_01
+  rotate: false
+  xy: 817, 267
+  size: 58, 33
+  orig: 216, 88
+  offset: 24, 23
+  index: -1
+freegames/freegames_02
+  rotate: false
+  xy: 1801, 7
+  size: 66, 33
+  orig: 216, 88
+  offset: 24, 23
+  index: -1
+freegames/freegames_03
+  rotate: false
+  xy: 1804, 303
+  size: 68, 33
+  orig: 216, 88
+  offset: 24, 23
+  index: -1
+freegames/freegames_04
+  rotate: false
+  xy: 1328, 10
+  size: 89, 34
+  orig: 216, 88
+  offset: 24, 22
+  index: -1
+freegames/freegames_05
+  rotate: false
+  xy: 1705, 247
+  size: 98, 33
+  orig: 216, 88
+  offset: 24, 22
+  index: -1
+freegames/freegames_06
+  rotate: false
+  xy: 1012, 177
+  size: 108, 33
+  orig: 216, 88
+  offset: 25, 22
+  index: -1
+freegames/freegames_07
+  rotate: false
+  xy: 1046, 280
+  size: 117, 33
+  orig: 216, 88
+  offset: 27, 22
+  index: -1
+freegames/freegames_08
+  rotate: false
+  xy: 879, 267
+  size: 115, 33
+  orig: 216, 88
+  offset: 36, 22
+  index: -1
+freegames/freegames_09
+  rotate: false
+  xy: 759, 0
+  size: 118, 33
+  orig: 216, 88
+  offset: 46, 22
+  index: -1
+freegames/freegames_10
+  rotate: false
+  xy: 1708, 373
+  size: 117, 33
+  orig: 216, 88
+  offset: 57, 22
+  index: -1
+freegames/freegames_11
+  rotate: false
+  xy: 1330, 250
+  size: 117, 33
+  orig: 216, 88
+  offset: 67, 22
+  index: -1
+freegames/freegames_12
+  rotate: false
+  xy: 1449, 245
+  size: 117, 32
+  orig: 216, 88
+  offset: 77, 23
+  index: -1
+freegames/freegames_13
+  rotate: false
+  xy: 1591, 260
+  size: 112, 32
+  orig: 216, 88
+  offset: 87, 23
+  index: -1
+freegames/freegames_14
+  rotate: false
+  xy: 817, 163
+  size: 99, 33
+  orig: 216, 88
+  offset: 101, 22
+  index: -1
+freegames/freegames_15
+  rotate: false
+  xy: 918, 151
+  size: 92, 33
+  orig: 216, 88
+  offset: 108, 22
+  index: -1
+freegames/freegames_16
+  rotate: false
+  xy: 1419, 6
+  size: 89, 33
+  orig: 216, 88
+  offset: 111, 22
+  index: -1
+freegames/freegames_17
+  rotate: false
+  xy: 1501, 633
+  size: 85, 33
+  orig: 216, 88
+  offset: 115, 22
+  index: -1
+freegames/freegames_18
+  rotate: false
+  xy: 1097, 39
+  size: 81, 33
+  orig: 216, 88
+  offset: 119, 22
+  index: -1
+freegames/freegames_19
+  rotate: false
+  xy: 1644, 8
+  size: 78, 33
+  orig: 216, 88
+  offset: 122, 22
+  index: -1
+freegames/freegames_20
+  rotate: false
+  xy: 1724, 7
+  size: 75, 33
+  orig: 216, 88
+  offset: 125, 22
+  index: -1
+freegames/freegames_21
+  rotate: false
+  xy: 1804, 338
+  size: 71, 33
+  orig: 216, 88
+  offset: 129, 22
+  index: -1
+freegames/freegames_22
+  rotate: false
+  xy: 1805, 268
+  size: 66, 33
+  orig: 216, 88
+  offset: 134, 22
+  index: -1
+freegames/freegames_23
+  rotate: false
+  xy: 1510, 2
+  size: 64, 33
+  orig: 216, 88
+  offset: 136, 22
+  index: -1
+freegames/freegames_24
+  rotate: false
+  xy: 1576, 2
+  size: 61, 33
+  orig: 216, 88
+  offset: 139, 22
+  index: -1
+freegames/freegames_25
+  rotate: false
+  xy: 957, 4
+  size: 57, 33
+  orig: 216, 88
+  offset: 143, 22
+  index: -1
+freegames/freegames_26
+  rotate: false
+  xy: 1819, 164
+  size: 54, 33
+  orig: 216, 88
+  offset: 146, 22
+  index: -1
+freegames/freegames_27
+  rotate: false
+  xy: 805, 392
+  size: 50, 33
+  orig: 216, 88
+  offset: 150, 22
+  index: -1
+freegames/freegames_28
+  rotate: false
+  xy: 1829, 586
+  size: 46, 33
+  orig: 216, 88
+  offset: 154, 22
+  index: -1
+freegames/freegames_29
+  rotate: false
+  xy: 1186, 695
+  size: 42, 33
+  orig: 216, 88
+  offset: 158, 22
+  index: -1
+shuzikuang/shuzikuang_00
+  rotate: false
+  xy: 1751, 110
+  size: 66, 67
+  orig: 398, 109
+  offset: 27, 20
+  index: -1
+shuzikuang/shuzikuang_01
+  rotate: false
+  xy: 1501, 563
+  size: 77, 68
+  orig: 398, 109
+  offset: 27, 20
+  index: -1
+shuzikuang/shuzikuang_02
+  rotate: false
+  xy: 1613, 190
+  size: 88, 68
+  orig: 398, 109
+  offset: 28, 20
+  index: -1
+shuzikuang/shuzikuang_03
+  rotate: false
+  xy: 1122, 142
+  size: 98, 68
+  orig: 398, 109
+  offset: 29, 20
+  index: -1
+shuzikuang/shuzikuang_04
+  rotate: false
+  xy: 817, 198
+  size: 104, 67
+  orig: 398, 109
+  offset: 35, 20
+  index: -1
+shuzikuang/shuzikuang_05
+  rotate: false
+  xy: 1118, 212
+  size: 103, 66
+  orig: 398, 109
+  offset: 47, 21
+  index: -1
+shuzikuang/shuzikuang_06
+  rotate: false
+  xy: 1012, 212
+  size: 104, 66
+  orig: 398, 109
+  offset: 58, 21
+  index: -1
+shuzikuang/shuzikuang_07
+  rotate: false
+  xy: 1118, 74
+  size: 103, 66
+  orig: 398, 109
+  offset: 70, 21
+  index: -1
+shuzikuang/shuzikuang_08
+  rotate: false
+  xy: 1012, 109
+  size: 104, 66
+  orig: 398, 109
+  offset: 81, 21
+  index: -1
+shuzikuang/shuzikuang_09
+  rotate: false
+  xy: 1329, 46
+  size: 103, 66
+  orig: 398, 109
+  offset: 93, 21
+  index: -1
+shuzikuang/shuzikuang_10
+  rotate: false
+  xy: 1223, 215
+  size: 104, 66
+  orig: 398, 109
+  offset: 104, 21
+  index: -1
+shuzikuang/shuzikuang_11
+  rotate: false
+  xy: 1434, 41
+  size: 103, 66
+  orig: 398, 109
+  offset: 116, 21
+  index: -1
+shuzikuang/shuzikuang_12
+  rotate: false
+  xy: 1329, 182
+  size: 104, 66
+  orig: 398, 109
+  offset: 127, 21
+  index: -1
+shuzikuang/shuzikuang_13
+  rotate: false
+  xy: 1223, 11
+  size: 103, 66
+  orig: 398, 109
+  offset: 139, 21
+  index: -1
+shuzikuang/shuzikuang_14
+  rotate: false
+  xy: 1435, 177
+  size: 104, 66
+  orig: 398, 109
+  offset: 150, 21
+  index: -1
+shuzikuang/shuzikuang_15
+  rotate: false
+  xy: 1703, 179
+  size: 103, 66
+  orig: 398, 109
+  offset: 162, 21
+  index: -1
+shuzikuang/shuzikuang_16
+  rotate: false
+  xy: 1541, 105
+  size: 103, 66
+  orig: 398, 109
+  offset: 174, 21
+  index: -1
+shuzikuang/shuzikuang_17
+  rotate: false
+  xy: 1223, 147
+  size: 104, 66
+  orig: 398, 109
+  offset: 186, 21
+  index: -1
+shuzikuang/shuzikuang_18
+  rotate: false
+  xy: 1539, 37
+  size: 103, 66
+  orig: 398, 109
+  offset: 199, 21
+  index: -1
+shuzikuang/shuzikuang_19
+  rotate: false
+  xy: 1329, 114
+  size: 104, 66
+  orig: 398, 109
+  offset: 211, 21
+  index: -1
+shuzikuang/shuzikuang_20
+  rotate: false
+  xy: 1646, 111
+  size: 103, 66
+  orig: 398, 109
+  offset: 224, 21
+  index: -1
+shuzikuang/shuzikuang_21
+  rotate: false
+  xy: 1435, 109
+  size: 104, 66
+  orig: 398, 109
+  offset: 236, 21
+  index: -1
+shuzikuang/shuzikuang_22
+  rotate: false
+  xy: 1646, 43
+  size: 103, 66
+  orig: 398, 109
+  offset: 249, 21
+  index: -1
+shuzikuang/shuzikuang_23
+  rotate: false
+  xy: 1223, 79
+  size: 104, 66
+  orig: 398, 109
+  offset: 261, 21
+  index: -1
+shuzikuang/shuzikuang_24
+  rotate: false
+  xy: 1751, 42
+  size: 103, 66
+  orig: 398, 109
+  offset: 274, 21
+  index: -1
+shuzikuang/shuzikuang_25
+  rotate: false
+  xy: 908, 81
+  size: 98, 68
+  orig: 398, 109
+  offset: 286, 20
+  index: -1
+shuzikuang/shuzikuang_26
+  rotate: false
+  xy: 1008, 39
+  size: 87, 68
+  orig: 398, 109
+  offset: 299, 20
+  index: -1
+shuzikuang/shuzikuang_27
+  rotate: false
+  xy: 879, 11
+  size: 76, 68
+  orig: 398, 109
+  offset: 311, 20
+  index: -1
+shuzikuang/shuzikuang_28
+  rotate: false
+  xy: 1808, 199
+  size: 63, 67
+  orig: 398, 109
+  offset: 324, 20
+  index: -1
+shuzikuang/shuzikuang_29
+  rotate: false
+  xy: 855, 96
+  size: 51, 65
+  orig: 398, 109
+  offset: 336, 21
+  index: -1
+theme188_p_f1
+  rotate: false
+  xy: 528, 730
+  size: 705, 310
+  orig: 705, 310
+  offset: 0, 0
+  index: -1
+theme188_p_f13
+  rotate: false
+  xy: 0, 463
+  size: 526, 577
+  orig: 526, 577
+  offset: 0, 0
+  index: -1
+theme188_p_f2
+  rotate: false
+  xy: 1565, 828
+  size: 272, 61
+  orig: 272, 61
+  offset: 0, 0
+  index: -1
+theme188_p_f3
+  rotate: false
+  xy: 486, 0
+  size: 271, 133
+  orig: 271, 133
+  offset: 0, 0
+  index: -1
+theme188_p_f4
+  rotate: false
+  xy: 0, 124
+  size: 161, 337
+  orig: 161, 337
+  offset: 0, 0
+  index: -1
+theme188_p_f7
+  rotate: false
+  xy: 1235, 668
+  size: 351, 66
+  orig: 351, 66
+  offset: 0, 0
+  index: -1

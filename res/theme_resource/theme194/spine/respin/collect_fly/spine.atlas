@@ -1,0 +1,76 @@
+
+feilizi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feilizi/feilizi_00
+  rotate: false
+  xy: 840, 128
+  size: 119, 88
+  orig: 179, 591
+  offset: 26, 335
+  index: -1
+feilizi/feilizi_01
+  rotate: true
+  xy: 481, 2
+  size: 119, 265
+  orig: 179, 591
+  offset: 26, 228
+  index: -1
+feilizi/feilizi_02
+  rotate: false
+  xy: 2, 57
+  size: 118, 453
+  orig: 179, 591
+  offset: 26, 122
+  index: -1
+feilizi/feilizi_03
+  rotate: false
+  xy: 481, 123
+  size: 118, 387
+  orig: 179, 591
+  offset: 26, 106
+  index: -1
+feilizi/feilizi_04
+  rotate: false
+  xy: 362, 114
+  size: 117, 396
+  orig: 179, 591
+  offset: 27, 90
+  index: -1
+feilizi/feilizi_05
+  rotate: false
+  xy: 242, 101
+  size: 118, 409
+  orig: 179, 591
+  offset: 26, 73
+  index: -1
+feilizi/feilizi_06
+  rotate: false
+  xy: 122, 83
+  size: 118, 427
+  orig: 179, 591
+  offset: 26, 57
+  index: -1
+feilizi/feilizi_07
+  rotate: false
+  xy: 601, 129
+  size: 118, 381
+  orig: 179, 591
+  offset: 26, 41
+  index: -1
+feilizi/feilizi_08
+  rotate: false
+  xy: 721, 166
+  size: 117, 344
+  orig: 179, 591
+  offset: 27, 34
+  index: -1
+feilizi/feilizi_09
+  rotate: false
+  xy: 840, 218
+  size: 115, 292
+  orig: 179, 591
+  offset: 28, 39
+  index: -1

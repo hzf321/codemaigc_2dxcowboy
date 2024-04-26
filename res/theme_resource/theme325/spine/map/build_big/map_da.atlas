@@ -1,0 +1,62 @@
+
+map_da.png
+size: 1796,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00
+  rotate: true
+  xy: 317, 38
+  size: 285, 248
+  orig: 285, 248
+  offset: 0, 0
+  index: -1
+2_00
+  rotate: true
+  xy: 567, 38
+  size: 285, 248
+  orig: 285, 248
+  offset: 0, 0
+  index: -1
+3_00
+  rotate: true
+  xy: 817, 38
+  size: 285, 248
+  orig: 285, 248
+  offset: 0, 0
+  index: -1
+4_00
+  rotate: true
+  xy: 1067, 38
+  size: 285, 248
+  orig: 285, 248
+  offset: 0, 0
+  index: -1
+5_00
+  rotate: true
+  xy: 1317, 38
+  size: 285, 248
+  orig: 285, 248
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1567, 11
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+lizi2424
+  rotate: true
+  xy: 2, 2
+  size: 321, 313
+  orig: 321, 313
+  offset: 0, 0
+  index: -1
+lzes
+  rotate: false
+  xy: 1567, 96
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1

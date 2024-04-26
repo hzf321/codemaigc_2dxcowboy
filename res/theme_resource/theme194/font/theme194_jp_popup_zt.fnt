@@ -1,0 +1,23 @@
+info face="Terminal" size=-26 bold=0 italic=0 charset="" unicode=1 stretchH=60 smooth=1 aa=1 padding=0,1,1,0 spacing=1,1 outline=0
+common lineHeight=89 base=14 scaleW=600 scaleH=300 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="theme194_jp_popup_zt.png"
+chars count=19
+char id=44   x=569   y=0     width=24    height=90    xoffset=0     yoffset=0     xadvance=23    page=0  chnl=15
+char id=46   x=167   y=91    width=21    height=90    xoffset=0     yoffset=0     xadvance=20    page=0  chnl=15
+char id=48   x=107   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=49   x=149   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=50   x=191   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=51   x=233   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=52   x=275   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=53   x=317   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=54   x=359   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=55   x=401   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=56   x=443   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=57   x=485   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=66   x=527   y=0     width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=75   x=64    y=0     width=42    height=90    xoffset=0     yoffset=0     xadvance=41    page=0  chnl=15
+char id=77   x=0     y=0     width=63    height=90    xoffset=0     yoffset=0     xadvance=62    page=0  chnl=15
+char id=79   x=0     y=91    width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=81   x=42    y=91    width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=83   x=84    y=91    width=41    height=90    xoffset=0     yoffset=0     xadvance=40    page=0  chnl=15
+char id=84   x=126   y=91    width=40    height=90    xoffset=0     yoffset=0     xadvance=39    page=0  chnl=15

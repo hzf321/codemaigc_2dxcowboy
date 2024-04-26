@@ -1,0 +1,76 @@
+
+zhuanpanxuanzhuan.png
+size: 1818,714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lunpanxuanzhuan/lunpanxuanzhuan_00
+  rotate: false
+  xy: 366, 363
+  size: 365, 351
+  orig: 368, 376
+  offset: 3, 14
+  index: -1
+lunpanxuanzhuan/lunpanxuanzhuan_02
+  rotate: false
+  xy: 0, 351
+  size: 364, 363
+  orig: 368, 376
+  offset: 4, 5
+  index: -1
+lunpanxuanzhuan/lunpanxuanzhuan_04
+  rotate: true
+  xy: 366, 0
+  size: 361, 353
+  orig: 368, 376
+  offset: 2, 7
+  index: -1
+lunpanxuanzhuan/lunpanxuanzhuan_06
+  rotate: true
+  xy: 1081, 4
+  size: 353, 356
+  orig: 368, 376
+  offset: 3, 4
+  index: -1
+lunpanxuanzhuan/lunpanxuanzhuan_08
+  rotate: false
+  xy: 1439, 4
+  size: 354, 353
+  orig: 368, 376
+  offset: 0, 0
+  index: -1
+lunpanxuanzhuan/lunpanxuanzhuan_10
+  rotate: true
+  xy: 1459, 363
+  size: 351, 359
+  orig: 368, 376
+  offset: 5, 0
+  index: -1
+lunpanxuanzhuan/lunpanxuanzhuan_12
+  rotate: false
+  xy: 1098, 359
+  size: 359, 355
+  orig: 368, 376
+  offset: 1, 8
+  index: -1
+lunpanxuanzhuan/lunpanxuanzhuan_14
+  rotate: false
+  xy: 0, 7
+  size: 348, 342
+  orig: 368, 376
+  offset: 7, 10
+  index: -1
+lunpanxuanzhuan/lunpanxuanzhuan_16
+  rotate: false
+  xy: 721, 8
+  size: 358, 352
+  orig: 368, 376
+  offset: 3, 8
+  index: -1
+lunpanxuanzhuan/lunpanxuanzhuan_18
+  rotate: false
+  xy: 733, 362
+  size: 363, 352
+  orig: 368, 376
+  offset: 0, 12
+  index: -1

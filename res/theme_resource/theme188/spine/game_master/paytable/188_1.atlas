@@ -1,0 +1,146 @@
+
+188_1.png
+size: 1020,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gamerule/475
+  rotate: false
+  xy: 574, 762
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+gamerule/gamerule_188_img
+  rotate: false
+  xy: 546, 2
+  size: 139, 138
+  orig: 139, 138
+  offset: 0, 0
+  index: -1
+gamerule/gamerule_188_img02
+  rotate: false
+  xy: 2, 416
+  size: 570, 602
+  orig: 570, 602
+  offset: 0, 0
+  index: -1
+gamerule/gamerule_188_logo
+  rotate: false
+  xy: 2, 45
+  size: 345, 369
+  orig: 345, 369
+  offset: 0, 0
+  index: -1
+gamerule/xingguang_0
+  rotate: false
+  xy: 895, 537
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_0
+  rotate: false
+  xy: 574, 638
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_1
+  rotate: true
+  xy: 832, 823
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_10
+  rotate: true
+  xy: 771, 368
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_11
+  rotate: true
+  xy: 743, 171
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_12
+  rotate: true
+  xy: 867, 171
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_13
+  rotate: false
+  xy: 743, 47
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_14
+  rotate: true
+  xy: 895, 626
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_2
+  rotate: false
+  xy: 349, 168
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_3
+  rotate: false
+  xy: 574, 514
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_4
+  rotate: false
+  xy: 349, 44
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_5
+  rotate: false
+  xy: 574, 390
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_6
+  rotate: false
+  xy: 546, 266
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_7
+  rotate: false
+  xy: 546, 142
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_8
+  rotate: true
+  xy: 771, 565
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+shandian/shandian01_2/dian_9
+  rotate: false
+  xy: 349, 292
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+jp_kuang.png
+size: 988,986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjiang_00
+  rotate: false
+  xy: 2, 5
+  size: 421, 137
+  orig: 421, 139
+  offset: 0, 2
+  index: -1
+zjiang_01
+  rotate: false
+  xy: 2, 845
+  size: 421, 139
+  orig: 421, 139
+  offset: 0, 0
+  index: -1
+zjiang_02
+  rotate: false
+  xy: 425, 146
+  size: 421, 137
+  orig: 421, 139
+  offset: 0, 2
+  index: -1
+zjiang_03
+  rotate: false
+  xy: 2, 564
+  size: 421, 138
+  orig: 421, 139
+  offset: 0, 1
+  index: -1
+zjiang_04
+  rotate: false
+  xy: 425, 705
+  size: 421, 138
+  orig: 421, 139
+  offset: 0, 1
+  index: -1
+zjiang_05
+  rotate: false
+  xy: 2, 704
+  size: 421, 139
+  orig: 421, 139
+  offset: 0, 0
+  index: -1
+zjiang_06
+  rotate: false
+  xy: 425, 845
+  size: 421, 139
+  orig: 421, 139
+  offset: 0, 0
+  index: -1
+zjiang_07
+  rotate: false
+  xy: 2, 424
+  size: 421, 138
+  orig: 421, 139
+  offset: 0, 1
+  index: -1
+zjiang_08
+  rotate: false
+  xy: 425, 565
+  size: 421, 138
+  orig: 421, 139
+  offset: 0, 1
+  index: -1
+zjiang_09
+  rotate: false
+  xy: 2, 284
+  size: 421, 138
+  orig: 421, 139
+  offset: 0, 1
+  index: -1
+zjiang_10
+  rotate: false
+  xy: 425, 425
+  size: 421, 138
+  orig: 421, 139
+  offset: 0, 1
+  index: -1
+zjiang_11
+  rotate: true
+  xy: 848, 563
+  size: 421, 138
+  orig: 421, 139
+  offset: 0, 1
+  index: -1
+zjiang_12
+  rotate: false
+  xy: 2, 144
+  size: 421, 138
+  orig: 421, 139
+  offset: 0, 1
+  index: -1
+zjiang_13
+  rotate: false
+  xy: 425, 7
+  size: 421, 137
+  orig: 421, 139
+  offset: 0, 2
+  index: -1
+zjiang_14
+  rotate: false
+  xy: 425, 285
+  size: 421, 138
+  orig: 421, 139
+  offset: 0, 1
+  index: -1

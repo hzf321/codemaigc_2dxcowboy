@@ -1,0 +1,146 @@
+
+238_base_jishou.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan001
+  rotate: false
+  xy: 2, 256
+  size: 122, 122
+  orig: 128, 128
+  offset: 3, 3
+  index: -1
+kuosan_00
+  rotate: false
+  xy: 2, 140
+  size: 114, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+zhakai/zhakai_1
+  rotate: true
+  xy: 151, 3
+  size: 63, 65
+  orig: 103, 102
+  offset: 19, 19
+  index: -1
+zhakai/zhakai_10
+  rotate: false
+  xy: 2, 53
+  size: 75, 85
+  orig: 103, 102
+  offset: 13, 8
+  index: -1
+zhakai/zhakai_11
+  rotate: false
+  xy: 79, 51
+  size: 70, 87
+  orig: 103, 102
+  offset: 13, 7
+  index: -1
+zhakai/zhakai_12
+  rotate: true
+  xy: 205, 237
+  size: 69, 87
+  orig: 103, 102
+  offset: 12, 7
+  index: -1
+zhakai/zhakai_13
+  rotate: true
+  xy: 205, 308
+  size: 70, 88
+  orig: 103, 102
+  offset: 12, 7
+  index: -1
+zhakai/zhakai_14
+  rotate: true
+  xy: 118, 147
+  size: 71, 85
+  orig: 103, 102
+  offset: 12, 6
+  index: -1
+zhakai/zhakai_15
+  rotate: false
+  xy: 205, 150
+  size: 69, 85
+  orig: 103, 102
+  offset: 13, 6
+  index: -1
+zhakai/zhakai_16
+  rotate: false
+  xy: 151, 68
+  size: 67, 77
+  orig: 103, 102
+  offset: 15, 6
+  index: -1
+zhakai/zhakai_17
+  rotate: false
+  xy: 293, 78
+  size: 62, 72
+  orig: 103, 102
+  offset: 16, 9
+  index: -1
+zhakai/zhakai_18
+  rotate: true
+  xy: 294, 2
+  size: 3, 4
+  orig: 103, 102
+  offset: 75, 9
+  index: -1
+zhakai/zhakai_2
+  rotate: false
+  xy: 294, 7
+  size: 67, 69
+  orig: 103, 102
+  offset: 17, 17
+  index: -1
+zhakai/zhakai_3
+  rotate: true
+  xy: 220, 2
+  size: 70, 72
+  orig: 103, 102
+  offset: 16, 16
+  index: -1
+zhakai/zhakai_4
+  rotate: false
+  xy: 220, 74
+  size: 71, 74
+  orig: 103, 102
+  offset: 16, 15
+  index: -1
+zhakai/zhakai_5
+  rotate: true
+  xy: 276, 152
+  size: 72, 75
+  orig: 103, 102
+  offset: 17, 13
+  index: -1
+zhakai/zhakai_6
+  rotate: true
+  xy: 126, 220
+  size: 73, 77
+  orig: 103, 102
+  offset: 16, 12
+  index: -1
+zhakai/zhakai_7
+  rotate: true
+  xy: 294, 226
+  size: 74, 79
+  orig: 103, 102
+  offset: 15, 11
+  index: -1
+zhakai/zhakai_8
+  rotate: true
+  xy: 295, 302
+  size: 76, 81
+  orig: 103, 102
+  offset: 14, 10
+  index: -1
+zhakai/zhakai_9
+  rotate: false
+  xy: 126, 295
+  size: 77, 83
+  orig: 103, 102
+  offset: 13, 9
+  index: -1

@@ -1,0 +1,160 @@
+
+dashengbeixunhuan.png
+size: 584,315
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangci_00
+  rotate: false
+  xy: 0, 189
+  size: 129, 126
+  orig: 150, 151
+  offset: 4, 13
+  index: -1
+guangxian01
+  rotate: false
+  xy: 0, 97
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1
+xunhuanlizi/xunhuanlizi_00
+  rotate: false
+  xy: 301, 234
+  size: 83, 81
+  orig: 96, 102
+  offset: 3, 12
+  index: -1
+xunhuanlizi/xunhuanlizi_01
+  rotate: false
+  xy: 214, 232
+  size: 85, 83
+  orig: 96, 102
+  offset: 2, 11
+  index: -1
+xunhuanlizi/xunhuanlizi_02
+  rotate: false
+  xy: 253, 48
+  size: 80, 86
+  orig: 96, 102
+  offset: 8, 9
+  index: -1
+xunhuanlizi/xunhuanlizi_03
+  rotate: false
+  xy: 131, 227
+  size: 81, 88
+  orig: 96, 102
+  offset: 8, 8
+  index: -1
+xunhuanlizi/xunhuanlizi_04
+  rotate: false
+  xy: 179, 136
+  size: 80, 89
+  orig: 96, 102
+  offset: 10, 7
+  index: -1
+xunhuanlizi/xunhuanlizi_05
+  rotate: false
+  xy: 95, 98
+  size: 82, 89
+  orig: 96, 102
+  offset: 9, 5
+  index: -1
+xunhuanlizi/xunhuanlizi_06
+  rotate: false
+  xy: 85, 4
+  size: 83, 91
+  orig: 96, 102
+  offset: 9, 4
+  index: -1
+xunhuanlizi/xunhuanlizi_07
+  rotate: false
+  xy: 170, 3
+  size: 81, 93
+  orig: 96, 102
+  offset: 9, 3
+  index: -1
+xunhuanlizi/xunhuanlizi_08
+  rotate: false
+  xy: 0, 1
+  size: 83, 94
+  orig: 96, 102
+  offset: 8, 3
+  index: -1
+xunhuanlizi/xunhuanlizi_09
+  rotate: false
+  xy: 439, 158
+  size: 84, 74
+  orig: 96, 102
+  offset: 7, 24
+  index: -1
+xunhuanlizi/xunhuanlizi_10
+  rotate: false
+  xy: 351, 157
+  size: 86, 75
+  orig: 96, 102
+  offset: 6, 24
+  index: -1
+xunhuanlizi/xunhuanlizi_11
+  rotate: false
+  xy: 261, 153
+  size: 88, 77
+  orig: 96, 102
+  offset: 4, 23
+  index: -1
+xunhuanlizi/xunhuanlizi_12
+  rotate: false
+  xy: 335, 72
+  size: 85, 79
+  orig: 96, 102
+  offset: 3, 22
+  index: -1
+xunhuanlizi/xunhuanlizi_13
+  rotate: false
+  xy: 386, 234
+  size: 82, 81
+  orig: 96, 102
+  offset: 7, 21
+  index: -1
+xunhuanlizi/xunhuanlizi_14
+  rotate: false
+  xy: 470, 241
+  size: 83, 74
+  orig: 96, 102
+  offset: 7, 19
+  index: -1
+xunhuanlizi/xunhuanlizi_15
+  rotate: false
+  xy: 335, 0
+  size: 76, 70
+  orig: 96, 102
+  offset: 7, 18
+  index: -1
+xunhuanlizi/xunhuanlizi_16
+  rotate: false
+  xy: 501, 3
+  size: 75, 72
+  orig: 96, 102
+  offset: 7, 17
+  index: -1
+xunhuanlizi/xunhuanlizi_17
+  rotate: false
+  xy: 422, 0
+  size: 77, 75
+  orig: 96, 102
+  offset: 6, 15
+  index: -1
+xunhuanlizi/xunhuanlizi_18
+  rotate: false
+  xy: 505, 79
+  size: 79, 77
+  orig: 96, 102
+  offset: 5, 14
+  index: -1
+xunhuanlizi/xunhuanlizi_19
+  rotate: false
+  xy: 422, 77
+  size: 81, 78
+  orig: 96, 102
+  offset: 4, 14
+  index: -1

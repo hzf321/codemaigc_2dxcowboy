@@ -1,0 +1,27 @@
+
+yindao_finger.png
+size: 497,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+finger
+  rotate: false
+  xy: 352, 49
+  size: 143, 143
+  orig: 145, 145
+  offset: 1, 1
+  index: -1
+fingerlight
+  rotate: false
+  xy: 194, 34
+  size: 156, 158
+  orig: 158, 160
+  offset: 1, 1
+  index: -1
+yuanlight
+  rotate: false
+  xy: 2, 2
+  size: 190, 190
+  orig: 192, 192
+  offset: 1, 1
+  index: -1

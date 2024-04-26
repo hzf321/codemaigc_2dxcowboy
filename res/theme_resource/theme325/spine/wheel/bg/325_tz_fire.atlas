@@ -1,0 +1,258 @@
+
+325_tz_fire.png
+size: 831,829
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huotai/huotai_00
+  rotate: false
+  xy: 317, 496
+  size: 161, 145
+  orig: 164, 168
+  offset: 3, 5
+  index: -1
+huotai/huotai_01
+  rotate: false
+  xy: 643, 491
+  size: 161, 148
+  orig: 164, 168
+  offset: 3, 5
+  index: -1
+huotai/huotai_02
+  rotate: false
+  xy: 165, 342
+  size: 160, 152
+  orig: 164, 168
+  offset: 4, 5
+  index: -1
+huotai/huotai_03
+  rotate: false
+  xy: 489, 22
+  size: 161, 156
+  orig: 164, 168
+  offset: 3, 5
+  index: -1
+huotai/huotai_04
+  rotate: false
+  xy: 652, 19
+  size: 161, 159
+  orig: 164, 168
+  offset: 3, 5
+  index: -1
+huotai/huotai_05
+  rotate: false
+  xy: 327, 339
+  size: 161, 152
+  orig: 164, 168
+  offset: 3, 5
+  index: -1
+huotai/huotai_06
+  rotate: false
+  xy: 651, 180
+  size: 160, 154
+  orig: 164, 168
+  offset: 4, 5
+  index: -1
+huotai/huotai_07
+  rotate: false
+  xy: 2, 93
+  size: 160, 155
+  orig: 164, 168
+  offset: 4, 5
+  index: -1
+huotai/huotai_08
+  rotate: false
+  xy: 490, 336
+  size: 160, 153
+  orig: 164, 168
+  offset: 4, 5
+  index: -1
+huotai/huotai_09
+  rotate: false
+  xy: 652, 336
+  size: 160, 153
+  orig: 164, 168
+  offset: 4, 5
+  index: -1
+huotai/huotai_10
+  rotate: false
+  xy: 2, 250
+  size: 160, 153
+  orig: 164, 168
+  offset: 4, 5
+  index: -1
+huotai/huotai_11
+  rotate: false
+  xy: 164, 187
+  size: 160, 153
+  orig: 164, 168
+  offset: 4, 5
+  index: -1
+huotai/huotai_12
+  rotate: false
+  xy: 326, 184
+  size: 160, 153
+  orig: 164, 168
+  offset: 4, 5
+  index: -1
+huotai/huotai_13
+  rotate: false
+  xy: 164, 30
+  size: 160, 155
+  orig: 164, 168
+  offset: 4, 5
+  index: -1
+huotai/huotai_14
+  rotate: false
+  xy: 2, 405
+  size: 161, 148
+  orig: 164, 168
+  offset: 3, 5
+  index: -1
+huotai/huotai_15
+  rotate: false
+  xy: 326, 24
+  size: 161, 155
+  orig: 164, 168
+  offset: 3, 5
+  index: -1
+huotai/huotai_16
+  rotate: false
+  xy: 488, 181
+  size: 161, 153
+  orig: 164, 168
+  offset: 3, 5
+  index: -1
+huotai/huotai_17
+  rotate: false
+  xy: 480, 493
+  size: 161, 146
+  orig: 164, 168
+  offset: 3, 5
+  index: -1
+xiaohuo/xiaohuo_00
+  rotate: false
+  xy: 317, 737
+  size: 103, 90
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_01
+  rotate: false
+  xy: 527, 642
+  size: 103, 93
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_02
+  rotate: false
+  xy: 632, 641
+  size: 103, 94
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_03
+  rotate: false
+  xy: 2, 556
+  size: 103, 95
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_04
+  rotate: false
+  xy: 107, 555
+  size: 103, 95
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_05
+  rotate: false
+  xy: 212, 551
+  size: 103, 95
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_06
+  rotate: false
+  xy: 422, 737
+  size: 103, 90
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_07
+  rotate: false
+  xy: 527, 737
+  size: 103, 90
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_08
+  rotate: false
+  xy: 107, 744
+  size: 103, 83
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_09
+  rotate: false
+  xy: 2, 745
+  size: 103, 82
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_10
+  rotate: false
+  xy: 212, 740
+  size: 103, 87
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_11
+  rotate: false
+  xy: 632, 737
+  size: 103, 90
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_12
+  rotate: true
+  xy: 737, 724
+  size: 103, 92
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_13
+  rotate: false
+  xy: 317, 643
+  size: 103, 92
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_14
+  rotate: false
+  xy: 422, 643
+  size: 103, 92
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_15
+  rotate: false
+  xy: 2, 653
+  size: 103, 90
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_16
+  rotate: false
+  xy: 107, 652
+  size: 103, 90
+  orig: 106, 110
+  offset: 3, 0
+  index: -1
+xiaohuo/xiaohuo_17
+  rotate: false
+  xy: 212, 648
+  size: 103, 90
+  orig: 106, 110
+  offset: 3, 0
+  index: -1

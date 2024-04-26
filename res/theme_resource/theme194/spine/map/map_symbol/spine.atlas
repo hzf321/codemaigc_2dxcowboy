@@ -1,0 +1,27 @@
+
+bouns_sj_01.png
+size: 489,487
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feichau02
+  rotate: true
+  xy: 306, 5
+  size: 265, 183
+  orig: 265, 183
+  offset: 0, 0
+  index: -1
+gaoliang03
+  rotate: false
+  xy: 0, 272
+  size: 322, 215
+  orig: 322, 215
+  offset: 0, 0
+  index: -1
+shouji
+  rotate: false
+  xy: 0, 64
+  size: 304, 206
+  orig: 304, 206
+  offset: 0, 0
+  index: -1

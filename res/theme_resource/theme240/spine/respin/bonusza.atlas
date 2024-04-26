@@ -1,0 +1,139 @@
+
+bonusza.png
+size: 1084,1083
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus
+  rotate: false
+  xy: 981, 654
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+energyhitring1 - 副本
+  rotate: true
+  xy: 983, 697
+  size: 96, 101
+  orig: 102, 102
+  offset: 1, 1
+  index: -1
+kuosanguang/kuosanguang_01
+  rotate: true
+  xy: 680, 133
+  size: 182, 159
+  orig: 326, 326
+  offset: 64, 72
+  index: -1
+kuosanguang/kuosanguang_03
+  rotate: true
+  xy: 483, 49
+  size: 217, 195
+  orig: 326, 326
+  offset: 49, 57
+  index: -1
+kuosanguang/kuosanguang_05
+  rotate: true
+  xy: 259, 15
+  size: 251, 222
+  orig: 326, 326
+  offset: 29, 40
+  index: -1
+kuosanguang/kuosanguang_07
+  rotate: false
+  xy: 0, 224
+  size: 257, 230
+  orig: 326, 326
+  offset: 36, 47
+  index: -1
+kuosanguang/kuosanguang_09
+  rotate: true
+  xy: 0, 0
+  size: 222, 218
+  orig: 326, 326
+  offset: 44, 53
+  index: -1
+one_00
+  rotate: true
+  xy: 983, 939
+  size: 144, 92
+  orig: 200, 152
+  offset: 28, 29
+  index: -1
+onemore
+  rotate: false
+  xy: 587, 317
+  size: 266, 155
+  orig: 266, 155
+  offset: 0, 0
+  index: -1
+qipanzha/qipanzha_00
+  rotate: false
+  xy: 841, 11
+  size: 185, 197
+  orig: 330, 322
+  offset: 70, 54
+  index: -1
+qipanzha/qipanzha_02
+  rotate: true
+  xy: 324, 268
+  size: 232, 261
+  orig: 330, 322
+  offset: 41, 17
+  index: -1
+qipanzha/qipanzha_04
+  rotate: true
+  xy: 324, 502
+  size: 257, 301
+  orig: 330, 322
+  offset: 37, 0
+  index: -1
+qipanzha/qipanzha_07
+  rotate: true
+  xy: 657, 474
+  size: 303, 322
+  orig: 330, 322
+  offset: 27, 0
+  index: -1
+qipanzha/qipanzha_09
+  rotate: true
+  xy: 0, 456
+  size: 303, 322
+  orig: 330, 322
+  offset: 12, 0
+  index: -1
+qipanzha/qipanzha_11
+  rotate: false
+  xy: 332, 761
+  size: 323, 322
+  orig: 330, 322
+  offset: 0, 0
+  index: -1
+qipanzha/qipanzha_13
+  rotate: false
+  xy: 0, 761
+  size: 330, 322
+  orig: 330, 322
+  offset: 0, 0
+  index: -1
+qipanzha/qipanzha_17
+  rotate: false
+  xy: 657, 779
+  size: 324, 304
+  orig: 330, 322
+  offset: 6, 0
+  index: -1
+wins2
+  rotate: true
+  xy: 855, 210
+  size: 262, 154
+  orig: 262, 154
+  offset: 0, 0
+  index: -1
+x2_00
+  rotate: true
+  xy: 983, 795
+  size: 142, 88
+  orig: 200, 152
+  offset: 29, 30
+  index: -1

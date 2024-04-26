@@ -1,0 +1,146 @@
+
+1x5nvren.png
+size: 866,654
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvren/biyan
+  rotate: false
+  xy: 267, 83
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+nvren/bizui
+  rotate: false
+  xy: 294, 59
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+nvren/bj
+  rotate: false
+  xy: 168, 107
+  size: 163, 547
+  orig: 163, 547
+  offset: 0, 0
+  index: -1
+nvren/cao
+  rotate: false
+  xy: 667, 170
+  size: 154, 222
+  orig: 154, 222
+  offset: 0, 0
+  index: -1
+nvren/houfa
+  rotate: false
+  xy: 133, 2
+  size: 26, 97
+  orig: 26, 97
+  offset: 0, 0
+  index: -1
+nvren/kuang
+  rotate: false
+  xy: 0, 101
+  size: 166, 553
+  orig: 166, 553
+  offset: 0, 0
+  index: -1
+nvren/kuang1
+  rotate: false
+  xy: 0, 10
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+nvren/kuang4
+  rotate: false
+  xy: 333, 210
+  size: 166, 444
+  orig: 166, 444
+  offset: 0, 0
+  index: -1
+nvren/mao
+  rotate: false
+  xy: 833, 221
+  size: 33, 433
+  orig: 33, 433
+  offset: 0, 0
+  index: -1
+nvren/qunzi
+  rotate: false
+  xy: 501, 394
+  size: 330, 260
+  orig: 330, 260
+  offset: 0, 0
+  index: -1
+nvren/shenti
+  rotate: false
+  xy: 501, 44
+  size: 164, 348
+  orig: 164, 348
+  offset: 0, 0
+  index: -1
+nvren/t jinbi
+  rotate: false
+  xy: 267, 53
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+nvren/t yumao
+  rotate: false
+  xy: 435, 18
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+nvren/x zhuangshi
+  rotate: false
+  xy: 232, 4
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+nvren/y fashi
+  rotate: false
+  xy: 435, 100
+  size: 56, 108
+  orig: 56, 108
+  offset: 0, 0
+  index: -1
+nvren/y gebo
+  rotate: false
+  xy: 333, 37
+  size: 100, 171
+  orig: 100, 171
+  offset: 0, 0
+  index: -1
+nvren/yaoshi
+  rotate: false
+  xy: 192, 0
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+nvren/yingzi4
+  rotate: false
+  xy: 667, 6
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: -1
+nvren/z shoubi
+  rotate: false
+  xy: 192, 46
+  size: 73, 59
+  orig: 73, 59
+  offset: 0, 0
+  index: -1
+nvren/z yumao
+  rotate: false
+  xy: 161, 22
+  size: 29, 77
+  orig: 29, 77
+  offset: 0, 0
+  index: -1

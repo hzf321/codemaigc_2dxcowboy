@@ -1,0 +1,153 @@
+
+zp_ze_01.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xg02
+  rotate: false
+  xy: 2, 254
+  size: 125, 124
+  orig: 128, 128
+  offset: 3, 0
+  index: -1
+zhizhen/zhisg_00
+  rotate: false
+  xy: 2, 2
+  size: 9, 12
+  orig: 140, 100
+  offset: 9, 77
+  index: -1
+zhizhen/zhisg_01
+  rotate: true
+  xy: 350, 249
+  size: 24, 28
+  orig: 140, 100
+  offset: 3, 69
+  index: -1
+zhizhen/zhisg_02
+  rotate: true
+  xy: 170, 2
+  size: 33, 36
+  orig: 140, 100
+  offset: 0, 63
+  index: -1
+zhizhen/zhisg_03
+  rotate: false
+  xy: 2, 16
+  size: 72, 42
+  orig: 140, 100
+  offset: 0, 57
+  index: -1
+zhizhen/zhisg_04
+  rotate: false
+  xy: 305, 275
+  size: 73, 49
+  orig: 140, 100
+  offset: 0, 50
+  index: -1
+zhizhen/zhisg_05
+  rotate: false
+  xy: 305, 326
+  size: 73, 52
+  orig: 140, 100
+  offset: 1, 46
+  index: -1
+zhizhen/zhisg_06
+  rotate: true
+  xy: 259, 113
+  size: 72, 57
+  orig: 140, 100
+  offset: 4, 39
+  index: -1
+zhizhen/zhisg_07
+  rotate: true
+  xy: 254, 39
+  size: 72, 64
+  orig: 140, 100
+  offset: 9, 36
+  index: -1
+zhizhen/zhisg_08
+  rotate: false
+  xy: 92, 20
+  size: 76, 66
+  orig: 140, 100
+  offset: 13, 34
+  index: -1
+zhizhen/zhisg_09
+  rotate: false
+  xy: 95, 88
+  size: 77, 69
+  orig: 140, 100
+  offset: 19, 31
+  index: -1
+zhizhen/zhisg_10
+  rotate: false
+  xy: 174, 37
+  size: 78, 75
+  orig: 140, 100
+  offset: 24, 25
+  index: -1
+zhizhen/zhisg_11
+  rotate: false
+  xy: 265, 190
+  size: 83, 83
+  orig: 140, 100
+  offset: 31, 17
+  index: -1
+zhizhen/zhisg_12
+  rotate: true
+  xy: 174, 187
+  size: 90, 89
+  orig: 140, 100
+  offset: 37, 9
+  index: -1
+zhizhen/zhisg_13
+  rotate: false
+  xy: 2, 60
+  size: 88, 93
+  orig: 140, 100
+  offset: 46, 4
+  index: -1
+zhizhen/zhisg_14
+  rotate: false
+  xy: 2, 155
+  size: 91, 97
+  orig: 140, 100
+  offset: 48, 2
+  index: -1
+zhizhen/zhisg_15
+  rotate: false
+  xy: 129, 279
+  size: 88, 99
+  orig: 140, 100
+  offset: 52, 0
+  index: -1
+zhizhen/zhisg_16
+  rotate: false
+  xy: 219, 281
+  size: 84, 97
+  orig: 140, 100
+  offset: 56, 2
+  index: -1
+zhizhen/zhisg_17
+  rotate: false
+  xy: 95, 159
+  size: 77, 93
+  orig: 140, 100
+  offset: 63, 5
+  index: -1
+zhizhen/zhisg_18
+  rotate: true
+  xy: 174, 114
+  size: 71, 83
+  orig: 140, 100
+  offset: 67, 5
+  index: -1
+zhizhen/zhisg_19
+  rotate: true
+  xy: 208, 3
+  size: 32, 39
+  orig: 140, 100
+  offset: 100, 45
+  index: -1

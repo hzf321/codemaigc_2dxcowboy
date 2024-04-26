@@ -1,0 +1,139 @@
+
+jiaobiao3.png
+size: 732,732
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_13
+  rotate: false
+  xy: 2, 586
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_14
+  rotate: false
+  xy: 2, 440
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_15
+  rotate: false
+  xy: 182, 586
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_16
+  rotate: false
+  xy: 2, 294
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_17
+  rotate: false
+  xy: 182, 440
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_18
+  rotate: false
+  xy: 362, 586
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_19
+  rotate: false
+  xy: 2, 148
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_20
+  rotate: false
+  xy: 182, 294
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_21
+  rotate: false
+  xy: 362, 440
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_22
+  rotate: false
+  xy: 542, 586
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_23
+  rotate: false
+  xy: 2, 2
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_24
+  rotate: false
+  xy: 182, 148
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_25
+  rotate: false
+  xy: 362, 294
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_26
+  rotate: false
+  xy: 542, 440
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_27
+  rotate: false
+  xy: 182, 2
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_28
+  rotate: false
+  xy: 362, 148
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+b_29
+  rotate: false
+  xy: 542, 294
+  size: 178, 144
+  orig: 178, 144
+  offset: 0, 0
+  index: -1
+hudie_0
+  rotate: false
+  xy: 362, 7
+  size: 165, 139
+  orig: 165, 139
+  offset: 0, 0
+  index: -1
+particle02
+  rotate: true
+  xy: 542, 181
+  size: 111, 153
+  orig: 111, 153
+  offset: 0, 0
+  index: -1

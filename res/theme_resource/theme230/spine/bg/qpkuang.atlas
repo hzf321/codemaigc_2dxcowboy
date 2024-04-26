@@ -1,0 +1,118 @@
+
+qpkuang.png
+size: 551,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g2
+  rotate: false
+  xy: 2, 380
+  size: 300, 169
+  orig: 300, 169
+  offset: 0, 0
+  index: -1
+s_0
+  rotate: true
+  xy: 180, 17
+  size: 44, 153
+  orig: 50, 400
+  offset: 4, 125
+  index: -1
+s_1
+  rotate: false
+  xy: 492, 114
+  size: 44, 180
+  orig: 50, 400
+  offset: 4, 111
+  index: -1
+s_10
+  rotate: false
+  xy: 2, 2
+  size: 42, 376
+  orig: 50, 400
+  offset: 5, 12
+  index: -1
+s_11
+  rotate: false
+  xy: 318, 125
+  size: 42, 378
+  orig: 50, 400
+  offset: 6, 11
+  index: -1
+s_12
+  rotate: false
+  xy: 362, 125
+  size: 42, 378
+  orig: 50, 400
+  offset: 6, 11
+  index: -1
+s_13
+  rotate: false
+  xy: 406, 124
+  size: 41, 379
+  orig: 50, 400
+  offset: 6, 11
+  index: -1
+s_14
+  rotate: false
+  xy: 449, 125
+  size: 41, 378
+  orig: 50, 400
+  offset: 6, 11
+  index: -1
+s_2
+  rotate: false
+  xy: 492, 296
+  size: 44, 207
+  orig: 50, 400
+  offset: 4, 98
+  index: -1
+s_3
+  rotate: true
+  xy: 304, 505
+  size: 44, 234
+  orig: 50, 400
+  offset: 4, 84
+  index: -1
+s_4
+  rotate: false
+  xy: 272, 117
+  size: 44, 261
+  orig: 50, 400
+  offset: 4, 71
+  index: -1
+s_5
+  rotate: false
+  xy: 226, 90
+  size: 44, 288
+  orig: 50, 400
+  offset: 4, 57
+  index: -1
+s_6
+  rotate: false
+  xy: 180, 63
+  size: 44, 315
+  orig: 50, 400
+  offset: 4, 44
+  index: -1
+s_7
+  rotate: false
+  xy: 134, 36
+  size: 44, 342
+  orig: 50, 400
+  offset: 4, 30
+  index: -1
+s_8
+  rotate: false
+  xy: 90, 17
+  size: 42, 361
+  orig: 50, 400
+  offset: 5, 20
+  index: -1
+s_9
+  rotate: false
+  xy: 46, 6
+  size: 42, 372
+  orig: 50, 400
+  offset: 5, 14
+  index: -1

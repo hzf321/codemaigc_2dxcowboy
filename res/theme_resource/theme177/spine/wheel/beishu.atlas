@@ -1,0 +1,167 @@
+
+beishu.png
+size: 491,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beishu/beishu_00
+  rotate: false
+  xy: 380, 28
+  size: 78, 77
+  orig: 145, 135
+  offset: 32, 30
+  index: -1
+beishu/beishu_01
+  rotate: false
+  xy: 213, 105
+  size: 96, 96
+  orig: 145, 135
+  offset: 22, 20
+  index: -1
+beishu/beishu_02
+  rotate: false
+  xy: 0, 405
+  size: 118, 118
+  orig: 145, 135
+  offset: 11, 9
+  index: -1
+beishu/beishu_03
+  rotate: false
+  xy: 0, 287
+  size: 115, 116
+  orig: 145, 135
+  offset: 13, 10
+  index: -1
+beishu/beishu_04
+  rotate: false
+  xy: 120, 411
+  size: 112, 112
+  orig: 145, 135
+  offset: 14, 12
+  index: -1
+beishu/beishu_05
+  rotate: false
+  xy: 0, 67
+  size: 104, 108
+  orig: 145, 135
+  offset: 17, 15
+  index: -1
+beishu/beishu_06
+  rotate: false
+  xy: 234, 415
+  size: 105, 108
+  orig: 145, 135
+  offset: 16, 15
+  index: -1
+beishu/beishu_07
+  rotate: false
+  xy: 0, 177
+  size: 107, 108
+  orig: 145, 135
+  offset: 15, 15
+  index: -1
+beishu/beishu_08
+  rotate: false
+  xy: 341, 415
+  size: 102, 108
+  orig: 145, 135
+  offset: 18, 15
+  index: -1
+beishu/beishu_09
+  rotate: false
+  xy: 109, 178
+  size: 102, 107
+  orig: 145, 135
+  offset: 18, 15
+  index: -1
+beishu/beishu_10
+  rotate: false
+  xy: 106, 68
+  size: 102, 107
+  orig: 145, 135
+  offset: 18, 15
+  index: -1
+beishu/beishu_11
+  rotate: false
+  xy: 117, 297
+  size: 101, 106
+  orig: 145, 135
+  offset: 19, 16
+  index: -1
+beishu/beishu_12
+  rotate: false
+  xy: 220, 304
+  size: 100, 105
+  orig: 145, 135
+  offset: 19, 16
+  index: -1
+beishu/beishu_13
+  rotate: false
+  xy: 322, 311
+  size: 99, 102
+  orig: 145, 135
+  offset: 20, 17
+  index: -1
+beishu/beishu_14
+  rotate: false
+  xy: 220, 203
+  size: 97, 99
+  orig: 145, 135
+  offset: 22, 17
+  index: -1
+beishu/beishu_15
+  rotate: false
+  xy: 210, 5
+  size: 95, 98
+  orig: 145, 135
+  offset: 24, 18
+  index: -1
+beishu/beishu_16
+  rotate: false
+  xy: 311, 107
+  size: 91, 94
+  orig: 145, 135
+  offset: 27, 21
+  index: -1
+beishu/beishu_17
+  rotate: false
+  xy: 404, 215
+  size: 87, 94
+  orig: 145, 135
+  offset: 31, 21
+  index: -1
+beishu/beishu_18
+  rotate: false
+  xy: 404, 120
+  size: 87, 93
+  orig: 145, 135
+  offset: 31, 21
+  index: -1
+beishu/beishu_19
+  rotate: false
+  xy: 307, 14
+  size: 71, 89
+  orig: 145, 135
+  offset: 46, 24
+  index: -1
+beishu/beishu_20
+  rotate: false
+  xy: 423, 332
+  size: 63, 81
+  orig: 145, 135
+  offset: 54, 31
+  index: -1
+beishu/beishu_21
+  rotate: false
+  xy: 106, 0
+  size: 53, 66
+  orig: 145, 135
+  offset: 58, 43
+  index: -1
+beishu/beishu_22
+  rotate: false
+  xy: 210, 175
+  size: 1, 1
+  orig: 145, 135
+  offset: 110, 43
+  index: -1

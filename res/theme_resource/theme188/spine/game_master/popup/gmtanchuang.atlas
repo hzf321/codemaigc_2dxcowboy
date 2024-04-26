@@ -1,0 +1,489 @@
+
+gmtanchuang.png
+size: 1906,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaotisao/biaotisao_00
+  rotate: false
+  xy: 1334, 6
+  size: 40, 86
+  orig: 207, 149
+  offset: 8, 41
+  index: -1
+biaotisao/biaotisao_02
+  rotate: true
+  xy: 1075, 127
+  size: 64, 103
+  orig: 207, 149
+  offset: 8, 25
+  index: -1
+biaotisao/biaotisao_04
+  rotate: true
+  xy: 1145, 244
+  size: 81, 107
+  orig: 207, 149
+  offset: 8, 22
+  index: -1
+biaotisao/biaotisao_06
+  rotate: false
+  xy: 975, 113
+  size: 98, 112
+  orig: 207, 149
+  offset: 10, 16
+  index: -1
+biaotisao/biaotisao_08
+  rotate: false
+  xy: 1577, 205
+  size: 99, 112
+  orig: 207, 149
+  offset: 25, 16
+  index: -1
+biaotisao/biaotisao_10
+  rotate: true
+  xy: 1254, 226
+  size: 99, 107
+  orig: 207, 149
+  offset: 42, 16
+  index: -1
+biaotisao/biaotisao_12
+  rotate: false
+  xy: 930, 2
+  size: 98, 106
+  orig: 207, 149
+  offset: 61, 16
+  index: -1
+biaotisao/biaotisao_14
+  rotate: false
+  xy: 1076, 27
+  size: 98, 98
+  orig: 207, 149
+  offset: 78, 23
+  index: -1
+biaotisao/biaotisao_16
+  rotate: false
+  xy: 1785, 127
+  size: 95, 90
+  orig: 207, 149
+  offset: 88, 31
+  index: -1
+biaotisao/biaotisao_18
+  rotate: false
+  xy: 1241, 6
+  size: 91, 86
+  orig: 207, 149
+  offset: 97, 33
+  index: -1
+biaotisao/biaotisao_20
+  rotate: false
+  xy: 1442, 108
+  size: 83, 82
+  orig: 207, 149
+  offset: 106, 33
+  index: -1
+biaotisao/biaotisao_22
+  rotate: false
+  xy: 1180, 108
+  size: 71, 80
+  orig: 207, 149
+  offset: 118, 34
+  index: -1
+biaotisao/biaotisao_24
+  rotate: false
+  xy: 1176, 26
+  size: 63, 80
+  orig: 207, 149
+  offset: 126, 34
+  index: -1
+biaotisao/biaotisao_26
+  rotate: false
+  xy: 1376, 25
+  size: 54, 78
+  orig: 207, 149
+  offset: 135, 35
+  index: -1
+biaotisao/biaotisao_28
+  rotate: true
+  xy: 1574, 103
+  size: 44, 72
+  orig: 207, 149
+  offset: 145, 39
+  index: -1
+gamemaster/shandiankuang01_0
+  rotate: false
+  xy: 1253, 94
+  size: 96, 79
+  orig: 106, 85
+  offset: 5, 4
+  index: -1
+gamemaster/theme188_gamemaster1
+  rotate: true
+  xy: 1587, 319
+  size: 114, 89
+  orig: 144, 124
+  offset: 12, 21
+  index: -1
+gamemaster/theme188_gamemaster11
+  rotate: false
+  xy: 2, 61
+  size: 470, 479
+  orig: 470, 479
+  offset: 0, 0
+  index: -1
+gamemaster/theme188_gamemaster2
+  rotate: false
+  xy: 474, 304
+  size: 430, 236
+  orig: 430, 236
+  offset: 0, 0
+  index: -1
+gamemaster/theme188_gamemaster3
+  rotate: false
+  xy: 972, 227
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+gamemaster/theme188_gamemaster4
+  rotate: false
+  xy: 746, 110
+  size: 227, 82
+  orig: 227, 82
+  offset: 0, 0
+  index: -1
+gamemaster/theme188_gamemaster7
+  rotate: false
+  xy: 906, 447
+  size: 298, 93
+  orig: 298, 93
+  offset: 0, 0
+  index: -1
+gamemaster1/gamemaster_00
+  rotate: false
+  xy: 1648, 106
+  size: 26, 41
+  orig: 86, 79
+  offset: 13, 16
+  index: -1
+gamemaster1/gamemaster_02
+  rotate: false
+  xy: 1491, 64
+  size: 34, 42
+  orig: 86, 79
+  offset: 13, 16
+  index: -1
+gamemaster1/gamemaster_04
+  rotate: false
+  xy: 1794, 20
+  size: 42, 52
+  orig: 86, 79
+  offset: 13, 13
+  index: -1
+gamemaster1/gamemaster_06
+  rotate: true
+  xy: 1690, 2
+  size: 46, 55
+  orig: 86, 79
+  offset: 13, 11
+  index: -1
+gamemaster1/gamemaster_08
+  rotate: true
+  xy: 1194, 190
+  size: 52, 57
+  orig: 86, 79
+  offset: 13, 10
+  index: -1
+gamemaster1/gamemaster_10
+  rotate: false
+  xy: 451, 2
+  size: 57, 57
+  orig: 86, 79
+  offset: 13, 10
+  index: -1
+gamemaster1/gamemaster_12
+  rotate: false
+  xy: 1574, 44
+  size: 57, 57
+  orig: 86, 79
+  offset: 13, 10
+  index: -1
+gamemaster1/gamemaster_14
+  rotate: false
+  xy: 1432, 46
+  size: 57, 57
+  orig: 86, 79
+  offset: 13, 10
+  index: -1
+gamemaster1/gamemaster_16
+  rotate: false
+  xy: 1491, 3
+  size: 57, 57
+  orig: 86, 79
+  offset: 13, 10
+  index: -1
+gamemaster1/gamemaster_18
+  rotate: false
+  xy: 1633, 44
+  size: 55, 57
+  orig: 86, 79
+  offset: 15, 10
+  index: -1
+gamemaster1/gamemaster_20
+  rotate: false
+  xy: 1690, 50
+  size: 51, 57
+  orig: 86, 79
+  offset: 19, 10
+  index: -1
+gamemaster1/gamemaster_22
+  rotate: false
+  xy: 1527, 62
+  size: 45, 57
+  orig: 86, 79
+  offset: 25, 10
+  index: -1
+gamemaster1/gamemaster_24
+  rotate: true
+  xy: 1432, 2
+  size: 40, 57
+  orig: 86, 79
+  offset: 30, 10
+  index: -1
+gamemaster1/gamemaster_26
+  rotate: true
+  xy: 1550, 7
+  size: 35, 56
+  orig: 86, 79
+  offset: 35, 11
+  index: -1
+gamemaster1/gamemaster_28
+  rotate: true
+  xy: 906, 306
+  size: 31, 53
+  orig: 86, 79
+  offset: 39, 13
+  index: -1
+sd/sd_00
+  rotate: false
+  xy: 1747, 16
+  size: 45, 56
+  orig: 74, 122
+  offset: 13, 56
+  index: -1
+sd/sd_02
+  rotate: false
+  xy: 1527, 121
+  size: 45, 69
+  orig: 74, 122
+  offset: 11, 43
+  index: -1
+sd/sd_04
+  rotate: true
+  xy: 622, 7
+  size: 54, 80
+  orig: 74, 122
+  offset: 6, 31
+  index: -1
+sd/sd_06
+  rotate: false
+  xy: 1030, 3
+  size: 44, 108
+  orig: 74, 122
+  offset: 13, 3
+  index: -1
+sd/sd_08
+  rotate: true
+  xy: 1469, 192
+  size: 47, 103
+  orig: 74, 122
+  offset: 10, 10
+  index: -1
+sd/sd_10
+  rotate: true
+  xy: 1253, 175
+  size: 49, 98
+  orig: 74, 122
+  offset: 13, 15
+  index: -1
+sd/sd_12
+  rotate: true
+  xy: 2, 2
+  size: 57, 101
+  orig: 74, 122
+  offset: 14, 10
+  index: -1
+sd/sd_14
+  rotate: true
+  xy: 510, 12
+  size: 49, 110
+  orig: 74, 122
+  offset: 7, 2
+  index: -1
+sd/sd_16
+  rotate: true
+  xy: 1363, 193
+  size: 46, 104
+  orig: 74, 122
+  offset: 11, 7
+  index: -1
+sd/sd_18
+  rotate: true
+  xy: 1777, 74
+  size: 51, 97
+  orig: 74, 122
+  offset: 11, 16
+  index: -1
+sd/sd_20
+  rotate: true
+  xy: 1085, 193
+  size: 49, 107
+  orig: 74, 122
+  offset: 11, 4
+  index: -1
+sd/sd_22
+  rotate: true
+  xy: 1574, 149
+  size: 54, 100
+  orig: 74, 122
+  offset: 6, 11
+  index: -1
+sd/sd_24
+  rotate: true
+  xy: 1676, 109
+  size: 60, 99
+  orig: 74, 122
+  offset: 9, 12
+  index: -1
+sd/sd_26
+  rotate: true
+  xy: 1678, 171
+  size: 46, 105
+  orig: 74, 122
+  offset: 14, 6
+  index: -1
+sd/sd_28
+  rotate: false
+  xy: 1085, 244
+  size: 58, 93
+  orig: 74, 122
+  offset: 10, 18
+  index: -1
+theme188_collect_1_3
+  rotate: true
+  xy: 1353, 105
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+theme188_p_f4
+  rotate: true
+  xy: 474, 173
+  size: 129, 270
+  orig: 129, 270
+  offset: 0, 0
+  index: -1
+waikuang/waikuang_00
+  rotate: true
+  xy: 281, 11
+  size: 48, 168
+  orig: 257, 250
+  offset: 9, 31
+  index: -1
+waikuang/waikuang_02
+  rotate: true
+  xy: 1678, 285
+  size: 69, 194
+  orig: 257, 250
+  offset: 9, 22
+  index: -1
+waikuang/waikuang_04
+  rotate: true
+  xy: 1367, 241
+  size: 90, 208
+  orig: 257, 250
+  offset: 10, 20
+  index: -1
+waikuang/waikuang_06
+  rotate: true
+  xy: 1678, 437
+  size: 103, 226
+  orig: 257, 250
+  offset: 19, 10
+  index: -1
+waikuang/waikuang_08
+  rotate: true
+  xy: 1206, 435
+  size: 105, 234
+  orig: 257, 250
+  offset: 38, 6
+  index: -1
+waikuang/waikuang_10
+  rotate: true
+  xy: 906, 339
+  size: 106, 237
+  orig: 257, 250
+  offset: 57, 6
+  index: -1
+waikuang/waikuang_12
+  rotate: true
+  xy: 474, 63
+  size: 108, 238
+  orig: 257, 250
+  offset: 77, 6
+  index: -1
+waikuang/waikuang_14
+  rotate: true
+  xy: 1442, 435
+  size: 105, 234
+  orig: 257, 250
+  offset: 98, 10
+  index: -1
+waikuang/waikuang_16
+  rotate: true
+  xy: 746, 194
+  size: 108, 224
+  orig: 257, 250
+  offset: 110, 19
+  index: -1
+waikuang/waikuang_18
+  rotate: true
+  xy: 1145, 327
+  size: 106, 220
+  orig: 257, 250
+  offset: 123, 22
+  index: -1
+waikuang/waikuang_20
+  rotate: true
+  xy: 1367, 333
+  size: 100, 218
+  orig: 257, 250
+  offset: 137, 22
+  index: -1
+waikuang/waikuang_22
+  rotate: true
+  xy: 714, 17
+  size: 91, 214
+  orig: 257, 250
+  offset: 151, 23
+  index: -1
+waikuang/waikuang_24
+  rotate: true
+  xy: 1678, 356
+  size: 79, 202
+  orig: 257, 250
+  offset: 164, 30
+  index: -1
+waikuang/waikuang_26
+  rotate: true
+  xy: 1678, 219
+  size: 64, 187
+  orig: 257, 250
+  offset: 179, 40
+  index: -1
+waikuang/waikuang_28
+  rotate: true
+  xy: 105, 9
+  size: 50, 174
+  orig: 257, 250
+  offset: 193, 46
+  index: -1

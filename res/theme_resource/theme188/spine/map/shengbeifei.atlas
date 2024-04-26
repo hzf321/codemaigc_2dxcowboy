@@ -1,0 +1,20 @@
+
+shengbeifei.png
+size: 228,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang_00
+  rotate: false
+  xy: 0, 0
+  size: 139, 142
+  orig: 221, 203
+  offset: 24, 39
+  index: -1
+theme188_map_14
+  rotate: false
+  xy: 141, 57
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+jdt_juan.png
+size: 458,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/ci_16_0_0
+  rotate: false
+  xy: 2, 24
+  size: 240, 246
+  orig: 256, 256
+  offset: 7, 5
+  index: -1
+tx/juanzhou
+  rotate: false
+  xy: 244, 163
+  size: 125, 107
+  orig: 125, 107
+  offset: 0, 0
+  index: -1
+tx/lizi
+  rotate: true
+  xy: 371, 193
+  size: 77, 78
+  orig: 80, 80
+  offset: 2, 1
+  index: -1
+tx/sao/sao_10
+  rotate: true
+  xy: 365, 56
+  size: 44, 51
+  orig: 73, 64
+  offset: 10, 5
+  index: -1
+tx/sao/sao_11
+  rotate: true
+  xy: 368, 102
+  size: 45, 50
+  orig: 73, 64
+  offset: 15, 5
+  index: -1
+tx/sao/sao_12
+  rotate: false
+  xy: 244, 26
+  size: 44, 46
+  orig: 73, 64
+  offset: 21, 10
+  index: -1
+tx/sao/sao_13
+  rotate: false
+  xy: 420, 88
+  size: 36, 47
+  orig: 73, 64
+  offset: 29, 9
+  index: -1
+tx/sao/sao_14
+  rotate: false
+  xy: 290, 25
+  size: 35, 47
+  orig: 73, 64
+  offset: 33, 9
+  index: -1
+tx/sao/sao_15
+  rotate: false
+  xy: 333, 58
+  size: 30, 47
+  orig: 73, 64
+  offset: 38, 9
+  index: -1
+tx/sao/sao_16
+  rotate: true
+  xy: 352, 5
+  size: 25, 47
+  orig: 73, 64
+  offset: 43, 9
+  index: -1
+tx/sao/sao_17
+  rotate: true
+  xy: 56, 2
+  size: 20, 47
+  orig: 73, 64
+  offset: 48, 9
+  index: -1
+tx/sao/sao_18
+  rotate: true
+  xy: 153, 8
+  size: 14, 45
+  orig: 73, 64
+  offset: 54, 9
+  index: -1
+tx/sao/sao_19
+  rotate: true
+  xy: 200, 12
+  size: 10, 26
+  orig: 73, 64
+  offset: 58, 10
+  index: -1
+tx/sao/sao_2
+  rotate: true
+  xy: 200, 2
+  size: 8, 21
+  orig: 73, 64
+  offset: 6, 38
+  index: -1
+tx/sao/sao_3
+  rotate: true
+  xy: 105, 8
+  size: 14, 46
+  orig: 73, 64
+  offset: 5, 13
+  index: -1
+tx/sao/sao_4
+  rotate: true
+  xy: 2, 4
+  size: 18, 52
+  orig: 73, 64
+  offset: 5, 7
+  index: -1
+tx/sao/sao_5
+  rotate: false
+  xy: 327, 2
+  size: 23, 54
+  orig: 73, 64
+  offset: 5, 5
+  index: -1
+tx/sao/sao_6
+  rotate: false
+  xy: 427, 137
+  size: 28, 54
+  orig: 73, 64
+  offset: 5, 5
+  index: -1
+tx/sao/sao_7
+  rotate: false
+  xy: 333, 107
+  size: 33, 54
+  orig: 73, 64
+  offset: 5, 5
+  index: -1
+tx/sao/sao_8
+  rotate: false
+  xy: 418, 32
+  size: 38, 54
+  orig: 73, 64
+  offset: 5, 5
+  index: -1
+tx/sao/sao_9
+  rotate: true
+  xy: 371, 149
+  size: 42, 54
+  orig: 73, 64
+  offset: 6, 5
+  index: -1
+tx/xingguang_0
+  rotate: false
+  xy: 244, 74
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1

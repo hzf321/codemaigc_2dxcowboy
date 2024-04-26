@@ -1,0 +1,62 @@
+
+m2.png
+size: 209,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bz
+  rotate: false
+  xy: 118, 144
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+images/d
+  rotate: false
+  xy: 2, 68
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+images/dis
+  rotate: false
+  xy: 2, 126
+  size: 114, 81
+  orig: 114, 81
+  offset: 0, 0
+  index: -1
+images/erd1
+  rotate: false
+  xy: 177, 177
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+images/erd2
+  rotate: false
+  xy: 177, 149
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+images/k
+  rotate: false
+  xy: 2, 2
+  size: 118, 17
+  orig: 118, 17
+  offset: 0, 0
+  index: -1
+images/st
+  rotate: false
+  xy: 2, 21
+  size: 114, 45
+  orig: 114, 45
+  offset: 0, 0
+  index: -1
+images/t
+  rotate: false
+  xy: 118, 92
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1

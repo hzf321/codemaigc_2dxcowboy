@@ -1,0 +1,97 @@
+
+zhuanpan2.png
+size: 955,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi_0
+  rotate: false
+  xy: 0, 2
+  size: 75, 72
+  orig: 75, 75
+  offset: 0, 1
+  index: -1
+lizi_1
+  rotate: false
+  xy: 153, 1
+  size: 73, 73
+  orig: 75, 75
+  offset: 1, 0
+  index: -1
+lizi_10
+  rotate: false
+  xy: 303, 2
+  size: 74, 72
+  orig: 75, 75
+  offset: 0, 3
+  index: -1
+lizi_11
+  rotate: false
+  xy: 825, 6
+  size: 66, 68
+  orig: 75, 75
+  offset: 3, 5
+  index: -1
+lizi_2
+  rotate: false
+  xy: 604, 0
+  size: 71, 74
+  orig: 75, 75
+  offset: 3, 0
+  index: -1
+lizi_3
+  rotate: false
+  xy: 677, 1
+  size: 71, 73
+  orig: 75, 75
+  offset: 2, 1
+  index: -1
+lizi_4
+  rotate: false
+  xy: 379, 3
+  size: 74, 71
+  orig: 75, 75
+  offset: 0, 1
+  index: -1
+lizi_5
+  rotate: false
+  xy: 228, 1
+  size: 73, 73
+  orig: 75, 75
+  offset: 2, 0
+  index: -1
+lizi_6
+  rotate: false
+  xy: 530, 1
+  size: 72, 73
+  orig: 75, 75
+  offset: 1, 0
+  index: -1
+lizi_7
+  rotate: false
+  xy: 77, 1
+  size: 74, 73
+  orig: 75, 75
+  offset: 1, 0
+  index: -1
+lizi_8
+  rotate: false
+  xy: 455, 2
+  size: 73, 72
+  orig: 75, 75
+  offset: 2, 2
+  index: -1
+lizi_9
+  rotate: false
+  xy: 750, 3
+  size: 73, 71
+  orig: 75, 75
+  offset: 2, 2
+  index: -1
+quannnn_0
+  rotate: false
+  xy: 893, 12
+  size: 62, 62
+  orig: 64, 64
+  offset: 2, 0
+  index: -1

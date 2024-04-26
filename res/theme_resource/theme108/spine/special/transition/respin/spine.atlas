@@ -1,0 +1,97 @@
+
+ZS_qieping02.png
+size: 853,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+QP_shandian01/QP_shandian02_1
+  rotate: true
+  xy: 2, 2
+  size: 2, 1
+  orig: 448, 364
+  offset: 202, 360
+  index: -1
+QP_shandian01/QP_shandian02_10
+  rotate: false
+  xy: 600, 670
+  size: 229, 360
+  orig: 448, 364
+  offset: 94, 1
+  index: -1
+QP_shandian01/QP_shandian02_2
+  rotate: true
+  xy: 726, 157
+  size: 149, 125
+  orig: 448, 364
+  offset: 127, 236
+  index: -1
+QP_shandian01/QP_shandian02_3
+  rotate: false
+  xy: 2, 308
+  size: 305, 360
+  orig: 448, 364
+  offset: 143, 1
+  index: -1
+QP_shandian01/QP_shandian02_4
+  rotate: false
+  xy: 2, 670
+  size: 309, 360
+  orig: 448, 364
+  offset: 139, 1
+  index: -1
+QP_shandian01/QP_shandian02_5
+  rotate: true
+  xy: 364, 120
+  size: 186, 360
+  orig: 448, 364
+  offset: 119, 1
+  index: -1
+QP_shandian01/QP_shandian02_6
+  rotate: false
+  xy: 592, 308
+  size: 194, 360
+  orig: 448, 364
+  offset: 120, 1
+  index: -1
+QP_shandian01/QP_shandian02_7
+  rotate: false
+  xy: 313, 670
+  size: 285, 360
+  orig: 448, 364
+  offset: 0, 1
+  index: -1
+QP_shandian01/QP_shandian02_8
+  rotate: false
+  xy: 309, 308
+  size: 281, 360
+  orig: 448, 364
+  offset: 0, 1
+  index: -1
+QP_shandian01/QP_shandian02_9
+  rotate: true
+  xy: 2, 60
+  size: 246, 360
+  orig: 448, 364
+  offset: 82, 1
+  index: -1
+shandianguangliang01
+  rotate: false
+  xy: 364, 69
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+shandianguangliang02
+  rotate: true
+  xy: 2, 6
+  size: 52, 100
+  orig: 53, 100
+  offset: 0, 0
+  index: -1
+shandianguangliang03
+  rotate: false
+  xy: 788, 644
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1

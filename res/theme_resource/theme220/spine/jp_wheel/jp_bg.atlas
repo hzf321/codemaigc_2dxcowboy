@@ -1,0 +1,13 @@
+
+jp_bg.png
+size: 249,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wu_00
+  rotate: false
+  xy: 2, 2
+  size: 241, 245
+  orig: 256, 256
+  offset: 9, 6
+  index: -1

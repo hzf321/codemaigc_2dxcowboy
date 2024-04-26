@@ -1,0 +1,62 @@
+
+zj.png
+size: 748,746
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tx/5_0
+  rotate: false
+  xy: 514, 303
+  size: 234, 178
+  orig: 319, 259
+  offset: 42, 42
+  index: -1
+tx/tx/5_1
+  rotate: false
+  xy: 0, 2
+  size: 235, 179
+  orig: 319, 259
+  offset: 42, 41
+  index: -1
+tx/tx/5_2
+  rotate: false
+  xy: 237, 2
+  size: 235, 179
+  orig: 319, 259
+  offset: 43, 41
+  index: -1
+tx/tx/7_1
+  rotate: true
+  xy: 514, 39
+  size: 262, 210
+  orig: 288, 266
+  offset: 15, 27
+  index: -1
+tx/tx/7_2
+  rotate: false
+  xy: 0, 483
+  size: 298, 263
+  orig: 304, 263
+  offset: 3, 0
+  index: -1
+tx/tx/bar_0
+  rotate: false
+  xy: 300, 483
+  size: 298, 263
+  orig: 304, 263
+  offset: 3, 0
+  index: -1
+tx/tx/bar_1
+  rotate: true
+  xy: 0, 183
+  size: 298, 263
+  orig: 304, 263
+  offset: 3, 0
+  index: -1
+tx/tx/bar_2
+  rotate: true
+  xy: 265, 183
+  size: 298, 247
+  orig: 304, 263
+  offset: 3, 8
+  index: -1

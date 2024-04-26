@@ -1,0 +1,251 @@
+
+m4_01.png
+size: 173,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boliliuguang_2/boliliuguang_10
+  rotate: false
+  xy: 94, 51
+  size: 9, 15
+  orig: 28, 16
+  offset: 3, 0
+  index: -1
+boliliuguang_2/boliliuguang_11
+  rotate: false
+  xy: 84, 26
+  size: 8, 15
+  orig: 28, 16
+  offset: 4, 0
+  index: -1
+boliliuguang_2/boliliuguang_12
+  rotate: false
+  xy: 62, 9
+  size: 9, 15
+  orig: 28, 16
+  offset: 5, 0
+  index: -1
+boliliuguang_2/boliliuguang_13
+  rotate: false
+  xy: 105, 51
+  size: 9, 15
+  orig: 28, 16
+  offset: 6, 0
+  index: -1
+boliliuguang_2/boliliuguang_14
+  rotate: false
+  xy: 73, 26
+  size: 9, 15
+  orig: 28, 16
+  offset: 7, 0
+  index: -1
+boliliuguang_2/boliliuguang_15
+  rotate: false
+  xy: 73, 9
+  size: 9, 15
+  orig: 28, 16
+  offset: 8, 0
+  index: -1
+boliliuguang_2/boliliuguang_16
+  rotate: false
+  xy: 94, 34
+  size: 8, 15
+  orig: 28, 16
+  offset: 10, 0
+  index: -1
+boliliuguang_2/boliliuguang_17
+  rotate: false
+  xy: 127, 53
+  size: 9, 13
+  orig: 28, 16
+  offset: 11, 2
+  index: -1
+boliliuguang_2/boliliuguang_18
+  rotate: false
+  xy: 104, 36
+  size: 8, 13
+  orig: 28, 16
+  offset: 12, 2
+  index: -1
+boliliuguang_2/boliliuguang_19
+  rotate: false
+  xy: 84, 11
+  size: 8, 13
+  orig: 28, 16
+  offset: 13, 2
+  index: -1
+boliliuguang_2/boliliuguang_2
+  rotate: false
+  xy: 90, 6
+  size: 2, 3
+  orig: 28, 16
+  offset: 1, 2
+  index: -1
+boliliuguang_2/boliliuguang_20
+  rotate: true
+  xy: 138, 54
+  size: 8, 11
+  orig: 28, 16
+  offset: 14, 3
+  index: -1
+boliliuguang_2/boliliuguang_21
+  rotate: true
+  xy: 151, 54
+  size: 8, 11
+  orig: 28, 16
+  offset: 16, 3
+  index: -1
+boliliuguang_2/boliliuguang_22
+  rotate: false
+  xy: 94, 6
+  size: 8, 11
+  orig: 28, 16
+  offset: 17, 3
+  index: -1
+boliliuguang_2/boliliuguang_23
+  rotate: false
+  xy: 121, 39
+  size: 8, 11
+  orig: 28, 16
+  offset: 18, 3
+  index: -1
+boliliuguang_2/boliliuguang_24
+  rotate: false
+  xy: 131, 40
+  size: 8, 11
+  orig: 28, 16
+  offset: 19, 3
+  index: -1
+boliliuguang_2/boliliuguang_25
+  rotate: true
+  xy: 78, 0
+  size: 7, 10
+  orig: 28, 16
+  offset: 20, 4
+  index: -1
+boliliuguang_2/boliliuguang_26
+  rotate: false
+  xy: 141, 45
+  size: 5, 7
+  orig: 28, 16
+  offset: 22, 3
+  index: -1
+boliliuguang_2/boliliuguang_27
+  rotate: true
+  xy: 90, 0
+  size: 4, 6
+  orig: 28, 16
+  offset: 23, 4
+  index: -1
+boliliuguang_2/boliliuguang_28
+  rotate: false
+  xy: 148, 46
+  size: 3, 6
+  orig: 28, 16
+  offset: 24, 4
+  index: -1
+boliliuguang_2/boliliuguang_29
+  rotate: true
+  xy: 164, 54
+  size: 2, 5
+  orig: 28, 16
+  offset: 25, 5
+  index: -1
+boliliuguang_2/boliliuguang_3
+  rotate: false
+  xy: 98, 0
+  size: 3, 4
+  orig: 28, 16
+  offset: 1, 2
+  index: -1
+boliliuguang_2/boliliuguang_30
+  rotate: true
+  xy: 171, 55
+  size: 1, 2
+  orig: 28, 16
+  offset: 26, 8
+  index: -1
+boliliuguang_2/boliliuguang_4
+  rotate: true
+  xy: 164, 58
+  size: 4, 9
+  orig: 28, 16
+  offset: 1, 1
+  index: -1
+boliliuguang_2/boliliuguang_5
+  rotate: false
+  xy: 114, 38
+  size: 5, 11
+  orig: 28, 16
+  offset: 1, 1
+  index: -1
+boliliuguang_2/boliliuguang_6
+  rotate: false
+  xy: 94, 19
+  size: 6, 13
+  orig: 28, 16
+  offset: 1, 1
+  index: -1
+boliliuguang_2/boliliuguang_7
+  rotate: true
+  xy: 62, 0
+  size: 7, 14
+  orig: 28, 16
+  offset: 1, 1
+  index: -1
+boliliuguang_2/boliliuguang_8
+  rotate: false
+  xy: 116, 52
+  size: 9, 14
+  orig: 28, 16
+  offset: 1, 1
+  index: -1
+boliliuguang_2/boliliuguang_9
+  rotate: false
+  xy: 62, 26
+  size: 9, 15
+  orig: 28, 16
+  offset: 2, 0
+  index: -1
+yueqiuche/chedi
+  rotate: true
+  xy: 94, 68
+  size: 105, 43
+  orig: 105, 43
+  offset: 0, 0
+  index: -1
+yueqiuche/cheshen01
+  rotate: false
+  xy: 0, 99
+  size: 92, 74
+  orig: 92, 74
+  offset: 0, 0
+  index: -1
+yueqiuche/chuang
+  rotate: true
+  xy: 139, 119
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+yueqiuche/deng
+  rotate: true
+  xy: 62, 43
+  size: 54, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+yueqiuche/jing
+  rotate: true
+  xy: 139, 64
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+yueqiuche/waifaguang
+  rotate: true
+  xy: 0, 1
+  size: 96, 60
+  orig: 97, 60
+  offset: 0, 0
+  index: -1

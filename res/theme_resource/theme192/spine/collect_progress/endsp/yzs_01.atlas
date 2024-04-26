@@ -1,0 +1,20 @@
+
+yzs_01.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yazuishou01/kunzi
+  rotate: false
+  xy: 0, 0
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+yazuishou01/yazuishou
+  rotate: false
+  xy: 0, 27
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1

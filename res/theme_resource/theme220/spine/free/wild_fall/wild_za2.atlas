@@ -1,0 +1,146 @@
+
+wild_za2.png
+size: 687,687
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxianxiang
+  rotate: false
+  xy: 306, 233
+  size: 149, 148
+  orig: 181, 180
+  offset: 16, 16
+  index: -1
+g_01
+  rotate: true
+  xy: 306, 19
+  size: 62, 70
+  orig: 150, 150
+  offset: 44, 47
+  index: -1
+g_03
+  rotate: true
+  xy: 593, 293
+  size: 93, 85
+  orig: 150, 150
+  offset: 30, 34
+  index: -1
+g_05
+  rotate: false
+  xy: 580, 5
+  size: 105, 119
+  orig: 150, 150
+  offset: 25, 15
+  index: -1
+g_06
+  rotate: true
+  xy: 453, 2
+  size: 122, 125
+  orig: 150, 150
+  offset: 20, 11
+  index: -1
+g_07
+  rotate: true
+  xy: 457, 126
+  size: 125, 126
+  orig: 150, 150
+  offset: 18, 11
+  index: -1
+g_08
+  rotate: false
+  xy: 458, 253
+  size: 133, 133
+  orig: 150, 150
+  offset: 15, 4
+  index: -1
+g_09
+  rotate: false
+  xy: 458, 388
+  size: 148, 145
+  orig: 150, 150
+  offset: 2, 0
+  index: -1
+g_10
+  rotate: false
+  xy: 306, 83
+  size: 145, 148
+  orig: 150, 150
+  offset: 1, 0
+  index: -1
+g_11
+  rotate: false
+  xy: 2, 321
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+g_12
+  rotate: false
+  xy: 216, 535
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+g_13
+  rotate: false
+  xy: 2, 169
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+g_14
+  rotate: false
+  xy: 368, 535
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+g_15
+  rotate: false
+  xy: 2, 17
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+g_16
+  rotate: false
+  xy: 520, 535
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+g_17
+  rotate: false
+  xy: 154, 321
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+g_18
+  rotate: false
+  xy: 154, 169
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+g_19
+  rotate: false
+  xy: 154, 17
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+g_20
+  rotate: false
+  xy: 306, 383
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 473
+  size: 212, 212
+  orig: 256, 256
+  offset: 22, 22
+  index: -1

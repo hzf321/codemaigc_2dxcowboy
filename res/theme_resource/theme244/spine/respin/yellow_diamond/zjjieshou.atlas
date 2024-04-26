@@ -1,0 +1,279 @@
+
+zjjieshou.png
+size: 1150,1150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjjieshou/zjjieshou_00
+  rotate: false
+  xy: 0, 16
+  size: 64, 68
+  orig: 350, 300
+  offset: 124, 121
+  index: -1
+zjjieshou/zjjieshou_01
+  rotate: false
+  xy: 0, 480
+  size: 197, 190
+  orig: 350, 300
+  offset: 55, 72
+  index: -1
+zjjieshou/zjjieshou_02
+  rotate: false
+  xy: 0, 672
+  size: 231, 222
+  orig: 350, 300
+  offset: 38, 56
+  index: -1
+zjjieshou/zjjieshou_03
+  rotate: false
+  xy: 0, 896
+  size: 265, 254
+  orig: 350, 300
+  offset: 21, 40
+  index: -1
+zjjieshou/zjjieshou_04
+  rotate: false
+  xy: 267, 959
+  size: 199, 191
+  orig: 350, 300
+  offset: 54, 71
+  index: -1
+zjjieshou/zjjieshou_05
+  rotate: true
+  xy: 958, 5
+  size: 134, 130
+  orig: 350, 300
+  offset: 87, 100
+  index: -1
+zjjieshou/zjjieshou_06
+  rotate: false
+  xy: 810, 6
+  size: 146, 133
+  orig: 350, 300
+  offset: 82, 94
+  index: -1
+zjjieshou/zjjieshou_07
+  rotate: true
+  xy: 522, 109
+  size: 157, 143
+  orig: 350, 300
+  offset: 77, 90
+  index: -1
+zjjieshou/zjjieshou_08
+  rotate: false
+  xy: 898, 141
+  size: 166, 153
+  orig: 350, 300
+  offset: 73, 86
+  index: -1
+zjjieshou/zjjieshou_09
+  rotate: true
+  xy: 898, 296
+  size: 174, 160
+  orig: 350, 300
+  offset: 70, 83
+  index: -1
+zjjieshou/zjjieshou_10
+  rotate: true
+  xy: 731, 265
+  size: 179, 165
+  orig: 350, 300
+  offset: 68, 81
+  index: -1
+zjjieshou/zjjieshou_11
+  rotate: false
+  xy: 349, 96
+  size: 171, 170
+  orig: 350, 300
+  offset: 67, 79
+  index: -1
+zjjieshou/zjjieshou_12
+  rotate: false
+  xy: 555, 269
+  size: 174, 175
+  orig: 350, 300
+  offset: 65, 77
+  index: -1
+zjjieshou/zjjieshou_13
+  rotate: true
+  xy: 572, 446
+  size: 177, 178
+  orig: 350, 300
+  offset: 64, 76
+  index: -1
+zjjieshou/zjjieshou_14
+  rotate: true
+  xy: 372, 268
+  size: 178, 181
+  orig: 350, 300
+  offset: 64, 74
+  index: -1
+zjjieshou/zjjieshou_15
+  rotate: true
+  xy: 387, 448
+  size: 180, 183
+  orig: 350, 300
+  offset: 63, 74
+  index: -1
+zjjieshou/zjjieshou_16
+  rotate: true
+  xy: 856, 595
+  size: 182, 185
+  orig: 350, 300
+  offset: 63, 73
+  index: -1
+zjjieshou/zjjieshou_17
+  rotate: true
+  xy: 199, 472
+  size: 183, 186
+  orig: 350, 300
+  offset: 62, 73
+  index: -1
+zjjieshou/zjjieshou_18
+  rotate: true
+  xy: 853, 779
+  size: 184, 187
+  orig: 350, 300
+  offset: 62, 73
+  index: -1
+zjjieshou/zjjieshou_19
+  rotate: false
+  xy: 186, 284
+  size: 184, 186
+  orig: 350, 300
+  offset: 62, 74
+  index: -1
+zjjieshou/zjjieshou_20
+  rotate: true
+  xy: 663, 779
+  size: 184, 188
+  orig: 350, 300
+  offset: 62, 73
+  index: -1
+zjjieshou/zjjieshou_21
+  rotate: true
+  xy: 472, 782
+  size: 184, 189
+  orig: 350, 300
+  offset: 62, 72
+  index: -1
+zjjieshou/zjjieshou_22
+  rotate: true
+  xy: 865, 965
+  size: 185, 191
+  orig: 350, 300
+  offset: 62, 70
+  index: -1
+zjjieshou/zjjieshou_23
+  rotate: true
+  xy: 671, 965
+  size: 185, 192
+  orig: 350, 300
+  offset: 62, 69
+  index: -1
+zjjieshou/zjjieshou_24
+  rotate: false
+  xy: 0, 86
+  size: 183, 194
+  orig: 350, 300
+  offset: 63, 67
+  index: -1
+zjjieshou/zjjieshou_25
+  rotate: false
+  xy: 0, 282
+  size: 184, 196
+  orig: 350, 300
+  offset: 63, 65
+  index: -1
+zjjieshou/zjjieshou_26
+  rotate: true
+  xy: 468, 968
+  size: 182, 201
+  orig: 350, 300
+  offset: 64, 60
+  index: -1
+zjjieshou/zjjieshou_27
+  rotate: true
+  xy: 267, 803
+  size: 154, 203
+  orig: 350, 300
+  offset: 92, 58
+  index: -1
+zjjieshou/zjjieshou_28
+  rotate: true
+  xy: 650, 625
+  size: 152, 204
+  orig: 350, 300
+  offset: 93, 57
+  index: -1
+zjjieshou/zjjieshou_29
+  rotate: true
+  xy: 442, 630
+  size: 150, 206
+  orig: 350, 300
+  offset: 93, 55
+  index: -1
+zjjieshou/zjjieshou_30
+  rotate: true
+  xy: 233, 657
+  size: 144, 207
+  orig: 350, 300
+  offset: 95, 54
+  index: -1
+zjjieshou/zjjieshou_31
+  rotate: true
+  xy: 845, 472
+  size: 121, 208
+  orig: 350, 300
+  offset: 96, 53
+  index: -1
+zjjieshou/zjjieshou_32
+  rotate: true
+  xy: 186, 141
+  size: 141, 161
+  orig: 350, 300
+  offset: 97, 51
+  index: -1
+zjjieshou/zjjieshou_33
+  rotate: false
+  xy: 667, 114
+  size: 141, 149
+  orig: 350, 300
+  offset: 97, 49
+  index: -1
+zjjieshou/zjjieshou_34
+  rotate: true
+  xy: 185, 0
+  size: 139, 150
+  orig: 350, 300
+  offset: 98, 48
+  index: -1
+zjjieshou/zjjieshou_35
+  rotate: true
+  xy: 1058, 986
+  size: 164, 92
+  orig: 350, 300
+  offset: 73, 46
+  index: -1
+zjjieshou/zjjieshou_36
+  rotate: true
+  xy: 752, 459
+  size: 164, 91
+  orig: 350, 300
+  offset: 73, 45
+  index: -1
+zjjieshou/zjjieshou_37
+  rotate: true
+  xy: 1043, 657
+  size: 163, 91
+  orig: 350, 300
+  offset: 73, 43
+  index: -1
+zjjieshou/zjjieshou_38
+  rotate: true
+  xy: 1060, 822
+  size: 162, 90
+  orig: 350, 300
+  offset: 74, 42
+  index: -1

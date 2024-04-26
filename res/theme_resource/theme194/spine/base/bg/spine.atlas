@@ -1,0 +1,27 @@
+
+bjlx_01.png
+size: 668,668
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxain01
+  rotate: true
+  xy: 532, 385
+  size: 283, 31
+  orig: 283, 31
+  offset: 0, 0
+  index: -1
+liuguang01
+  rotate: false
+  xy: 565, 431
+  size: 32, 237
+  orig: 32, 237
+  offset: 0, 0
+  index: -1
+theme195_free_bg
+  rotate: false
+  xy: 0, 0
+  size: 530, 668
+  orig: 530, 780
+  offset: 0, 112
+  index: -1

@@ -1,0 +1,146 @@
+
+jdt_zhang.png
+size: 448,446
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/tx/z/z_0
+  rotate: false
+  xy: 129, 221
+  size: 111, 69
+  orig: 150, 80
+  offset: 31, 0
+  index: -1
+tx/tx/z/z_1
+  rotate: false
+  xy: 2, 139
+  size: 114, 73
+  orig: 150, 80
+  offset: 27, 2
+  index: -1
+tx/tx/z/z_10
+  rotate: true
+  xy: 145, 24
+  size: 113, 74
+  orig: 150, 80
+  offset: 30, 4
+  index: -1
+tx/tx/z/z_11
+  rotate: true
+  xy: 374, 220
+  size: 115, 72
+  orig: 150, 80
+  offset: 26, 5
+  index: -1
+tx/tx/z/z_12
+  rotate: false
+  xy: 2, 214
+  size: 118, 74
+  orig: 150, 80
+  offset: 22, 6
+  index: -1
+tx/tx/z/z_13
+  rotate: false
+  xy: 2, 290
+  size: 125, 75
+  orig: 150, 80
+  offset: 17, 5
+  index: -1
+tx/tx/z/z_14
+  rotate: false
+  xy: 224, 97
+  size: 113, 73
+  orig: 150, 80
+  offset: 28, 6
+  index: -1
+tx/tx/z/z_15
+  rotate: false
+  xy: 242, 172
+  size: 115, 69
+  orig: 150, 80
+  offset: 25, 8
+  index: -1
+tx/tx/z/z_16
+  rotate: false
+  xy: 242, 243
+  size: 117, 66
+  orig: 150, 80
+  offset: 21, 9
+  index: -1
+tx/tx/z/z_17
+  rotate: false
+  xy: 253, 311
+  size: 119, 64
+  orig: 150, 80
+  offset: 18, 9
+  index: -1
+tx/tx/z/z_18
+  rotate: false
+  xy: 253, 377
+  size: 121, 67
+  orig: 150, 80
+  offset: 15, 5
+  index: -1
+tx/tx/z/z_19
+  rotate: true
+  xy: 376, 337
+  size: 107, 70
+  orig: 150, 80
+  offset: 33, 0
+  index: -1
+tx/tx/z/z_2
+  rotate: true
+  xy: 2, 22
+  size: 115, 72
+  orig: 150, 80
+  offset: 25, 5
+  index: -1
+tx/tx/z/z_3
+  rotate: true
+  xy: 76, 20
+  size: 117, 67
+  orig: 150, 80
+  offset: 22, 8
+  index: -1
+tx/tx/z/z_4
+  rotate: false
+  xy: 129, 373
+  size: 122, 71
+  orig: 150, 80
+  offset: 19, 5
+  index: -1
+tx/tx/z/z_5
+  rotate: false
+  xy: 2, 367
+  size: 125, 77
+  orig: 150, 80
+  offset: 16, 0
+  index: -1
+tx/tx/z/z_6
+  rotate: false
+  xy: 122, 139
+  size: 100, 80
+  orig: 150, 80
+  offset: 39, 0
+  index: -1
+tx/tx/z/z_7
+  rotate: true
+  xy: 359, 116
+  size: 102, 79
+  orig: 150, 80
+  offset: 36, 1
+  index: -1
+tx/tx/z/z_8
+  rotate: false
+  xy: 129, 292
+  size: 111, 79
+  orig: 150, 80
+  offset: 33, 0
+  index: -1
+tx/tx/z/z_9
+  rotate: false
+  xy: 221, 20
+  size: 110, 75
+  orig: 150, 80
+  offset: 35, 2
+  index: -1

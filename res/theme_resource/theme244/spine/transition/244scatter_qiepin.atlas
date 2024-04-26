@@ -1,0 +1,97 @@
+
+244scatter_qiepin.png
+size: 864,1036
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb_00000
+  rotate: true
+  xy: 759, 86
+  size: 156, 96
+  orig: 156, 96
+  offset: 0, 0
+  index: -1
+bj
+  rotate: true
+  xy: 457, 197
+  size: 447, 261
+  orig: 447, 261
+  offset: 0, 0
+  index: -1
+dd_00023
+  rotate: false
+  xy: 457, 165
+  size: 30, 30
+  orig: 36, 37
+  offset: 3, 3
+  index: -1
+ds
+  rotate: true
+  xy: 674, 805
+  size: 229, 183
+  orig: 229, 183
+  offset: 0, 0
+  index: -1
+gx_00000
+  rotate: true
+  xy: 349, 646
+  size: 388, 323
+  orig: 398, 338
+  offset: 5, 8
+  index: -1
+gy_00000
+  rotate: true
+  xy: 759, 2
+  size: 82, 103
+  orig: 113, 110
+  offset: 14, 3
+  index: -1
+kgg_00010
+  rotate: true
+  xy: 720, 516
+  size: 287, 131
+  orig: 366, 203
+  offset: 29, 38
+  index: -1
+qc
+  rotate: true
+  xy: 2, 12
+  size: 1022, 345
+  orig: 1022, 345
+  offset: 0, 0
+  index: -1
+qqq
+  rotate: false
+  xy: 349, 9
+  size: 173, 150
+  orig: 173, 150
+  offset: 0, 0
+  index: -1
+qqqc_00000
+  rotate: true
+  xy: 720, 244
+  size: 270, 74
+  orig: 295, 89
+  offset: 14, 7
+  index: -1
+sh_00000
+  rotate: false
+  xy: 524, 10
+  size: 233, 185
+  orig: 235, 185
+  offset: 1, 0
+  index: -1
+xx_00015
+  rotate: false
+  xy: 796, 440
+  size: 52, 74
+  orig: 72, 74
+  offset: 13, 0
+  index: -1
+zc
+  rotate: true
+  xy: 349, 161
+  size: 483, 106
+  orig: 483, 106
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+base_bjhua01.png
+size: 173,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huabangl01
+  rotate: true
+  xy: 2, 2
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+huabangl02
+  rotate: false
+  xy: 2, 83
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+theme231_b_sp21
+  rotate: false
+  xy: 94, 11
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+theme231_b_sp23
+  rotate: false
+  xy: 95, 116
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+theme231_b_sp24
+  rotate: false
+  xy: 95, 57
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1

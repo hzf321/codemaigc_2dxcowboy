@@ -1,0 +1,132 @@
+
+wangzuo_01.png
+size: 1183,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ditu
+  rotate: true
+  xy: 190, 5
+  size: 178, 163
+  orig: 178, 163
+  offset: 0, 0
+  index: -1
+images/wangzuo
+  rotate: true
+  xy: 2, 7
+  size: 176, 186
+  orig: 176, 186
+  offset: 0, 0
+  index: -1
+wangzuogaoliang01
+  rotate: false
+  xy: 355, 46
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_1
+  rotate: false
+  xy: 487, 89
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_10
+  rotate: true
+  xy: 871, 2
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_11
+  rotate: false
+  xy: 922, 89
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_12
+  rotate: true
+  xy: 967, 2
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_13
+  rotate: false
+  xy: 1009, 89
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_14
+  rotate: true
+  xy: 1063, 2
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_15
+  rotate: false
+  xy: 1096, 89
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_2
+  rotate: true
+  xy: 487, 2
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_3
+  rotate: false
+  xy: 574, 89
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_4
+  rotate: true
+  xy: 583, 2
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_5
+  rotate: false
+  xy: 661, 89
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_6
+  rotate: true
+  xy: 679, 2
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_7
+  rotate: false
+  xy: 748, 89
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_8
+  rotate: true
+  xy: 775, 2
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+xulie01/wangzuoshandian_9
+  rotate: false
+  xy: 835, 89
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1

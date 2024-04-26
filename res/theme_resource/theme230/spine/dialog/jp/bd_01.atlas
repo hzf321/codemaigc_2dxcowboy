@@ -1,0 +1,146 @@
+
+bd_01.png
+size: 1775,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsxl_1/bsxl_1
+  rotate: false
+  xy: 1290, 9
+  size: 105, 105
+  orig: 174, 149
+  offset: 29, 26
+  index: -1
+bsxl_1/bsxl_10
+  rotate: false
+  xy: 1224, 116
+  size: 127, 128
+  orig: 174, 149
+  offset: 22, 10
+  index: -1
+bsxl_1/bsxl_11
+  rotate: true
+  xy: 963, 116
+  size: 128, 129
+  orig: 174, 149
+  offset: 21, 10
+  index: -1
+bsxl_1/bsxl_12
+  rotate: false
+  xy: 1094, 116
+  size: 128, 128
+  orig: 174, 149
+  offset: 20, 11
+  index: -1
+bsxl_1/bsxl_13
+  rotate: false
+  xy: 696, 2
+  size: 115, 113
+  orig: 174, 149
+  offset: 30, 14
+  index: -1
+bsxl_1/bsxl_14
+  rotate: false
+  xy: 1045, 6
+  size: 119, 108
+  orig: 174, 149
+  offset: 25, 17
+  index: -1
+bsxl_1/bsxl_15
+  rotate: true
+  xy: 1166, 14
+  size: 100, 122
+  orig: 174, 149
+  offset: 37, 15
+  index: -1
+bsxl_1/bsxl_16
+  rotate: false
+  xy: 1397, 20
+  size: 121, 97
+  orig: 174, 149
+  offset: 25, 22
+  index: -1
+bsxl_1/bsxl_17
+  rotate: false
+  xy: 1640, 50
+  size: 70, 74
+  orig: 174, 149
+  offset: 57, 23
+  index: -1
+bsxl_1/bsxl_18
+  rotate: false
+  xy: 1712, 60
+  size: 61, 64
+  orig: 174, 149
+  offset: 56, 34
+  index: -1
+bsxl_1/bsxl_2
+  rotate: true
+  xy: 813, 2
+  size: 113, 111
+  orig: 174, 149
+  offset: 25, 23
+  index: -1
+bsxl_1/bsxl_3
+  rotate: false
+  xy: 926, 2
+  size: 117, 112
+  orig: 174, 149
+  offset: 23, 21
+  index: -1
+bsxl_1/bsxl_4
+  rotate: false
+  xy: 1520, 3
+  size: 118, 118
+  orig: 174, 149
+  offset: 24, 18
+  index: -1
+bsxl_1/bsxl_5
+  rotate: false
+  xy: 1612, 126
+  size: 122, 118
+  orig: 174, 149
+  offset: 21, 16
+  index: -1
+bsxl_1/bsxl_6
+  rotate: false
+  xy: 1484, 123
+  size: 126, 121
+  orig: 174, 149
+  offset: 19, 14
+  index: -1
+bsxl_1/bsxl_7
+  rotate: false
+  xy: 1353, 119
+  size: 129, 125
+  orig: 174, 149
+  offset: 18, 12
+  index: -1
+bsxl_1/bsxl_8
+  rotate: false
+  xy: 830, 117
+  size: 131, 127
+  orig: 174, 149
+  offset: 17, 11
+  index: -1
+bsxl_1/bsxl_9
+  rotate: false
+  xy: 696, 117
+  size: 132, 127
+  orig: 174, 149
+  offset: 17, 10
+  index: -1
+gaoliang01
+  rotate: false
+  xy: 1640, 21
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+gaoliang02
+  rotate: false
+  xy: 2, 12
+  size: 692, 232
+  orig: 692, 232
+  offset: 0, 0
+  index: -1

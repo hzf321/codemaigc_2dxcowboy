@@ -1,0 +1,41 @@
+
+m3.png
+size: 172,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/by
+  rotate: false
+  xy: 2, 22
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+images/d
+  rotate: false
+  xy: 2, 113
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+images/k
+  rotate: false
+  xy: 2, 32
+  size: 118, 17
+  orig: 118, 17
+  offset: 0, 0
+  index: -1
+images/st
+  rotate: false
+  xy: 2, 51
+  size: 102, 60
+  orig: 102, 60
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 116, 127
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+m2.png
+size: 411,411
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/daizi
+  rotate: false
+  xy: 171, 57
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+images/deng
+  rotate: true
+  xy: 357, 256
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+images/dengguang
+  rotate: false
+  xy: 357, 288
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 333, 336
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+images/kuang
+  rotate: false
+  xy: 2, 2
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+images/lizi
+  rotate: false
+  xy: 2, 88
+  size: 329, 321
+  orig: 329, 321
+  offset: 0, 0
+  index: -1
+images/toukui
+  rotate: false
+  xy: 86, 26
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+images/toukui2
+  rotate: true
+  xy: 333, 255
+  size: 79, 22
+  orig: 79, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+jl.png
+size: 956,956
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/fg3_0
+  rotate: false
+  xy: 808, 861
+  size: 115, 95
+  orig: 200, 200
+  offset: 43, 53
+  index: -1
+tx/jl/jl_0
+  rotate: false
+  xy: 0, 764
+  size: 200, 192
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+tx/jl/jl_1
+  rotate: false
+  xy: 0, 378
+  size: 200, 190
+  orig: 200, 200
+  offset: 0, 6
+  index: -1
+tx/jl/jl_10
+  rotate: false
+  xy: 0, 186
+  size: 200, 190
+  orig: 200, 200
+  offset: 0, 6
+  index: -1
+tx/jl/jl_11
+  rotate: false
+  xy: 202, 0
+  size: 200, 189
+  orig: 200, 200
+  offset: 0, 7
+  index: -1
+tx/jl/jl_12
+  rotate: false
+  xy: 404, 194
+  size: 200, 188
+  orig: 200, 200
+  offset: 0, 8
+  index: -1
+tx/jl/jl_13
+  rotate: false
+  xy: 404, 384
+  size: 200, 189
+  orig: 200, 200
+  offset: 0, 7
+  index: -1
+tx/jl/jl_14
+  rotate: false
+  xy: 606, 201
+  size: 200, 185
+  orig: 200, 200
+  offset: 0, 10
+  index: -1
+tx/jl/jl_15
+  rotate: false
+  xy: 404, 6
+  size: 200, 186
+  orig: 200, 200
+  offset: 0, 10
+  index: -1
+tx/jl/jl_16
+  rotate: false
+  xy: 202, 765
+  size: 200, 191
+  orig: 200, 200
+  offset: 0, 6
+  index: -1
+tx/jl/jl_17
+  rotate: false
+  xy: 0, 570
+  size: 200, 192
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+tx/jl/jl_2
+  rotate: false
+  xy: 202, 382
+  size: 200, 189
+  orig: 200, 200
+  offset: 0, 7
+  index: -1
+tx/jl/jl_3
+  rotate: false
+  xy: 404, 575
+  size: 200, 189
+  orig: 200, 200
+  offset: 0, 7
+  index: -1
+tx/jl/jl_4
+  rotate: false
+  xy: 606, 388
+  size: 200, 187
+  orig: 200, 200
+  offset: 0, 8
+  index: -1
+tx/jl/jl_5
+  rotate: false
+  xy: 606, 767
+  size: 200, 189
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+tx/jl/jl_6
+  rotate: false
+  xy: 202, 573
+  size: 200, 190
+  orig: 200, 200
+  offset: 0, 6
+  index: -1
+tx/jl/jl_7
+  rotate: false
+  xy: 404, 766
+  size: 200, 190
+  orig: 200, 200
+  offset: 0, 7
+  index: -1
+tx/jl/jl_8
+  rotate: false
+  xy: 606, 577
+  size: 200, 188
+  orig: 200, 200
+  offset: 0, 9
+  index: -1
+tx/jl/jl_9
+  rotate: false
+  xy: 202, 191
+  size: 200, 189
+  orig: 200, 200
+  offset: 0, 8
+  index: -1
+tx/yin
+  rotate: false
+  xy: 0, 146
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1

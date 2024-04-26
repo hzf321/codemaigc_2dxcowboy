@@ -1,0 +1,139 @@
+
+sjt_jm_01.png
+size: 661,659
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang01
+  rotate: false
+  xy: 0, 583
+  size: 644, 76
+  orig: 644, 76
+  offset: 0, 0
+  index: -1
+sjtjm_1/sjtjm_1
+  rotate: false
+  xy: 329, 81
+  size: 329, 39
+  orig: 381, 98
+  offset: 24, 34
+  index: -1
+sjtjm_1/sjtjm_10
+  rotate: true
+  xy: 120, 121
+  size: 338, 57
+  orig: 381, 98
+  offset: 23, 24
+  index: -1
+sjtjm_1/sjtjm_11
+  rotate: false
+  xy: 0, 522
+  size: 338, 59
+  orig: 381, 98
+  offset: 23, 23
+  index: -1
+sjtjm_1/sjtjm_12
+  rotate: false
+  xy: 0, 461
+  size: 338, 59
+  orig: 381, 98
+  offset: 23, 23
+  index: -1
+sjtjm_1/sjtjm_13
+  rotate: true
+  xy: 59, 122
+  size: 337, 59
+  orig: 381, 98
+  offset: 24, 23
+  index: -1
+sjtjm_1/sjtjm_14
+  rotate: true
+  xy: 237, 122
+  size: 337, 57
+  orig: 381, 98
+  offset: 25, 23
+  index: -1
+sjtjm_1/sjtjm_15
+  rotate: true
+  xy: 403, 187
+  size: 337, 56
+  orig: 381, 98
+  offset: 25, 25
+  index: -1
+sjtjm_1/sjtjm_16
+  rotate: false
+  xy: 0, 63
+  size: 327, 55
+  orig: 381, 98
+  offset: 36, 25
+  index: -1
+sjtjm_1/sjtjm_17
+  rotate: false
+  xy: 0, 7
+  size: 322, 54
+  orig: 381, 98
+  offset: 39, 24
+  index: -1
+sjtjm_1/sjtjm_18
+  rotate: false
+  xy: 340, 526
+  size: 238, 55
+  orig: 381, 98
+  offset: 60, 24
+  index: -1
+sjtjm_1/sjtjm_2
+  rotate: true
+  xy: 617, 249
+  size: 332, 44
+  orig: 381, 98
+  offset: 23, 31
+  index: -1
+sjtjm_1/sjtjm_3
+  rotate: true
+  xy: 569, 190
+  size: 334, 46
+  orig: 381, 98
+  offset: 23, 30
+  index: -1
+sjtjm_1/sjtjm_4
+  rotate: true
+  xy: 296, 122
+  size: 337, 49
+  orig: 381, 98
+  offset: 22, 29
+  index: -1
+sjtjm_1/sjtjm_5
+  rotate: true
+  xy: 516, 187
+  size: 337, 51
+  orig: 381, 98
+  offset: 23, 28
+  index: -1
+sjtjm_1/sjtjm_6
+  rotate: true
+  xy: 461, 187
+  size: 337, 53
+  orig: 381, 98
+  offset: 23, 27
+  index: -1
+sjtjm_1/sjtjm_7
+  rotate: true
+  xy: 347, 185
+  size: 339, 54
+  orig: 381, 98
+  offset: 22, 26
+  index: -1
+sjtjm_1/sjtjm_8
+  rotate: true
+  xy: 179, 120
+  size: 339, 56
+  orig: 381, 98
+  offset: 22, 25
+  index: -1
+sjtjm_1/sjtjm_9
+  rotate: true
+  xy: 0, 120
+  size: 339, 57
+  orig: 381, 98
+  offset: 22, 24
+  index: -1

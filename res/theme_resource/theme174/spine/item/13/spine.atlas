@@ -1,0 +1,90 @@
+
+scatter.png
+size: 331,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cir_0
+  rotate: false
+  xy: 185, 344
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+moon
+  rotate: false
+  xy: 0, 336
+  size: 183, 182
+  orig: 183, 183
+  offset: 0, 1
+  index: -1
+xh_0
+  rotate: false
+  xy: 0, 224
+  size: 109, 110
+  orig: 125, 125
+  offset: 10, 7
+  index: -1
+xh_1
+  rotate: false
+  xy: 185, 408
+  size: 109, 110
+  orig: 125, 125
+  offset: 10, 7
+  index: -1
+xh_2
+  rotate: false
+  xy: 0, 112
+  size: 109, 110
+  orig: 125, 125
+  offset: 10, 7
+  index: -1
+xh_3
+  rotate: false
+  xy: 0, 0
+  size: 109, 110
+  orig: 125, 125
+  offset: 10, 7
+  index: -1
+xh_4
+  rotate: false
+  xy: 111, 224
+  size: 109, 110
+  orig: 125, 125
+  offset: 10, 7
+  index: -1
+xh_5
+  rotate: false
+  xy: 111, 112
+  size: 109, 110
+  orig: 125, 125
+  offset: 10, 7
+  index: -1
+xh_6
+  rotate: false
+  xy: 111, 0
+  size: 109, 110
+  orig: 125, 125
+  offset: 10, 7
+  index: -1
+xh_7
+  rotate: false
+  xy: 222, 232
+  size: 109, 110
+  orig: 125, 125
+  offset: 10, 7
+  index: -1
+xh_8
+  rotate: false
+  xy: 222, 120
+  size: 109, 110
+  orig: 125, 125
+  offset: 10, 7
+  index: -1
+xh_9
+  rotate: false
+  xy: 222, 9
+  size: 109, 109
+  orig: 125, 125
+  offset: 10, 7
+  index: -1

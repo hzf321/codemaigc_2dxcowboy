@@ -1,0 +1,321 @@
+
+pick_lv_01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Particle_Circle_Outerglow_01
+  rotate: false
+  xy: 2, 1495
+  size: 507, 507
+  orig: 512, 512
+  offset: 3, 2
+  index: -1
+ctl_440_mask
+  rotate: false
+  xy: 763, 364
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+gaoliang01
+  rotate: true
+  xy: 513, 132
+  size: 242, 245
+  orig: 242, 245
+  offset: 0, 0
+  index: -1
+gaoliang02
+  rotate: true
+  xy: 1322, 1327
+  size: 236, 239
+  orig: 236, 239
+  offset: 0, 0
+  index: -1
+gaoliang03
+  rotate: false
+  xy: 513, 376
+  size: 248, 251
+  orig: 248, 251
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1875, 1613
+  size: 105, 105
+  orig: 128, 128
+  offset: 12, 11
+  index: -1
+hongfan/hongfan_0
+  rotate: false
+  xy: 511, 1726
+  size: 276, 276
+  orig: 390, 351
+  offset: 51, 33
+  index: -1
+hongfan/hongfan_10
+  rotate: false
+  xy: 2, 542
+  size: 254, 279
+  orig: 390, 351
+  offset: 60, 32
+  index: -1
+hongfan/hongfan_11
+  rotate: true
+  xy: 789, 1730
+  size: 272, 278
+  orig: 390, 351
+  offset: 52, 32
+  index: -1
+hongfan/hongfan_12
+  rotate: false
+  xy: 2, 823
+  size: 276, 276
+  orig: 390, 351
+  offset: 51, 33
+  index: -1
+hongfan/hongfan_2
+  rotate: true
+  xy: 1069, 1749
+  size: 253, 279
+  orig: 390, 351
+  offset: 65, 32
+  index: -1
+hongfan/hongfan_4
+  rotate: true
+  xy: 793, 1300
+  size: 180, 282
+  orig: 390, 351
+  offset: 102, 30
+  index: -1
+hongfan/hongfan_6
+  rotate: true
+  xy: 511, 1416
+  size: 83, 280
+  orig: 390, 351
+  offset: 144, 31
+  index: -1
+hongfan/hongfan_7
+  rotate: false
+  xy: 1890, 1720
+  size: 131, 282
+  orig: 390, 351
+  offset: 121, 30
+  index: -1
+hongfan/hongfan_8
+  rotate: true
+  xy: 764, 1118
+  size: 180, 282
+  orig: 390, 351
+  offset: 97, 30
+  index: -1
+hongfan/hongfan_9
+  rotate: true
+  xy: 511, 1501
+  size: 223, 280
+  orig: 390, 351
+  offset: 75, 31
+  index: -1
+lizi2424
+  rotate: false
+  xy: 2, 1101
+  size: 494, 392
+  orig: 494, 481
+  offset: 0, 0
+  index: -1
+lvfan/lvfan_00
+  rotate: true
+  xy: 2, 272
+  size: 268, 261
+  orig: 390, 351
+  offset: 55, 41
+  index: -1
+lvfan/lvfan_02
+  rotate: true
+  xy: 793, 1482
+  size: 246, 264
+  orig: 390, 351
+  offset: 69, 40
+  index: -1
+lvfan/lvfan_04
+  rotate: true
+  xy: 1069, 1573
+  size: 174, 267
+  orig: 390, 351
+  offset: 105, 38
+  index: -1
+lvfan/lvfan_06
+  rotate: false
+  xy: 1563, 1297
+  size: 79, 266
+  orig: 390, 351
+  offset: 146, 38
+  index: -1
+lvfan/lvfan_07
+  rotate: false
+  xy: 1029, 849
+  size: 125, 267
+  orig: 390, 351
+  offset: 125, 38
+  index: -1
+lvfan/lvfan_08
+  rotate: true
+  xy: 1338, 1565
+  size: 175, 267
+  orig: 390, 351
+  offset: 99, 38
+  index: -1
+lvfan/lvfan_09
+  rotate: false
+  xy: 280, 833
+  size: 216, 266
+  orig: 390, 351
+  offset: 78, 39
+  index: -1
+lvfan/lvfan_10
+  rotate: true
+  xy: 763, 869
+  size: 247, 264
+  orig: 390, 351
+  offset: 63, 40
+  index: -1
+lvfan/lvfan_11
+  rotate: false
+  xy: 498, 1152
+  size: 264, 262
+  orig: 390, 351
+  offset: 56, 41
+  index: -1
+lvfan/lvfan_12
+  rotate: true
+  xy: 2, 2
+  size: 268, 260
+  orig: 390, 351
+  offset: 55, 42
+  index: -1
+lvfan/lvfan_13
+  rotate: true
+  xy: 2, 2
+  size: 268, 260
+  orig: 390, 351
+  offset: 55, 42
+  index: -1
+theme10065_pick_015
+  rotate: true
+  xy: 1048, 1118
+  size: 177, 182
+  orig: 177, 182
+  offset: 0, 0
+  index: -1
+theme10065_pick_016
+  rotate: false
+  xy: 1021, 383
+  size: 183, 195
+  orig: 183, 195
+  offset: 0, 0
+  index: -1
+theme10065_pick_017
+  rotate: false
+  xy: 1644, 1377
+  size: 190, 188
+  orig: 190, 188
+  offset: 0, 0
+  index: -1
+theme10065_pick_018
+  rotate: true
+  xy: 258, 576
+  size: 245, 238
+  orig: 245, 238
+  offset: 0, 0
+  index: -1
+theme10065_pick_019
+  rotate: false
+  xy: 1077, 1332
+  size: 243, 239
+  orig: 243, 239
+  offset: 0, 0
+  index: -1
+theme10065_pick_020
+  rotate: true
+  xy: 498, 629
+  size: 257, 263
+  orig: 257, 263
+  offset: 0, 0
+  index: -1
+zifan/zifan_00
+  rotate: false
+  xy: 1350, 1742
+  size: 268, 260
+  orig: 390, 351
+  offset: 55, 41
+  index: -1
+zifan/zifan_02
+  rotate: true
+  xy: 763, 622
+  size: 245, 264
+  orig: 390, 351
+  offset: 69, 39
+  index: -1
+zifan/zifan_04
+  rotate: true
+  xy: 1607, 1567
+  size: 173, 266
+  orig: 390, 351
+  offset: 106, 38
+  index: -1
+zifan/zifan_06
+  rotate: false
+  xy: 1156, 850
+  size: 79, 266
+  orig: 390, 351
+  offset: 146, 38
+  index: -1
+zifan/zifan_07
+  rotate: false
+  xy: 1029, 580
+  size: 126, 267
+  orig: 390, 351
+  offset: 124, 38
+  index: -1
+zifan/zifan_08
+  rotate: false
+  xy: 1027, 115
+  size: 173, 266
+  orig: 390, 351
+  offset: 100, 38
+  index: -1
+zifan/zifan_09
+  rotate: true
+  xy: 760, 147
+  size: 215, 265
+  orig: 390, 351
+  offset: 79, 39
+  index: -1
+zifan/zifan_10
+  rotate: false
+  xy: 265, 310
+  size: 246, 264
+  orig: 390, 351
+  offset: 64, 39
+  index: -1
+zifan/zifan_11
+  rotate: false
+  xy: 498, 888
+  size: 263, 262
+  orig: 390, 351
+  offset: 56, 40
+  index: -1
+zifan/zifan_12
+  rotate: false
+  xy: 1620, 1742
+  size: 268, 260
+  orig: 390, 351
+  offset: 55, 41
+  index: -1
+zifan/zifan_13
+  rotate: false
+  xy: 1620, 1742
+  size: 268, 260
+  orig: 390, 351
+  offset: 55, 41
+  index: -1

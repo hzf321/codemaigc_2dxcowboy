@@ -1,0 +1,111 @@
+
+zhousi_sea.png
+size: 1797,1162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloudA
+  rotate: false
+  xy: 2, 652
+  size: 1146, 94
+  orig: 1146, 94
+  offset: 0, 0
+  index: -1
+cloudB
+  rotate: false
+  xy: 2, 36
+  size: 650, 204
+  orig: 650, 204
+  offset: 0, 0
+  index: -1
+mountainA
+  rotate: false
+  xy: 1150, 662
+  size: 101, 84
+  orig: 103, 86
+  offset: 1, 1
+  index: -1
+mountainB
+  rotate: false
+  xy: 1468, 753
+  size: 37, 26
+  orig: 39, 28
+  offset: 1, 1
+  index: -1
+mountainC
+  rotate: false
+  xy: 2, 2
+  size: 45, 32
+  orig: 47, 34
+  offset: 1, 1
+  index: -1
+mountainD
+  rotate: false
+  xy: 1035, 67
+  size: 163, 173
+  orig: 165, 175
+  offset: 1, 1
+  index: -1
+mountainDlight
+  rotate: false
+  xy: 1200, 67
+  size: 163, 173
+  orig: 165, 175
+  offset: 1, 1
+  index: -1
+mountainE
+  rotate: true
+  xy: 1468, 781
+  size: 379, 232
+  orig: 381, 234
+  offset: 1, 1
+  index: -1
+mountainElight
+  rotate: false
+  xy: 654, 9
+  size: 379, 231
+  orig: 381, 234
+  offset: 1, 2
+  index: -1
+mountain_F
+  rotate: false
+  xy: 2, 242
+  size: 751, 408
+  orig: 753, 410
+  offset: 1, 1
+  index: -1
+mountain_Flight
+  rotate: false
+  xy: 755, 242
+  size: 751, 408
+  orig: 753, 410
+  offset: 1, 1
+  index: -1
+mountain_Glight
+  rotate: true
+  xy: 1508, 49
+  size: 730, 273
+  orig: 732, 275
+  offset: 1, 1
+  index: -1
+sea
+  rotate: false
+  xy: 2, 955
+  size: 1464, 205
+  orig: 1466, 207
+  offset: 1, 1
+  index: -1
+sealight
+  rotate: false
+  xy: 2, 748
+  size: 1464, 205
+  orig: 1466, 207
+  offset: 1, 1
+  index: -1
+shuihua
+  rotate: true
+  xy: 1702, 997
+  size: 163, 93
+  orig: 163, 93
+  offset: 0, 0
+  index: -1

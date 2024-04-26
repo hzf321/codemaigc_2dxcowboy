@@ -1,0 +1,146 @@
+
+m2.png
+size: 768,768
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoliang01
+  rotate: false
+  xy: 518, 14
+  size: 107, 78
+  orig: 107, 78
+  offset: 0, 0
+  index: -1
+images/7
+  rotate: false
+  xy: 2, 151
+  size: 173, 113
+  orig: 233, 124
+  offset: 34, 6
+  index: -1
+images/liuguang/7_0
+  rotate: false
+  xy: 649, 65
+  size: 77, 60
+  orig: 192, 142
+  offset: 13, 64
+  index: -1
+images/liuguang/7_1
+  rotate: false
+  xy: 649, 127
+  size: 91, 61
+  orig: 192, 142
+  offset: 13, 63
+  index: -1
+images/liuguang/7_10
+  rotate: false
+  xy: 350, 152
+  size: 158, 112
+  orig: 192, 142
+  offset: 28, 11
+  index: -1
+images/liuguang/7_11
+  rotate: true
+  xy: 177, 2
+  size: 148, 112
+  orig: 192, 142
+  offset: 38, 11
+  index: -1
+images/liuguang/7_12
+  rotate: true
+  xy: 291, 2
+  size: 148, 112
+  orig: 192, 142
+  offset: 38, 11
+  index: -1
+images/liuguang/7_13
+  rotate: true
+  xy: 405, 2
+  size: 148, 111
+  orig: 192, 142
+  offset: 38, 11
+  index: -1
+images/liuguang/7_14
+  rotate: false
+  xy: 519, 311
+  size: 145, 110
+  orig: 192, 142
+  offset: 41, 11
+  index: -1
+images/liuguang/7_15
+  rotate: false
+  xy: 518, 94
+  size: 129, 104
+  orig: 192, 142
+  offset: 57, 11
+  index: -1
+images/liuguang/7_16
+  rotate: true
+  xy: 665, 190
+  size: 110, 96
+  orig: 192, 142
+  offset: 75, 11
+  index: -1
+images/liuguang/7_2
+  rotate: true
+  xy: 694, 660
+  size: 106, 68
+  orig: 192, 142
+  offset: 13, 56
+  index: -1
+images/liuguang/7_3
+  rotate: true
+  xy: 666, 302
+  size: 119, 92
+  orig: 192, 142
+  offset: 13, 32
+  index: -1
+images/liuguang/7_4
+  rotate: false
+  xy: 519, 200
+  size: 144, 109
+  orig: 192, 142
+  offset: 13, 15
+  index: -1
+images/liuguang/7_5
+  rotate: false
+  xy: 519, 423
+  size: 160, 113
+  orig: 192, 142
+  offset: 13, 11
+  index: -1
+images/liuguang/7_6
+  rotate: false
+  xy: 519, 538
+  size: 169, 113
+  orig: 192, 142
+  offset: 13, 11
+  index: -1
+images/liuguang/7_7
+  rotate: false
+  xy: 519, 653
+  size: 173, 113
+  orig: 192, 142
+  offset: 13, 11
+  index: -1
+images/liuguang/7_8
+  rotate: false
+  xy: 2, 36
+  size: 173, 113
+  orig: 192, 142
+  offset: 13, 11
+  index: -1
+images/liuguang/7_9
+  rotate: false
+  xy: 177, 152
+  size: 171, 112
+  orig: 192, 142
+  offset: 15, 11
+  index: -1
+zhuabnguang01
+  rotate: false
+  xy: 2, 266
+  size: 515, 500
+  orig: 515, 500
+  offset: 0, 0
+  index: -1

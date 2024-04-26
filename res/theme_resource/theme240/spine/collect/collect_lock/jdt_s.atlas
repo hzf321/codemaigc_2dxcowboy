@@ -1,0 +1,153 @@
+
+jdt_s.png
+size: 1721,1719
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/bao2/bao2_1
+  rotate: true
+  xy: 398, 998
+  size: 232, 84
+  orig: 300, 150
+  offset: 29, 33
+  index: -1
+tx/bao2/bao2_10
+  rotate: false
+  xy: 1056, 1500
+  size: 276, 140
+  orig: 300, 150
+  offset: 0, 5
+  index: -1
+tx/bao2/bao2_11
+  rotate: false
+  xy: 1334, 1505
+  size: 267, 135
+  orig: 300, 150
+  offset: 7, 9
+  index: -1
+tx/bao2/bao2_12
+  rotate: true
+  xy: 333, 1232
+  size: 249, 128
+  orig: 300, 150
+  offset: 24, 15
+  index: -1
+tx/bao2/bao2_13
+  rotate: true
+  xy: 282, 1000
+  size: 230, 114
+  orig: 300, 150
+  offset: 41, 27
+  index: -1
+tx/bao2/bao2_2
+  rotate: false
+  xy: 463, 1240
+  size: 254, 106
+  orig: 300, 150
+  offset: 15, 21
+  index: -1
+tx/bao2/bao2_3
+  rotate: true
+  xy: 1603, 1372
+  size: 268, 118
+  orig: 300, 150
+  offset: 7, 15
+  index: -1
+tx/bao2/bao2_4
+  rotate: false
+  xy: 499, 1456
+  size: 275, 130
+  orig: 300, 150
+  offset: 3, 8
+  index: -1
+tx/bao2/bao2_5
+  rotate: true
+  xy: 0, 62
+  size: 279, 137
+  orig: 300, 150
+  offset: 0, 4
+  index: -1
+tx/bao2/bao2_6
+  rotate: true
+  xy: 110, 691
+  size: 280, 143
+  orig: 300, 150
+  offset: 0, 1
+  index: -1
+tx/bao2/bao2_7
+  rotate: false
+  xy: 0, 1120
+  size: 280, 145
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+tx/bao2/bao2_8
+  rotate: false
+  xy: 0, 973
+  size: 280, 145
+  orig: 300, 150
+  offset: 0, 0
+  index: -1
+tx/bao2/bao2_9
+  rotate: false
+  xy: 776, 1499
+  size: 278, 141
+  orig: 300, 150
+  offset: 0, 4
+  index: -1
+tx/fg2_0
+  rotate: false
+  xy: 0, 1483
+  size: 497, 103
+  orig: 497, 103
+  offset: 0, 0
+  index: -1
+tx/gui2
+  rotate: false
+  xy: 463, 1348
+  size: 256, 106
+  orig: 256, 128
+  offset: 0, 11
+  index: -1
+tx/images/tiao
+  rotate: false
+  xy: 0, 1642
+  size: 1708, 77
+  orig: 1708, 77
+  offset: 0, 0
+  index: -1
+tx/images/you1
+  rotate: true
+  xy: 0, 654
+  size: 317, 108
+  orig: 317, 108
+  offset: 0, 0
+  index: -1
+tx/images/you2
+  rotate: false
+  xy: 0, 1375
+  size: 331, 106
+  orig: 331, 106
+  offset: 0, 0
+  index: -1
+tx/images/zimu
+  rotate: false
+  xy: 0, 1588
+  size: 773, 52
+  orig: 773, 52
+  offset: 0, 0
+  index: -1
+tx/images/zuo1
+  rotate: true
+  xy: 0, 343
+  size: 309, 104
+  orig: 309, 104
+  offset: 0, 0
+  index: -1
+tx/images/zuo2
+  rotate: false
+  xy: 0, 1267
+  size: 331, 106
+  orig: 331, 106
+  offset: 0, 0
+  index: -1

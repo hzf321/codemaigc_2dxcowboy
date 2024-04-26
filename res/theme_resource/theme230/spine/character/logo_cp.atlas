@@ -1,0 +1,342 @@
+
+logo_cp.png
+size: 1595,1595
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beijing_wz
+  rotate: false
+  xy: 2, 1101
+  size: 391, 251
+  orig: 391, 251
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_0
+  rotate: false
+  xy: 913, 601
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_1
+  rotate: false
+  xy: 913, 518
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_10
+  rotate: false
+  xy: 658, 2
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_11
+  rotate: false
+  xy: 761, 85
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_12
+  rotate: false
+  xy: 988, 2
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_13
+  rotate: true
+  xy: 1342, 836
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_14
+  rotate: true
+  xy: 1326, 354
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_15
+  rotate: true
+  xy: 1425, 935
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_16
+  rotate: true
+  xy: 1508, 935
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_17
+  rotate: false
+  xy: 1243, 271
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_18
+  rotate: false
+  xy: 1243, 188
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_19
+  rotate: false
+  xy: 1230, 105
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_2
+  rotate: false
+  xy: 913, 435
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_20
+  rotate: true
+  xy: 1409, 489
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_3
+  rotate: false
+  xy: 913, 352
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_4
+  rotate: true
+  xy: 1243, 354
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_5
+  rotate: false
+  xy: 913, 269
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_6
+  rotate: false
+  xy: 900, 186
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_7
+  rotate: true
+  xy: 1430, 1265
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_8
+  rotate: false
+  xy: 431, 85
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe/deluxe_9
+  rotate: false
+  xy: 328, 2
+  size: 328, 81
+  orig: 328, 81
+  offset: 0, 0
+  index: -1
+images/deluxe2_wz
+  rotate: false
+  xy: 2, 38
+  size: 324, 97
+  orig: 324, 97
+  offset: 0, 0
+  index: -1
+images/deluxe_wz
+  rotate: true
+  xy: 1513, 1279
+  size: 314, 78
+  orig: 314, 78
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_0
+  rotate: false
+  xy: 466, 1452
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_1
+  rotate: true
+  xy: 2, 619
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_10
+  rotate: false
+  xy: 395, 1166
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_11
+  rotate: false
+  xy: 877, 1166
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_12
+  rotate: false
+  xy: 431, 1023
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_13
+  rotate: false
+  xy: 431, 880
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_14
+  rotate: false
+  xy: 431, 737
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_15
+  rotate: false
+  xy: 431, 594
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_16
+  rotate: true
+  xy: 913, 684
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_17
+  rotate: false
+  xy: 431, 451
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_18
+  rotate: true
+  xy: 1056, 684
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_19
+  rotate: false
+  xy: 431, 308
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_2
+  rotate: false
+  xy: 948, 1452
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_20
+  rotate: true
+  xy: 1199, 684
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_3
+  rotate: true
+  xy: 2, 137
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_4
+  rotate: true
+  xy: 145, 619
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_5
+  rotate: true
+  xy: 145, 137
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_6
+  rotate: true
+  xy: 288, 619
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_7
+  rotate: true
+  xy: 288, 137
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_8
+  rotate: false
+  xy: 466, 1309
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush/goldrush_9
+  rotate: false
+  xy: 948, 1309
+  size: 480, 141
+  orig: 480, 141
+  offset: 0, 0
+  index: -1
+images/goldrush_wz
+  rotate: false
+  xy: 431, 168
+  size: 467, 138
+  orig: 467, 138
+  offset: 0, 0
+  index: -1
+images/xingguang
+  rotate: false
+  xy: 1425, 819
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+images/yinying_wz
+  rotate: false
+  xy: 2, 1354
+  size: 462, 239
+  orig: 462, 239
+  offset: 0, 0
+  index: -1

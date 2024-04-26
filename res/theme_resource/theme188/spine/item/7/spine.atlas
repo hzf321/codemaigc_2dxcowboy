@@ -1,0 +1,132 @@
+
+shouzhuo_01.png
+size: 348,348
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandian01_0/shandian01_0
+  rotate: false
+  xy: 201, 102
+  size: 72, 79
+  orig: 119, 107
+  offset: 36, 12
+  index: -1
+shandian01_0/shandian01_1
+  rotate: false
+  xy: 92, 24
+  size: 81, 77
+  orig: 119, 107
+  offset: 28, 12
+  index: -1
+shandian01_0/shandian01_10
+  rotate: false
+  xy: 141, 183
+  size: 86, 83
+  orig: 119, 107
+  offset: 13, 12
+  index: -1
+shandian01_0/shandian01_11
+  rotate: false
+  xy: 235, 274
+  size: 94, 74
+  orig: 119, 107
+  offset: 14, 19
+  index: -1
+shandian01_0/shandian01_12
+  rotate: true
+  xy: 116, 103
+  size: 78, 83
+  orig: 119, 107
+  offset: 29, 12
+  index: -1
+shandian01_0/shandian01_13
+  rotate: false
+  xy: 0, 31
+  size: 90, 82
+  orig: 119, 107
+  offset: 17, 13
+  index: -1
+shandian01_0/shandian01_2
+  rotate: false
+  xy: 141, 268
+  size: 92, 80
+  orig: 119, 107
+  offset: 15, 13
+  index: -1
+shandian01_0/shandian01_3
+  rotate: false
+  xy: 277, 193
+  size: 71, 79
+  orig: 119, 107
+  offset: 26, 13
+  index: -1
+shandian01_0/shandian01_4
+  rotate: true
+  xy: 175, 51
+  size: 49, 79
+  orig: 119, 107
+  offset: 48, 13
+  index: -1
+shandian01_0/shandian01_5
+  rotate: true
+  xy: 175, 1
+  size: 48, 79
+  orig: 119, 107
+  offset: 49, 13
+  index: -1
+shandian01_0/shandian01_6
+  rotate: true
+  xy: 275, 39
+  size: 64, 73
+  orig: 119, 107
+  offset: 26, 21
+  index: -1
+shandian01_0/shandian01_7
+  rotate: false
+  xy: 331, 309
+  size: 14, 39
+  orig: 119, 107
+  offset: 16, 26
+  index: -1
+shandian01_0/shandian01_8
+  rotate: false
+  xy: 347, 347
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shandian01_0/shandian01_9
+  rotate: true
+  xy: 229, 183
+  size: 83, 46
+  orig: 119, 107
+  offset: 20, 49
+  index: -1
+shouzhuo/bejing
+  rotate: false
+  xy: 0, 115
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+shouzhuo/shandian
+  rotate: false
+  xy: 0, 220
+  size: 139, 128
+  orig: 140, 129
+  offset: 1, 1
+  index: -1
+shouzhuo/shouzhuo01
+  rotate: true
+  xy: 275, 105
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+xingguang
+  rotate: false
+  xy: 0, 0
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

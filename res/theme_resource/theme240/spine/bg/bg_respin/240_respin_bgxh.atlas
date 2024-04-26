@@ -1,0 +1,48 @@
+
+240_respin_bgxh.png
+size: 513,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001_000
+  rotate: true
+  xy: 152, 56
+  size: 224, 149
+  orig: 224, 149
+  offset: 0, 0
+  index: -1
+005414wm1vtiktfxmizt90
+  rotate: false
+  xy: 303, 101
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+caoy
+  rotate: false
+  xy: 303, 2
+  size: 141, 97
+  orig: 141, 97
+  offset: 0, 0
+  index: -1
+caoz
+  rotate: true
+  xy: 442, 397
+  size: 114, 63
+  orig: 114, 63
+  offset: 0, 0
+  index: -1
+f_000
+  rotate: true
+  xy: 2, 41
+  size: 239, 148
+  orig: 239, 148
+  offset: 0, 0
+  index: -1
+yun
+  rotate: false
+  xy: 2, 282
+  size: 438, 229
+  orig: 438, 229
+  offset: 0, 0
+  index: -1

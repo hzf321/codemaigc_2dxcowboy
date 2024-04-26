@@ -1,0 +1,20 @@
+
+kuang3.png
+size: 381,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changtiao_0
+  rotate: false
+  xy: 0, 28
+  size: 290, 67
+  orig: 300, 80
+  offset: 5, 8
+  index: -1
+star
+  rotate: false
+  xy: 292, 0
+  size: 89, 95
+  orig: 101, 104
+  offset: 6, 5
+  index: -1

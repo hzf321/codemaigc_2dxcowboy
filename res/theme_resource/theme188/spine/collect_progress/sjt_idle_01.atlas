@@ -1,0 +1,125 @@
+
+sjt_idle_01.png
+size: 605,603
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle_01_0/idle_01_0
+  rotate: false
+  xy: 0, 534
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_15
+  rotate: false
+  xy: 0, 534
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_1
+  rotate: false
+  xy: 0, 503
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_10
+  rotate: false
+  xy: 0, 224
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_11
+  rotate: false
+  xy: 0, 193
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_12
+  rotate: false
+  xy: 0, 162
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_13
+  rotate: false
+  xy: 0, 131
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_14
+  rotate: false
+  xy: 0, 100
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_2
+  rotate: false
+  xy: 0, 472
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_3
+  rotate: false
+  xy: 0, 441
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_4
+  rotate: false
+  xy: 0, 410
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_5
+  rotate: false
+  xy: 0, 379
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_6
+  rotate: false
+  xy: 0, 348
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_7
+  rotate: false
+  xy: 0, 317
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_8
+  rotate: false
+  xy: 0, 286
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+idle_01_0/idle_01_9
+  rotate: false
+  xy: 0, 255
+  size: 455, 29
+  orig: 455, 29
+  offset: 0, 0
+  index: -1
+theme188_collect_1_6
+  rotate: false
+  xy: 0, 565
+  size: 605, 38
+  orig: 613, 46
+  offset: 4, 4
+  index: -1

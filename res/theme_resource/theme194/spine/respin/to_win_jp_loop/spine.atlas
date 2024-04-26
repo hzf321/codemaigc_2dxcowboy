@@ -1,0 +1,13 @@
+
+jp5kuang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dakuangglow_00
+  rotate: false
+  xy: 2, 2
+  size: 868, 449
+  orig: 996, 451
+  offset: 48, 2
+  index: -1

@@ -1,0 +1,13 @@
+
+bgxunhuan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shiziguang02
+  rotate: false
+  xy: 2, 2
+  size: 227, 252
+  orig: 256, 256
+  offset: 14, 4
+  index: -1

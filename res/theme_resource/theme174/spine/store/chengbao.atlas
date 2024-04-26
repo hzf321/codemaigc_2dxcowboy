@@ -1,0 +1,174 @@
+
+chengbao.png
+size: 978,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/cheng
+  rotate: false
+  xy: 0, 126
+  size: 203, 344
+  orig: 203, 344
+  offset: 0, 0
+  index: -1
+images/deng
+  rotate: false
+  xy: 205, 250
+  size: 133, 220
+  orig: 134, 220
+  offset: 1, 0
+  index: -1
+images/deng1
+  rotate: false
+  xy: 340, 299
+  size: 160, 171
+  orig: 160, 174
+  offset: 0, 2
+  index: -1
+images/yanhua_000
+  rotate: false
+  xy: 126, 57
+  size: 70, 67
+  orig: 130, 125
+  offset: 29, 29
+  index: -1
+images/yanhua_002
+  rotate: false
+  xy: 881, 269
+  size: 87, 81
+  orig: 130, 125
+  offset: 21, 21
+  index: -1
+images/yanhua_004
+  rotate: false
+  xy: 877, 141
+  size: 101, 93
+  orig: 130, 125
+  offset: 14, 14
+  index: -1
+images/yanhua_006
+  rotate: false
+  xy: 810, 12
+  size: 112, 102
+  orig: 130, 125
+  offset: 8, 9
+  index: -1
+images/yanhua_008
+  rotate: false
+  xy: 594, 120
+  size: 118, 109
+  orig: 130, 125
+  offset: 5, 4
+  index: -1
+images/yanhua_010
+  rotate: false
+  xy: 756, 236
+  size: 123, 113
+  orig: 130, 125
+  offset: 2, 2
+  index: -1
+images/yanhua_012
+  rotate: false
+  xy: 332, 59
+  size: 125, 117
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_014
+  rotate: false
+  xy: 629, 231
+  size: 125, 118
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_016
+  rotate: false
+  xy: 700, 351
+  size: 125, 119
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_018
+  rotate: false
+  xy: 502, 262
+  size: 125, 119
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_020
+  rotate: false
+  xy: 340, 178
+  size: 125, 119
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_022
+  rotate: false
+  xy: 467, 142
+  size: 125, 118
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_024
+  rotate: false
+  xy: 205, 129
+  size: 125, 119
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_026
+  rotate: false
+  xy: 205, 8
+  size: 124, 119
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_028
+  rotate: false
+  xy: 0, 6
+  size: 124, 118
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_030
+  rotate: false
+  xy: 827, 352
+  size: 120, 118
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_032
+  rotate: false
+  xy: 756, 116
+  size: 119, 118
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_034
+  rotate: false
+  xy: 459, 22
+  size: 117, 118
+  orig: 130, 125
+  offset: 0, 0
+  index: -1
+images/yanhua_036
+  rotate: false
+  xy: 578, 1
+  size: 115, 117
+  orig: 130, 125
+  offset: 1, 0
+  index: -1
+images/yanhua_038
+  rotate: false
+  xy: 695, 0
+  size: 113, 114
+  orig: 130, 125
+  offset: 3, 2
+  index: -1
+images/yingzi
+  rotate: false
+  xy: 502, 383
+  size: 196, 87
+  orig: 200, 89
+  offset: 1, 0
+  index: -1

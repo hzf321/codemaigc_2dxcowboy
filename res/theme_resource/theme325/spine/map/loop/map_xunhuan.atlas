@@ -1,0 +1,13 @@
+
+map_xunhuan.png
+size: 132,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xxx
+  rotate: false
+  xy: 2, 2
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+yuanniu.png
+size: 1614,424
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai_0
+  rotate: false
+  xy: 1414, 170
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+lizi_0
+  rotate: false
+  xy: 0, 213
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_1
+  rotate: false
+  xy: 0, 0
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_10
+  rotate: false
+  xy: 1010, 213
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_11
+  rotate: false
+  xy: 1010, 0
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_12
+  rotate: false
+  xy: 1212, 213
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_13
+  rotate: false
+  xy: 1212, 0
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_14
+  rotate: false
+  xy: 1414, 213
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_2
+  rotate: false
+  xy: 202, 213
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_3
+  rotate: false
+  xy: 202, 0
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_4
+  rotate: false
+  xy: 404, 213
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_5
+  rotate: false
+  xy: 404, 0
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_6
+  rotate: false
+  xy: 606, 213
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_7
+  rotate: false
+  xy: 606, 0
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_8
+  rotate: false
+  xy: 808, 213
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1
+lizi_9
+  rotate: false
+  xy: 808, 0
+  size: 200, 211
+  orig: 200, 211
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+244_qieping.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 2, 1499
+  size: 874, 538
+  orig: 874, 538
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 959
+  size: 874, 538
+  orig: 874, 538
+  offset: 0, 0
+  index: -1
+cao1
+  rotate: false
+  xy: 1657, 1707
+  size: 385, 330
+  orig: 385, 330
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: false
+  xy: 2, 739
+  size: 675, 218
+  orig: 675, 218
+  offset: 0, 0
+  index: -1
+duoer2
+  rotate: true
+  xy: 1887, 1621
+  size: 84, 144
+  orig: 84, 144
+  offset: 0, 0
+  index: -1
+erduo1
+  rotate: false
+  xy: 1649, 1491
+  size: 88, 113
+  orig: 88, 113
+  offset: 0, 0
+  index: -1
+jiao
+  rotate: true
+  xy: 1404, 1075
+  size: 109, 240
+  orig: 109, 240
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 1649, 1394
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+ljiao1
+  rotate: true
+  xy: 386, 293
+  size: 132, 302
+  orig: 132, 302
+  offset: 0, 0
+  index: -1
+ljiao3
+  rotate: true
+  xy: 1404, 972
+  size: 101, 242
+  orig: 101, 242
+  offset: 0, 0
+  index: -1
+niao1
+  rotate: false
+  xy: 1657, 1606
+  size: 228, 99
+  orig: 228, 99
+  offset: 0, 0
+  index: -1
+rjiao2
+  rotate: false
+  xy: 1121, 920
+  size: 148, 272
+  orig: 148, 272
+  offset: 0, 0
+  index: -1
+rjiao4
+  rotate: false
+  xy: 1271, 950
+  size: 131, 234
+  orig: 131, 234
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 296
+  size: 382, 441
+  orig: 382, 441
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 878, 1194
+  size: 404, 427
+  orig: 404, 427
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: true
+  xy: 1284, 1186
+  size: 435, 363
+  orig: 435, 363
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: true
+  xy: 386, 427
+  size: 310, 258
+  orig: 310, 258
+  offset: 0, 0
+  index: -1
+shuye
+  rotate: false
+  xy: 2, 2
+  size: 17, 48
+  orig: 17, 48
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 878, 957
+  size: 241, 235
+  orig: 241, 235
+  offset: 0, 0
+  index: -1
+yanc
+  rotate: false
+  xy: 2, 52
+  size: 344, 242
+  orig: 344, 242
+  offset: 0, 0
+  index: -1
+yanc1
+  rotate: false
+  xy: 878, 1623
+  size: 777, 414
+  orig: 777, 414
+  offset: 0, 0
+  index: -1
+yanc2
+  rotate: true
+  xy: 679, 727
+  size: 230, 150
+  orig: 230, 150
+  offset: 0, 0
+  index: -1

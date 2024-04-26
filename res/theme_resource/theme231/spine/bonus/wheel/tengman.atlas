@@ -1,0 +1,48 @@
+
+tengman.png
+size: 461,461
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changjing/images/panye1
+  rotate: true
+  xy: 145, 20
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+changjing/images/panye2
+  rotate: false
+  xy: 207, 15
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+changjing/images/panye3
+  rotate: false
+  xy: 111, 20
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+changjing/images/temen
+  rotate: true
+  xy: 2, 2
+  size: 38, 107
+  orig: 38, 107
+  offset: 0, 0
+  index: -1
+changjing/images/tenghuan
+  rotate: false
+  xy: 2, 42
+  size: 438, 417
+  orig: 440, 418
+  offset: 1, 1
+  index: -1
+changjing/images/tengye
+  rotate: true
+  xy: 178, 20
+  size: 20, 27
+  orig: 21, 28
+  offset: 1, 1
+  index: -1

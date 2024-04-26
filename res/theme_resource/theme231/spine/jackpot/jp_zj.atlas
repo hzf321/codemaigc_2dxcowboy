@@ -1,0 +1,153 @@
+
+jp_zj.png
+size: 1165,1163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hud1_0
+  rotate: true
+  xy: 986, 456
+  size: 213, 177
+  orig: 213, 177
+  offset: 0, 0
+  index: -1
+hud2_0
+  rotate: true
+  xy: 986, 241
+  size: 213, 177
+  orig: 213, 177
+  offset: 0, 0
+  index: -1
+hud3_0
+  rotate: false
+  xy: 896, 62
+  size: 213, 177
+  orig: 213, 177
+  offset: 0, 0
+  index: -1
+lzzzz_0
+  rotate: false
+  xy: 2, 885
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_1
+  rotate: false
+  xy: 494, 1024
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_10
+  rotate: false
+  xy: 2, 329
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_11
+  rotate: false
+  xy: 494, 468
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_12
+  rotate: false
+  xy: 2, 190
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_13
+  rotate: false
+  xy: 494, 329
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_14
+  rotate: false
+  xy: 2, 51
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_2
+  rotate: false
+  xy: 2, 746
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_3
+  rotate: false
+  xy: 494, 885
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_4
+  rotate: false
+  xy: 2, 607
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_5
+  rotate: false
+  xy: 494, 746
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_6
+  rotate: false
+  xy: 2, 468
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_7
+  rotate: false
+  xy: 494, 607
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_8
+  rotate: true
+  xy: 986, 671
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+lzzzz_9
+  rotate: false
+  xy: 2, 1024
+  size: 490, 137
+  orig: 490, 137
+  offset: 0, 0
+  index: -1
+shin1_0
+  rotate: false
+  xy: 494, 247
+  size: 400, 80
+  orig: 400, 80
+  offset: 0, 0
+  index: -1
+shin2_0
+  rotate: false
+  xy: 494, 165
+  size: 400, 80
+  orig: 400, 80
+  offset: 0, 0
+  index: -1
+shin3_0
+  rotate: false
+  xy: 494, 83
+  size: 400, 80
+  orig: 400, 80
+  offset: 0, 0
+  index: -1

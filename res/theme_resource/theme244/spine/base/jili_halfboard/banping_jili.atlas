@@ -1,0 +1,265 @@
+
+banping_jili.png
+size: 1042,1042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1yw01
+  rotate: false
+  xy: 520, 392
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw02
+  rotate: false
+  xy: 262, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw03
+  rotate: false
+  xy: 520, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw04
+  rotate: false
+  xy: 650, 392
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw05
+  rotate: false
+  xy: 392, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw06
+  rotate: false
+  xy: 650, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw07
+  rotate: false
+  xy: 522, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw08
+  rotate: false
+  xy: 652, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw09
+  rotate: false
+  xy: 262, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw10
+  rotate: false
+  xy: 392, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw11
+  rotate: false
+  xy: 522, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw12
+  rotate: false
+  xy: 652, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw13
+  rotate: false
+  xy: 824, 652
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw14
+  rotate: false
+  xy: 824, 522
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw15
+  rotate: false
+  xy: 780, 392
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+1yw16
+  rotate: false
+  xy: 780, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+2yw01
+  rotate: true
+  xy: 2, 274
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw02
+  rotate: false
+  xy: 354, 912
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw03
+  rotate: true
+  xy: 2, 16
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw04
+  rotate: false
+  xy: 612, 912
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw05
+  rotate: true
+  xy: 178, 529
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw06
+  rotate: false
+  xy: 354, 782
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw07
+  rotate: false
+  xy: 612, 782
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw08
+  rotate: true
+  xy: 870, 784
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw09
+  rotate: true
+  xy: 132, 271
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw10
+  rotate: true
+  xy: 132, 13
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw11
+  rotate: false
+  xy: 308, 652
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw12
+  rotate: false
+  xy: 566, 652
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw13
+  rotate: false
+  xy: 308, 522
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw14
+  rotate: false
+  xy: 566, 522
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw15
+  rotate: false
+  xy: 262, 392
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+2yw16
+  rotate: false
+  xy: 262, 262
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+fengsha
+  rotate: false
+  xy: 782, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+fengye4
+  rotate: false
+  xy: 782, 56
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+shuzhi1
+  rotate: false
+  xy: 2, 787
+  size: 174, 253
+  orig: 174, 253
+  offset: 0, 0
+  index: -1
+shuzhi2
+  rotate: false
+  xy: 2, 532
+  size: 174, 253
+  orig: 174, 253
+  offset: 0, 0
+  index: -1
+shuzhi3
+  rotate: false
+  xy: 178, 787
+  size: 174, 253
+  orig: 174, 253
+  offset: 0, 0
+  index: -1

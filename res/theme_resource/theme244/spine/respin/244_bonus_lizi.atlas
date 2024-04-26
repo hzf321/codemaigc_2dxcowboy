@@ -1,0 +1,41 @@
+
+244_bonus_lizi.png
+size: 800,798
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dan12_3
+  rotate: false
+  xy: 2, 124
+  size: 360, 672
+  orig: 360, 672
+  offset: 0, 0
+  index: -1
+daxingxing
+  rotate: false
+  xy: 2, 5
+  size: 117, 117
+  orig: 117, 117
+  offset: 0, 0
+  index: -1
+gqq_1
+  rotate: false
+  xy: 514, 294
+  size: 219, 216
+  orig: 219, 216
+  offset: 0, 0
+  index: -1
+guangtiao
+  rotate: false
+  xy: 364, 154
+  size: 148, 642
+  orig: 148, 642
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 514, 512
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1

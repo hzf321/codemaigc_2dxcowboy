@@ -1,0 +1,34 @@
+
+zhousi_Loading.png
+size: 124,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dilight
+  rotate: true
+  xy: 87, 28
+  size: 118, 35
+  orig: 120, 37
+  offset: 1, 1
+  index: -1
+faguang
+  rotate: false
+  xy: 2, 51
+  size: 83, 95
+  orig: 85, 97
+  offset: 1, 1
+  index: -1
+img_lizi
+  rotate: false
+  xy: 63, 2
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+lightning
+  rotate: true
+  xy: 2, 9
+  size: 40, 59
+  orig: 42, 61
+  offset: 1, 1
+  index: -1

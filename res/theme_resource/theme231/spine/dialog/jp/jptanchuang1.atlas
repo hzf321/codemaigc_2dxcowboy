@@ -1,0 +1,83 @@
+
+jptanchuang1.png
+size: 1518,1518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shu1
+  rotate: false
+  xy: 2, 344
+  size: 423, 772
+  orig: 423, 772
+  offset: 0, 0
+  index: -1
+images/shu10
+  rotate: false
+  xy: 1235, 1065
+  size: 194, 451
+  orig: 194, 451
+  offset: 0, 0
+  index: -1
+images/shu11
+  rotate: false
+  xy: 810, 575
+  size: 351, 435
+  orig: 351, 435
+  offset: 0, 0
+  index: -1
+images/shu2
+  rotate: false
+  xy: 810, 202
+  size: 408, 371
+  orig: 408, 371
+  offset: 0, 0
+  index: -1
+images/shu3
+  rotate: false
+  xy: 1163, 588
+  size: 333, 422
+  orig: 333, 422
+  offset: 0, 0
+  index: -1
+images/shu4
+  rotate: true
+  xy: 2, 2
+  size: 340, 421
+  orig: 340, 421
+  offset: 0, 0
+  index: -1
+images/shu5
+  rotate: false
+  xy: 810, 1012
+  size: 423, 504
+  orig: 423, 504
+  offset: 0, 0
+  index: -1
+images/shu6
+  rotate: false
+  xy: 1220, 149
+  size: 294, 437
+  orig: 294, 437
+  offset: 0, 0
+  index: -1
+images/shu7
+  rotate: false
+  xy: 2, 1118
+  size: 806, 398
+  orig: 806, 398
+  offset: 0, 0
+  index: -1
+images/shu8
+  rotate: true
+  xy: 427, 110
+  size: 268, 273
+  orig: 268, 273
+  offset: 0, 0
+  index: -1
+images/shu9
+  rotate: false
+  xy: 427, 380
+  size: 381, 736
+  orig: 381, 736
+  offset: 0, 0
+  index: -1

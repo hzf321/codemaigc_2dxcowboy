@@ -1,0 +1,55 @@
+
+d3.png
+size: 174,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beijing
+  rotate: false
+  xy: 2, 78
+  size: 162, 94
+  orig: 162, 95
+  offset: 0, 1
+  index: -1
+images/dian
+  rotate: false
+  xy: 68, 49
+  size: 85, 27
+  orig: 86, 28
+  offset: 1, 0
+  index: -1
+images/gebo
+  rotate: false
+  xy: 68, 8
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+images/gebo2
+  rotate: false
+  xy: 155, 45
+  size: 16, 31
+  orig: 16, 32
+  offset: 0, 1
+  index: -1
+images/qingwa
+  rotate: true
+  xy: 2, 2
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+images/tui1
+  rotate: true
+  xy: 145, 5
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+images/tui2
+  rotate: false
+  xy: 102, 22
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1

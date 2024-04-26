@@ -1,0 +1,20 @@
+
+10.png
+size: 105,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 2
+  size: 70, 48
+  orig: 159, 132
+  offset: 47, 40
+  index: -1
+theme220_s_11
+  rotate: false
+  xy: 2, 52
+  size: 73, 51
+  orig: 105, 75
+  offset: 16, 12
+  index: -1

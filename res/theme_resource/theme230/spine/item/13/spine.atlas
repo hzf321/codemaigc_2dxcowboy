@@ -1,0 +1,223 @@
+
+lanmen.png
+size: 336,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000135_00
+  rotate: false
+  xy: 150, 103
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+gaoliang01
+  rotate: false
+  xy: 94, 5
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+gd01
+  rotate: false
+  xy: 2, 6
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+hongmenkai/hongmenkai_00
+  rotate: false
+  xy: 139, 150
+  size: 43, 55
+  orig: 109, 103
+  offset: 26, 25
+  index: -1
+hongmenkai/hongmenkai_01
+  rotate: false
+  xy: 93, 150
+  size: 44, 55
+  orig: 109, 103
+  offset: 25, 25
+  index: -1
+hongmenkai/hongmenkai_02
+  rotate: true
+  xy: 93, 104
+  size: 44, 55
+  orig: 109, 103
+  offset: 25, 25
+  index: -1
+hongmenkai/hongmenkai_03
+  rotate: false
+  xy: 271, 201
+  size: 43, 55
+  orig: 109, 103
+  offset: 26, 25
+  index: -1
+hongmenkai/hongmenkai_04
+  rotate: false
+  xy: 94, 47
+  size: 43, 55
+  orig: 109, 103
+  offset: 26, 25
+  index: -1
+hongmenkai/hongmenkai_05
+  rotate: true
+  xy: 139, 60
+  size: 41, 55
+  orig: 109, 103
+  offset: 28, 25
+  index: -1
+hongmenkai/hongmenkai_06
+  rotate: false
+  xy: 184, 170
+  size: 39, 55
+  orig: 109, 103
+  offset: 29, 25
+  index: -1
+hongmenkai/hongmenkai_07
+  rotate: false
+  xy: 149, 2
+  size: 37, 56
+  orig: 109, 103
+  offset: 31, 25
+  index: -1
+hongmenkai/hongmenkai_08
+  rotate: false
+  xy: 188, 2
+  size: 35, 56
+  orig: 109, 103
+  offset: 33, 25
+  index: -1
+hongmenkai/hongmenkai_09
+  rotate: false
+  xy: 225, 168
+  size: 32, 57
+  orig: 109, 103
+  offset: 36, 24
+  index: -1
+hongmenkai/hongmenkai_10
+  rotate: true
+  xy: 259, 169
+  size: 30, 57
+  orig: 109, 103
+  offset: 38, 24
+  index: -1
+hongmenkai/hongmenkai_11
+  rotate: true
+  xy: 259, 140
+  size: 27, 57
+  orig: 109, 103
+  offset: 41, 24
+  index: -1
+hongmenkai/hongmenkai_12
+  rotate: false
+  xy: 197, 111
+  size: 25, 57
+  orig: 109, 103
+  offset: 43, 24
+  index: -1
+hongmenkai/hongmenkai_13
+  rotate: false
+  xy: 224, 109
+  size: 23, 57
+  orig: 109, 103
+  offset: 45, 24
+  index: -1
+hongmenkai/hongmenkai_14
+  rotate: true
+  xy: 249, 117
+  size: 21, 57
+  orig: 109, 103
+  offset: 47, 24
+  index: -1
+hongmenkai/hongmenkai_15
+  rotate: true
+  xy: 249, 95
+  size: 20, 57
+  orig: 109, 103
+  offset: 48, 24
+  index: -1
+hongmenkai/hongmenkai_16
+  rotate: true
+  xy: 225, 74
+  size: 19, 57
+  orig: 109, 103
+  offset: 49, 24
+  index: -1
+hongmenkai/hongmenkai_17
+  rotate: false
+  xy: 316, 277
+  size: 18, 57
+  orig: 109, 103
+  offset: 50, 24
+  index: -1
+hongmenkai/hongmenkai_18
+  rotate: false
+  xy: 316, 218
+  size: 18, 57
+  orig: 109, 103
+  offset: 50, 24
+  index: -1
+hongmenkai/hongmenkai_19
+  rotate: false
+  xy: 225, 15
+  size: 17, 57
+  orig: 109, 103
+  offset: 51, 24
+  index: -1
+hongmenkai/hongmenkai_20
+  rotate: false
+  xy: 318, 159
+  size: 16, 57
+  orig: 109, 103
+  offset: 52, 24
+  index: -1
+hongmenkai/hongmenkai_21
+  rotate: false
+  xy: 318, 100
+  size: 16, 57
+  orig: 109, 103
+  offset: 52, 24
+  index: -1
+hongmenkai/hongmenkai_22
+  rotate: false
+  xy: 244, 15
+  size: 15, 57
+  orig: 109, 103
+  offset: 53, 24
+  index: -1
+hongmenkai/hongmenkai_23
+  rotate: false
+  xy: 261, 15
+  size: 14, 57
+  orig: 109, 103
+  offset: 54, 24
+  index: -1
+images/deng
+  rotate: true
+  xy: 271, 258
+  size: 76, 43
+  orig: 77, 44
+  offset: 1, 1
+  index: -1
+images/di
+  rotate: false
+  xy: 2, 207
+  size: 177, 127
+  orig: 177, 127
+  offset: 0, 0
+  index: -1
+images/youmen
+  rotate: false
+  xy: 181, 227
+  size: 88, 107
+  orig: 91, 107
+  offset: 3, 0
+  index: -1
+images/zuomen
+  rotate: false
+  xy: 2, 98
+  size: 89, 107
+  orig: 91, 107
+  offset: 0, 0
+  index: -1

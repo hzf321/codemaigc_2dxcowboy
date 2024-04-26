@@ -1,0 +1,48 @@
+
+m6.png
+size: 269,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beiguang
+  rotate: false
+  xy: 2, 154
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+images/diwen
+  rotate: true
+  xy: 2, 2
+  size: 150, 113
+  orig: 150, 113
+  offset: 0, 0
+  index: -1
+images/fuhaoyong
+  rotate: false
+  xy: 117, 62
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+images/yandou
+  rotate: true
+  xy: 163, 129
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+images/yinying
+  rotate: false
+  xy: 117, 74
+  size: 144, 53
+  orig: 144, 53
+  offset: 0, 0
+  index: -1
+xingguang
+  rotate: false
+  xy: 117, 129
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

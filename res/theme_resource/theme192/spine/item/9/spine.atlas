@@ -1,0 +1,20 @@
+
+l4.png
+size: 135,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g_00
+  rotate: false
+  xy: 2, 52
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+j
+  rotate: false
+  xy: 2, 2
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1

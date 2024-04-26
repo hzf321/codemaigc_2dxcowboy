@@ -1,0 +1,13 @@
+
+xxglow.png
+size: 214,162
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xxglow_00
+  rotate: false
+  xy: 2, 2
+  size: 210, 158
+  orig: 276, 213
+  offset: 29, 33
+  index: -1

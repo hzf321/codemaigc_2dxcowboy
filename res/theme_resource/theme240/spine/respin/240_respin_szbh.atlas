@@ -1,0 +1,13 @@
+
+240_respin_szbh.png
+size: 405,403
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22_000
+  rotate: false
+  xy: 2, 350
+  size: 401, 51
+  orig: 401, 51
+  offset: 0, 0
+  index: -1

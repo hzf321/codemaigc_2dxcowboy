@@ -1,0 +1,139 @@
+
+sjt_js.png
+size: 516,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_1
+  rotate: false
+  xy: 442, 406
+  size: 49, 47
+  orig: 125, 113
+  offset: 41, 31
+  index: -1
+b_10
+  rotate: false
+  xy: 336, 305
+  size: 103, 102
+  orig: 125, 113
+  offset: 12, 4
+  index: -1
+b_11
+  rotate: false
+  xy: 2, 180
+  size: 104, 104
+  orig: 125, 113
+  offset: 12, 3
+  index: -1
+b_12
+  rotate: false
+  xy: 230, 408
+  size: 104, 104
+  orig: 125, 113
+  offset: 12, 3
+  index: -1
+b_13
+  rotate: false
+  xy: 2, 74
+  size: 104, 104
+  orig: 125, 113
+  offset: 12, 3
+  index: -1
+b_15
+  rotate: false
+  xy: 108, 180
+  size: 104, 104
+  orig: 125, 113
+  offset: 12, 3
+  index: -1
+b_17
+  rotate: false
+  xy: 230, 302
+  size: 104, 104
+  orig: 125, 113
+  offset: 12, 3
+  index: -1
+b_19
+  rotate: false
+  xy: 336, 409
+  size: 104, 103
+  orig: 125, 113
+  offset: 12, 4
+  index: -1
+b_2
+  rotate: false
+  xy: 442, 455
+  size: 60, 57
+  orig: 125, 113
+  offset: 36, 26
+  index: -1
+b_21
+  rotate: false
+  xy: 108, 75
+  size: 104, 103
+  orig: 125, 113
+  offset: 12, 4
+  index: -1
+b_23
+  rotate: true
+  xy: 316, 98
+  size: 100, 87
+  orig: 125, 113
+  offset: 12, 17
+  index: -1
+b_3
+  rotate: false
+  xy: 2, 4
+  size: 71, 68
+  orig: 125, 113
+  offset: 31, 21
+  index: -1
+b_4
+  rotate: false
+  xy: 405, 118
+  size: 77, 80
+  orig: 125, 113
+  offset: 25, 15
+  index: -1
+b_5
+  rotate: false
+  xy: 316, 6
+  size: 87, 90
+  orig: 125, 113
+  offset: 20, 9
+  index: -1
+b_6
+  rotate: false
+  xy: 416, 204
+  size: 98, 99
+  orig: 125, 113
+  offset: 14, 4
+  index: -1
+b_7
+  rotate: true
+  xy: 214, 180
+  size: 104, 99
+  orig: 125, 113
+  offset: 12, 8
+  index: -1
+b_8
+  rotate: true
+  xy: 315, 200
+  size: 100, 99
+  orig: 125, 113
+  offset: 12, 4
+  index: -1
+b_9
+  rotate: true
+  xy: 214, 77
+  size: 101, 100
+  orig: 125, 113
+  offset: 13, 5
+  index: -1
+kuosan_00
+  rotate: false
+  xy: 2, 286
+  size: 226, 226
+  orig: 256, 256
+  offset: 15, 15
+  index: -1

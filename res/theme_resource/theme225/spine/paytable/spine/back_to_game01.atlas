@@ -1,0 +1,13 @@
+
+back_to_game01.png
+size: 48,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiguang
+  rotate: false
+  xy: 2, 2
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1

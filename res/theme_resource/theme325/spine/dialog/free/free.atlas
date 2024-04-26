@@ -1,0 +1,90 @@
+
+free.png
+size: 983,981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/diandian
+  rotate: false
+  xy: 539, 116
+  size: 398, 354
+  orig: 400, 356
+  offset: 1, 1
+  index: -1
+images/diban
+  rotate: false
+  xy: 2, 15
+  size: 399, 428
+  orig: 399, 428
+  offset: 0, 0
+  index: -1
+images/diban_di
+  rotate: true
+  xy: 403, 30
+  size: 413, 134
+  orig: 413, 134
+  offset: 0, 0
+  index: -1
+images/huo
+  rotate: true
+  xy: 452, 645
+  size: 88, 52
+  orig: 90, 54
+  offset: 1, 1
+  index: -1
+images/kuang
+  rotate: false
+  xy: 452, 472
+  size: 321, 171
+  orig: 323, 173
+  offset: 1, 1
+  index: -1
+images/szk
+  rotate: false
+  xy: 2, 829
+  size: 776, 150
+  orig: 778, 152
+  offset: 1, 1
+  index: -1
+images/t1
+  rotate: false
+  xy: 2, 735
+  size: 732, 92
+  orig: 734, 94
+  offset: 1, 1
+  index: -1
+images/t2
+  rotate: false
+  xy: 539, 683
+  size: 181, 50
+  orig: 183, 52
+  offset: 1, 1
+  index: -1
+images/t4_1
+  rotate: false
+  xy: 736, 728
+  size: 245, 50
+  orig: 247, 52
+  offset: 1, 1
+  index: -1
+images/t4_2
+  rotate: false
+  xy: 539, 64
+  size: 379, 50
+  orig: 381, 52
+  offset: 1, 1
+  index: -1
+k_0
+  rotate: false
+  xy: 2, 445
+  size: 448, 288
+  orig: 462, 295
+  offset: 8, 4
+  index: -1
+zhuanguang
+  rotate: false
+  xy: 780, 780
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1

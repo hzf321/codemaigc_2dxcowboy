@@ -1,0 +1,20 @@
+
+j.png
+size: 102,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+j
+  rotate: false
+  xy: 54, 43
+  size: 46, 55
+  orig: 135, 119
+  offset: 43, 35
+  index: -1
+theme220_s_10
+  rotate: false
+  xy: 2, 39
+  size: 50, 59
+  orig: 105, 75
+  offset: 28, 6
+  index: -1

@@ -1,0 +1,62 @@
+
+jp_major_tc.png
+size: 1055,1055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XM_474
+  rotate: false
+  xy: 700, 329
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 700, 536
+  size: 337, 214
+  orig: 337, 214
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 507
+  size: 536, 546
+  orig: 536, 546
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 2, 42
+  size: 352, 79
+  orig: 352, 79
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 540, 156
+  size: 897, 158
+  orig: 897, 158
+  offset: 0, 0
+  index: -1
+wenzi
+  rotate: false
+  xy: 379, 2
+  size: 506, 152
+  orig: 506, 152
+  offset: 0, 0
+  index: -1
+xg
+  rotate: false
+  xy: 2, 123
+  size: 375, 382
+  orig: 375, 382
+  offset: 0, 0
+  index: -1
+xiniu
+  rotate: false
+  xy: 700, 752
+  size: 350, 301
+  orig: 350, 301
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+dianliang.png
+size: 1299,562
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maptarget2/1_00
+  rotate: false
+  xy: 1082, 331
+  size: 217, 231
+  orig: 488, 388
+  offset: 132, 72
+  index: -1
+maptarget2/1_01
+  rotate: false
+  xy: 1082, 98
+  size: 217, 231
+  orig: 488, 388
+  offset: 132, 72
+  index: -1
+maptarget2/maptarget2_00
+  rotate: false
+  xy: 776, 282
+  size: 304, 280
+  orig: 526, 388
+  offset: 122, 6
+  index: -1
+maptarget2/maptarget2_01
+  rotate: false
+  xy: 0, 281
+  size: 386, 281
+  orig: 488, 388
+  offset: 46, 47
+  index: -1
+maptarget2/maptarget2_02
+  rotate: false
+  xy: 776, 0
+  size: 304, 280
+  orig: 526, 388
+  offset: 122, 6
+  index: -1
+maptarget2/maptarget3400
+  rotate: false
+  xy: 249, 36
+  size: 247, 243
+  orig: 388, 384
+  offset: 59, 68
+  index: -1
+maptarget2/maptarget3_00
+  rotate: false
+  xy: 498, 36
+  size: 247, 243
+  orig: 388, 384
+  offset: 59, 68
+  index: -1
+maptarget2/maptarget3_01
+  rotate: false
+  xy: 0, 36
+  size: 247, 243
+  orig: 388, 384
+  offset: 59, 68
+  index: -1
+maptarget2/maptarget44_00
+  rotate: false
+  xy: 388, 281
+  size: 386, 281
+  orig: 488, 388
+  offset: 46, 47
+  index: -1

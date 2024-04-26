@@ -1,0 +1,139 @@
+
+jp_xh.png
+size: 364,364
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/sao/sao_1
+  rotate: true
+  xy: 221, 19
+  size: 10, 40
+  orig: 100, 231
+  offset: 75, 12
+  index: -1
+tx/sao/sao_10
+  rotate: false
+  xy: 2, 156
+  size: 66, 206
+  orig: 100, 231
+  offset: 19, 13
+  index: -1
+tx/sao/sao_11
+  rotate: false
+  xy: 133, 168
+  size: 66, 194
+  orig: 100, 231
+  offset: 18, 26
+  index: -1
+tx/sao/sao_12
+  rotate: false
+  xy: 201, 188
+  size: 66, 174
+  orig: 100, 231
+  offset: 17, 46
+  index: -1
+tx/sao/sao_13
+  rotate: false
+  xy: 84, 2
+  size: 64, 155
+  orig: 100, 231
+  offset: 17, 65
+  index: -1
+tx/sao/sao_14
+  rotate: false
+  xy: 2, 18
+  size: 61, 136
+  orig: 100, 231
+  offset: 17, 84
+  index: -1
+tx/sao/sao_15
+  rotate: false
+  xy: 209, 70
+  size: 57, 116
+  orig: 100, 231
+  offset: 17, 104
+  index: -1
+tx/sao/sao_16
+  rotate: false
+  xy: 268, 81
+  size: 51, 97
+  orig: 100, 231
+  offset: 17, 123
+  index: -1
+tx/sao/sao_17
+  rotate: false
+  xy: 268, 2
+  size: 45, 77
+  orig: 100, 231
+  offset: 17, 143
+  index: -1
+tx/sao/sao_18
+  rotate: true
+  xy: 209, 31
+  size: 37, 56
+  orig: 100, 231
+  offset: 17, 164
+  index: -1
+tx/sao/sao_19
+  rotate: true
+  xy: 183, 2
+  size: 27, 36
+  orig: 100, 231
+  offset: 18, 184
+  index: -1
+tx/sao/sao_2
+  rotate: false
+  xy: 341, 138
+  size: 10, 60
+  orig: 100, 231
+  offset: 75, 11
+  index: -1
+tx/sao/sao_3
+  rotate: true
+  xy: 2, 2
+  size: 14, 80
+  orig: 100, 231
+  offset: 71, 11
+  index: -1
+tx/sao/sao_4
+  rotate: false
+  xy: 321, 97
+  size: 18, 101
+  orig: 100, 231
+  offset: 67, 11
+  index: -1
+tx/sao/sao_5
+  rotate: false
+  xy: 183, 45
+  size: 24, 121
+  orig: 100, 231
+  offset: 61, 11
+  index: -1
+tx/sao/sao_6
+  rotate: false
+  xy: 150, 25
+  size: 31, 141
+  orig: 100, 231
+  offset: 54, 11
+  index: -1
+tx/sao/sao_7
+  rotate: false
+  xy: 321, 200
+  size: 40, 162
+  orig: 100, 231
+  offset: 45, 11
+  index: -1
+tx/sao/sao_8
+  rotate: false
+  xy: 269, 180
+  size: 50, 182
+  orig: 100, 231
+  offset: 35, 12
+  index: -1
+tx/sao/sao_9
+  rotate: false
+  xy: 70, 159
+  size: 61, 203
+  orig: 100, 231
+  offset: 24, 12
+  index: -1

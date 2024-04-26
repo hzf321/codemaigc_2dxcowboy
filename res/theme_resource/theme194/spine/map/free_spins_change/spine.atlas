@@ -1,0 +1,118 @@
+
+fgcishu.png
+size: 675,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baolizi/baolizi_00
+  rotate: false
+  xy: 587, 331
+  size: 79, 97
+  orig: 264, 206
+  offset: 91, 39
+  index: -1
+baolizi/baolizi_01
+  rotate: false
+  xy: 560, 171
+  size: 97, 119
+  orig: 264, 206
+  offset: 83, 29
+  index: -1
+baolizi/baolizi_02
+  rotate: false
+  xy: 475, 292
+  size: 110, 132
+  orig: 264, 206
+  offset: 77, 23
+  index: -1
+baolizi/baolizi_03
+  rotate: false
+  xy: 554, 9
+  size: 121, 141
+  orig: 264, 206
+  offset: 72, 19
+  index: -1
+baolizi/baolizi_04
+  rotate: false
+  xy: 347, 277
+  size: 126, 147
+  orig: 264, 206
+  offset: 70, 16
+  index: -1
+baolizi/baolizi_05
+  rotate: false
+  xy: 0, 127
+  size: 130, 151
+  orig: 264, 206
+  offset: 68, 14
+  index: -1
+baolizi/baolizi_06
+  rotate: false
+  xy: 347, 426
+  size: 127, 154
+  orig: 264, 206
+  offset: 66, 12
+  index: -1
+baolizi/baolizi_07
+  rotate: false
+  xy: 303, 1
+  size: 124, 148
+  orig: 264, 206
+  offset: 66, 12
+  index: -1
+baolizi/baolizi_08
+  rotate: true
+  xy: 0, 0
+  size: 125, 149
+  orig: 264, 206
+  offset: 65, 12
+  index: -1
+baolizi/baolizi_09
+  rotate: false
+  xy: 132, 128
+  size: 125, 150
+  orig: 264, 206
+  offset: 65, 11
+  index: -1
+baolizi/baolizi_10
+  rotate: false
+  xy: 476, 430
+  size: 125, 150
+  orig: 264, 206
+  offset: 65, 11
+  index: -1
+baolizi/baolizi_11
+  rotate: true
+  xy: 151, 1
+  size: 125, 150
+  orig: 264, 206
+  offset: 65, 12
+  index: -1
+baolizi/baolizi_12
+  rotate: true
+  xy: 259, 151
+  size: 124, 149
+  orig: 264, 206
+  offset: 65, 13
+  index: -1
+baolizi/baolizi_13
+  rotate: true
+  xy: 410, 152
+  size: 123, 148
+  orig: 264, 206
+  offset: 66, 13
+  index: -1
+baolizi/baolizi_14
+  rotate: false
+  xy: 429, 4
+  size: 123, 146
+  orig: 264, 206
+  offset: 66, 14
+  index: -1
+zhuanguang01 (2)(1)
+  rotate: false
+  xy: 0, 280
+  size: 345, 300
+  orig: 345, 300
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+bonus01.png
+size: 814,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+183
+  rotate: false
+  xy: 2, 334
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+guang1_000
+  rotate: false
+  xy: 2, 568
+  size: 244, 244
+  orig: 244, 244
+  offset: 0, 0
+  index: -1
+lizi/1_0
+  rotate: true
+  xy: 517, 365
+  size: 100, 95
+  orig: 171, 182
+  offset: 47, 42
+  index: -1
+lizi/1_1
+  rotate: true
+  xy: 404, 342
+  size: 116, 111
+  orig: 171, 182
+  offset: 37, 34
+  index: -1
+lizi/1_10
+  rotate: false
+  xy: 2, 150
+  size: 169, 182
+  orig: 171, 182
+  offset: 0, 0
+  index: -1
+lizi/1_11
+  rotate: false
+  xy: 248, 630
+  size: 170, 182
+  orig: 171, 182
+  offset: 0, 0
+  index: -1
+lizi/1_12
+  rotate: false
+  xy: 173, 150
+  size: 151, 182
+  orig: 171, 182
+  offset: 20, 0
+  index: -1
+lizi/1_13
+  rotate: false
+  xy: 326, 158
+  size: 153, 182
+  orig: 171, 182
+  offset: 18, 0
+  index: -1
+lizi/1_14
+  rotate: true
+  xy: 326, 2
+  size: 154, 181
+  orig: 171, 182
+  offset: 17, 1
+  index: -1
+lizi/1_15
+  rotate: false
+  xy: 481, 161
+  size: 152, 179
+  orig: 171, 182
+  offset: 19, 1
+  index: -1
+lizi/1_16
+  rotate: true
+  xy: 2, 3
+  size: 145, 173
+  orig: 171, 182
+  offset: 26, 1
+  index: -1
+lizi/1_17
+  rotate: true
+  xy: 236, 342
+  size: 116, 166
+  orig: 171, 182
+  offset: 48, 2
+  index: -1
+lizi/1_2
+  rotate: true
+  xy: 635, 336
+  size: 131, 126
+  orig: 171, 182
+  offset: 28, 26
+  index: -1
+lizi/1_3
+  rotate: false
+  xy: 177, 9
+  size: 143, 139
+  orig: 171, 182
+  offset: 21, 19
+  index: -1
+lizi/1_4
+  rotate: true
+  xy: 509, 5
+  size: 154, 149
+  orig: 171, 182
+  offset: 14, 14
+  index: -1
+lizi/1_5
+  rotate: true
+  xy: 586, 469
+  size: 162, 158
+  orig: 171, 182
+  offset: 9, 10
+  index: -1
+lizi/1_6
+  rotate: false
+  xy: 420, 467
+  size: 164, 164
+  orig: 171, 182
+  offset: 7, 8
+  index: -1
+lizi/1_7
+  rotate: true
+  xy: 248, 460
+  size: 168, 170
+  orig: 171, 182
+  offset: 3, 5
+  index: -1
+lizi/1_8
+  rotate: false
+  xy: 593, 637
+  size: 171, 175
+  orig: 171, 182
+  offset: 0, 3
+  index: -1
+lizi/1_9
+  rotate: false
+  xy: 420, 633
+  size: 171, 179
+  orig: 171, 182
+  offset: 0, 1
+  index: -1

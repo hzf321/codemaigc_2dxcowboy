@@ -1,0 +1,20 @@
+
+base_bj.png
+size: 844,844
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+particle02
+  rotate: false
+  xy: 2, 260
+  size: 606, 582
+  orig: 606, 582
+  offset: 0, 0
+  index: -1
+wu_00
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

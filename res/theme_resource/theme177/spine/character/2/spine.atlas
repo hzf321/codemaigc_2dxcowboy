@@ -1,0 +1,167 @@
+
+sto_lan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dbi
+  rotate: false
+  xy: 478, 153
+  size: 105, 85
+  orig: 105, 85
+  offset: 0, 0
+  index: -1
+fire_00000
+  rotate: false
+  xy: 661, 168
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00001
+  rotate: false
+  xy: 733, 168
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00002
+  rotate: false
+  xy: 805, 168
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00003
+  rotate: false
+  xy: 877, 168
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00004
+  rotate: false
+  xy: 949, 168
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00005
+  rotate: false
+  xy: 661, 96
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00006
+  rotate: false
+  xy: 733, 96
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00007
+  rotate: false
+  xy: 805, 96
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00008
+  rotate: false
+  xy: 877, 96
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00009
+  rotate: false
+  xy: 949, 96
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00010
+  rotate: false
+  xy: 342, 91
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00011
+  rotate: false
+  xy: 472, 81
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00012
+  rotate: false
+  xy: 331, 19
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00013
+  rotate: false
+  xy: 566, 26
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+fire_00014
+  rotate: false
+  xy: 638, 24
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: false
+  xy: 414, 104
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 2
+  size: 244, 236
+  orig: 244, 236
+  offset: 0, 0
+  index: -1
+st2
+  rotate: false
+  xy: 342, 163
+  size: 134, 75
+  orig: 134, 75
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 248, 114
+  size: 92, 124
+  orig: 92, 124
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 585, 98
+  size: 74, 140
+  orig: 74, 140
+  offset: 0, 0
+  index: -1
+xu
+  rotate: false
+  xy: 248, 52
+  size: 81, 60
+  orig: 81, 60
+  offset: 0, 0
+  index: -1
+xu2
+  rotate: false
+  xy: 544, 75
+  size: 20, 76
+  orig: 20, 76
+  offset: 0, 0
+  index: -1

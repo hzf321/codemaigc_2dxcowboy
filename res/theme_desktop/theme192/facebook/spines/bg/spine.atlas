@@ -1,0 +1,118 @@
+
+spine.png
+size: 1023,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ic/1
+  rotate: false
+  xy: 495, 46
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+ic/bg_01_01
+  rotate: false
+  xy: 260, 245
+  size: 240, 241
+  orig: 256, 256
+  offset: 9, 7
+  index: -1
+ic/chest
+  rotate: true
+  xy: 817, 136
+  size: 368, 204
+  orig: 368, 204
+  offset: 0, 0
+  index: -1
+ic/coin
+  rotate: true
+  xy: 817, 30
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+ic/common_star_spk
+  rotate: true
+  xy: 577, 60
+  size: 66, 68
+  orig: 128, 128
+  offset: 30, 30
+  index: -1
+ic/daxingxing2
+  rotate: false
+  xy: 495, 128
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+ic/glow1
+  rotate: false
+  xy: 712, 764
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ic/guangxian_045
+  rotate: true
+  xy: 2, 2
+  size: 227, 242
+  orig: 256, 256
+  offset: 13, 8
+  index: -1
+ic/guangxian_047
+  rotate: true
+  xy: 2, 231
+  size: 255, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+ic/guangxian_085
+  rotate: false
+  xy: 260, 12
+  size: 233, 231
+  orig: 256, 252
+  offset: 8, 5
+  index: -1
+ic/img_ch
+  rotate: true
+  xy: 930, 24
+  size: 110, 85
+  orig: 128, 128
+  offset: 9, 21
+  index: -1
+ic/kuang
+  rotate: true
+  xy: 712, 33
+  size: 471, 103
+  orig: 471, 103
+  offset: 0, 0
+  index: -1
+ic/kuang_2
+  rotate: false
+  xy: 2, 488
+  size: 708, 532
+  orig: 708, 532
+  offset: 0, 0
+  index: -1
+ic/text_1
+  rotate: true
+  xy: 970, 563
+  size: 457, 35
+  orig: 457, 35
+  offset: 0, 0
+  index: -1
+ic/xin02_00000
+  rotate: false
+  xy: 502, 422
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ic/zhuanguang
+  rotate: false
+  xy: 712, 506
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

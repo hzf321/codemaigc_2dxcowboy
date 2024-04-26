@@ -1,0 +1,41 @@
+
+xiongtou_01.png
+size: 73,73
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiongtou01/biyan01
+  rotate: true
+  xy: 67, 56
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+xiongtou01/erduo01
+  rotate: false
+  xy: 30, 21
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+xiongtou01/erduo02
+  rotate: false
+  xy: 30, 0
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+xiongtou01/shenti
+  rotate: false
+  xy: 0, 41
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+xiongtou01/xiongtou
+  rotate: false
+  xy: 0, 7
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1

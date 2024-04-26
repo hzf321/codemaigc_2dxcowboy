@@ -1,0 +1,181 @@
+
+spine.png
+size: 1292,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Title
+  rotate: true
+  xy: 981, 15
+  size: 172, 83
+  orig: 172, 83
+  offset: 0, 0
+  index: -1
+Title_mask
+  rotate: true
+  xy: 1066, 17
+  size: 170, 79
+  orig: 172, 83
+  offset: 0, 4
+  index: -1
+anguang
+  rotate: false
+  xy: 409, 15
+  size: 153, 12
+  orig: 154, 12
+  offset: 1, 0
+  index: -1
+bird
+  rotate: false
+  xy: 1251, 43
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+caihong
+  rotate: false
+  xy: 773, 35
+  size: 206, 152
+  orig: 210, 152
+  offset: 2, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 9
+  size: 405, 178
+  orig: 405, 178
+  offset: 0, 0
+  index: -1
+mountain
+  rotate: true
+  xy: 779, 10
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+rukouBG
+  rotate: false
+  xy: 409, 29
+  size: 362, 158
+  orig: 362, 158
+  offset: 0, 0
+  index: -1
+saoguang
+  rotate: true
+  xy: 1147, 88
+  size: 99, 102
+  orig: 118, 102
+  offset: 19, 0
+  index: -1
+songshuA
+  rotate: false
+  xy: 1147, 6
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+songshuB
+  rotate: true
+  xy: 838, 21
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+songshuC
+  rotate: false
+  xy: 1251, 77
+  size: 39, 110
+  orig: 39, 110
+  offset: 0, 0
+  index: -1
+songshuD
+  rotate: false
+  xy: 873, 21
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+starA
+  rotate: false
+  xy: 1193, 30
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+treeA
+  rotate: true
+  xy: 564, 4
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+treeB
+  rotate: true
+  xy: 658, 9
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+treeC
+  rotate: true
+  xy: 702, 11
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+treeD
+  rotate: true
+  xy: 801, 21
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+treeE
+  rotate: true
+  xy: 739, 13
+  size: 14, 38
+  orig: 14, 38
+  offset: 0, 0
+  index: -1
+treeF
+  rotate: true
+  xy: 616, 8
+  size: 19, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+treeG
+  rotate: true
+  xy: 867, 6
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+treeH
+  rotate: true
+  xy: 801, 5
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+treeI
+  rotate: true
+  xy: 409, 2
+  size: 11, 29
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+treeK
+  rotate: false
+  xy: 440, 2
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+treeZ
+  rotate: true
+  xy: 833, 6
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+m4.png
+size: 705,704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beiguang
+  rotate: false
+  xy: 2, 540
+  size: 203, 162
+  orig: 203, 162
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_1
+  rotate: false
+  xy: 2, 313
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_10
+  rotate: false
+  xy: 125, 72
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_11
+  rotate: true
+  xy: 248, 300
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_12
+  rotate: true
+  xy: 248, 177
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_13
+  rotate: false
+  xy: 248, 60
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_14
+  rotate: true
+  xy: 271, 463
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_15
+  rotate: false
+  xy: 388, 470
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_16
+  rotate: false
+  xy: 511, 470
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_17
+  rotate: false
+  xy: 388, 353
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_18
+  rotate: false
+  xy: 511, 353
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_19
+  rotate: false
+  xy: 365, 236
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_2
+  rotate: false
+  xy: 336, 587
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_20
+  rotate: false
+  xy: 488, 236
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_21
+  rotate: false
+  xy: 371, 119
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_22
+  rotate: false
+  xy: 494, 119
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_23
+  rotate: false
+  xy: 371, 2
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_3
+  rotate: false
+  xy: 2, 196
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_4
+  rotate: false
+  xy: 459, 587
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_5
+  rotate: false
+  xy: 2, 79
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_6
+  rotate: false
+  xy: 582, 587
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_7
+  rotate: false
+  xy: 148, 423
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_8
+  rotate: false
+  xy: 125, 306
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/caidai01_1/caidai01_9
+  rotate: false
+  xy: 125, 189
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+images/diwen
+  rotate: false
+  xy: 2, 430
+  size: 144, 108
+  orig: 144, 108
+  offset: 0, 0
+  index: -1
+images/hudiejie1
+  rotate: false
+  xy: 634, 570
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+images/hudiejie2
+  rotate: false
+  xy: 2, 41
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+images/hudiejie3
+  rotate: false
+  xy: 207, 540
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+images/hudiejie4
+  rotate: false
+  xy: 271, 441
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+images/mati
+  rotate: false
+  xy: 494, 26
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+images/touying
+  rotate: false
+  xy: 207, 586
+  size: 127, 116
+  orig: 127, 116
+  offset: 0, 0
+  index: -1

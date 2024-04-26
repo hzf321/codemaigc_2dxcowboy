@@ -1,0 +1,118 @@
+
+respinjieshou.png
+size: 1393,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jieshou/jieshou_00
+  rotate: false
+  xy: 812, 8
+  size: 261, 74
+  orig: 307, 117
+  offset: 23, 17
+  index: -1
+jieshou/jieshou_01
+  rotate: false
+  xy: 810, 160
+  size: 263, 76
+  orig: 307, 117
+  offset: 22, 16
+  index: -1
+jieshou/jieshou_02
+  rotate: false
+  xy: 539, 78
+  size: 265, 78
+  orig: 307, 117
+  offset: 21, 15
+  index: -1
+jieshou/jieshou_03
+  rotate: false
+  xy: 271, 78
+  size: 266, 78
+  orig: 307, 117
+  offset: 20, 15
+  index: -1
+jieshou/jieshou_04
+  rotate: false
+  xy: 0, 156
+  size: 268, 80
+  orig: 307, 117
+  offset: 19, 14
+  index: -1
+jieshou/jieshou_05
+  rotate: false
+  xy: 0, 75
+  size: 269, 79
+  orig: 307, 117
+  offset: 19, 15
+  index: -1
+jieshou/jieshou_06
+  rotate: false
+  xy: 270, 158
+  size: 270, 78
+  orig: 307, 117
+  offset: 18, 17
+  index: -1
+jieshou/jieshou_07
+  rotate: false
+  xy: 806, 84
+  size: 272, 74
+  orig: 307, 117
+  offset: 17, 21
+  index: -1
+jieshou/jieshou_08
+  rotate: false
+  xy: 538, 0
+  size: 272, 76
+  orig: 307, 117
+  offset: 17, 20
+  index: -1
+jieshou/jieshou_09
+  rotate: false
+  xy: 1075, 162
+  size: 265, 74
+  orig: 307, 117
+  offset: 17, 22
+  index: -1
+jieshou/jieshou_10
+  rotate: false
+  xy: 542, 160
+  size: 266, 76
+  orig: 307, 117
+  offset: 16, 20
+  index: -1
+jieshou/jieshou_11
+  rotate: false
+  xy: 0, 2
+  size: 267, 71
+  orig: 307, 117
+  offset: 16, 24
+  index: -1
+jieshou/jieshou_12
+  rotate: false
+  xy: 269, 4
+  size: 267, 69
+  orig: 307, 117
+  offset: 16, 23
+  index: -1
+jieshou/jieshou_13
+  rotate: false
+  xy: 1075, 18
+  size: 268, 64
+  orig: 307, 117
+  offset: 16, 27
+  index: -1
+jieshou/jieshou_14
+  rotate: false
+  xy: 1080, 98
+  size: 247, 62
+  orig: 307, 117
+  offset: 35, 26
+  index: -1
+jieshou/jieshou_15
+  rotate: true
+  xy: 1342, 84
+  size: 152, 51
+  orig: 307, 117
+  offset: 51, 28
+  index: -1

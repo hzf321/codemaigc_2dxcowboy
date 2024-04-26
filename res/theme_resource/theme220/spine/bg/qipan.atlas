@@ -1,0 +1,153 @@
+
+qipan.png
+size: 374,374
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/lizi_0003_0
+  rotate: true
+  xy: 129, 20
+  size: 54, 53
+  orig: 64, 64
+  offset: 5, 4
+  index: -1
+tx/sao/sao_0
+  rotate: true
+  xy: 2, 7
+  size: 11, 147
+  orig: 80, 166
+  offset: 10, 13
+  index: -1
+tx/sao/sao_1
+  rotate: false
+  xy: 349, 224
+  size: 20, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1
+tx/sao/sao_10
+  rotate: false
+  xy: 66, 224
+  size: 62, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1
+tx/sao/sao_11
+  rotate: false
+  xy: 130, 224
+  size: 61, 148
+  orig: 80, 166
+  offset: 10, 13
+  index: -1
+tx/sao/sao_12
+  rotate: false
+  xy: 129, 76
+  size: 61, 146
+  orig: 80, 166
+  offset: 10, 14
+  index: -1
+tx/sao/sao_13
+  rotate: false
+  xy: 192, 84
+  size: 58, 138
+  orig: 80, 166
+  offset: 13, 19
+  index: -1
+tx/sao/sao_14
+  rotate: true
+  xy: 2, 20
+  size: 52, 117
+  orig: 80, 166
+  offset: 19, 29
+  index: -1
+tx/sao/sao_15
+  rotate: false
+  xy: 318, 105
+  size: 45, 117
+  orig: 80, 166
+  offset: 26, 29
+  index: -1
+tx/sao/sao_16
+  rotate: true
+  xy: 184, 34
+  size: 38, 110
+  orig: 80, 166
+  offset: 33, 33
+  index: -1
+tx/sao/sao_17
+  rotate: true
+  xy: 184, 2
+  size: 30, 80
+  orig: 80, 166
+  offset: 41, 48
+  index: -1
+tx/sao/sao_18
+  rotate: false
+  xy: 296, 12
+  size: 23, 60
+  orig: 80, 166
+  offset: 48, 57
+  index: -1
+tx/sao/sao_19
+  rotate: true
+  xy: 318, 88
+  size: 15, 51
+  orig: 80, 166
+  offset: 56, 62
+  index: -1
+tx/sao/sao_2
+  rotate: false
+  xy: 289, 74
+  size: 27, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1
+tx/sao/sao_3
+  rotate: false
+  xy: 252, 74
+  size: 35, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1
+tx/sao/sao_4
+  rotate: false
+  xy: 304, 224
+  size: 43, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1
+tx/sao/sao_5
+  rotate: false
+  xy: 252, 224
+  size: 50, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1
+tx/sao/sao_6
+  rotate: false
+  xy: 193, 224
+  size: 57, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1
+tx/sao/sao_7
+  rotate: false
+  xy: 66, 74
+  size: 61, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1
+tx/sao/sao_8
+  rotate: false
+  xy: 2, 224
+  size: 62, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1
+tx/sao/sao_9
+  rotate: false
+  xy: 2, 74
+  size: 62, 148
+  orig: 80, 166
+  offset: 9, 13
+  index: -1

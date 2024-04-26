@@ -1,0 +1,20 @@
+
+l5.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 2
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+g_00
+  rotate: false
+  xy: 2, 51
+  size: 93, 75
+  orig: 93, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+240_respin_jili.png
+size: 975,973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/jili_00
+  rotate: false
+  xy: 46, 775
+  size: 235, 196
+  orig: 284, 240
+  offset: 22, 26
+  index: -1
+01/jili_01
+  rotate: false
+  xy: 283, 773
+  size: 239, 198
+  orig: 284, 240
+  offset: 21, 24
+  index: -1
+01/jili_02
+  rotate: false
+  xy: 524, 771
+  size: 242, 200
+  orig: 284, 240
+  offset: 20, 23
+  index: -1
+01/jili_03
+  rotate: true
+  xy: 768, 723
+  size: 248, 205
+  orig: 284, 240
+  offset: 15, 22
+  index: -1
+01/jili_04
+  rotate: false
+  xy: 2, 566
+  size: 249, 207
+  orig: 284, 240
+  offset: 14, 21
+  index: -1
+01/jili_05
+  rotate: false
+  xy: 253, 561
+  size: 251, 210
+  orig: 284, 240
+  offset: 14, 19
+  index: -1
+01/jili_06
+  rotate: false
+  xy: 506, 558
+  size: 253, 211
+  orig: 284, 240
+  offset: 13, 18
+  index: -1
+01/jili_07
+  rotate: false
+  xy: 2, 347
+  size: 256, 212
+  orig: 284, 240
+  offset: 12, 17
+  index: -1
+01/jili_08
+  rotate: true
+  xy: 761, 466
+  size: 255, 211
+  orig: 284, 240
+  offset: 13, 18
+  index: -1
+01/jili_09
+  rotate: false
+  xy: 260, 340
+  size: 260, 216
+  orig: 284, 240
+  offset: 11, 14
+  index: -1
+01/jili_10
+  rotate: true
+  xy: 522, 293
+  size: 263, 219
+  orig: 284, 240
+  offset: 10, 12
+  index: -1
+01/jili_11
+  rotate: false
+  xy: 2, 117
+  size: 267, 221
+  orig: 284, 240
+  offset: 7, 11
+  index: -1
+01/jili_12
+  rotate: true
+  xy: 271, 72
+  size: 266, 221
+  orig: 284, 240
+  offset: 8, 11
+  index: -1
+01/jili_13
+  rotate: true
+  xy: 494, 24
+  size: 267, 222
+  orig: 284, 240
+  offset: 7, 11
+  index: -1
+01/jili_14
+  rotate: true
+  xy: 743, 200
+  size: 264, 218
+  orig: 284, 240
+  offset: 9, 13
+  index: -1
+k_00
+  rotate: false
+  xy: 2, 940
+  size: 42, 31
+  orig: 45, 42
+  offset: 2, 6
+  index: -1

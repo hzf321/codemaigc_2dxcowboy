@@ -1,0 +1,13 @@
+
+resymbol_tw.png
+size: 119,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+拖尾/tw_0
+  rotate: false
+  xy: 2, 2
+  size: 115, 200
+  orig: 144, 200
+  offset: 15, 0
+  index: -1

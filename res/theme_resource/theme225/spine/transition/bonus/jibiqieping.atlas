@@ -1,0 +1,132 @@
+
+jibiqieping.png
+size: 949,947
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hei
+  rotate: false
+  xy: 496, 97
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/jb_0
+  rotate: false
+  xy: 349, 699
+  size: 244, 246
+  orig: 264, 265
+  offset: 10, 9
+  index: -1
+images/jb_1
+  rotate: false
+  xy: 249, 397
+  size: 217, 246
+  orig: 264, 265
+  offset: 28, 9
+  index: -1
+images/jb_10
+  rotate: false
+  xy: 837, 700
+  size: 110, 245
+  orig: 264, 265
+  offset: 81, 10
+  index: -1
+images/jb_11
+  rotate: false
+  xy: 857, 206
+  size: 43, 245
+  orig: 264, 265
+  offset: 112, 10
+  index: -1
+images/jb_12
+  rotate: false
+  xy: 846, 453
+  size: 91, 245
+  orig: 264, 265
+  offset: 83, 10
+  index: -1
+images/jb_13
+  rotate: true
+  xy: 2, 4
+  size: 143, 245
+  orig: 264, 265
+  offset: 56, 10
+  index: -1
+images/jb_15
+  rotate: false
+  xy: 469, 149
+  size: 212, 246
+  orig: 264, 265
+  offset: 22, 9
+  index: -1
+images/jb_17
+  rotate: false
+  xy: 595, 699
+  size: 240, 246
+  orig: 264, 265
+  offset: 10, 9
+  index: -1
+images/jb_2
+  rotate: true
+  xy: 249, 15
+  size: 132, 245
+  orig: 264, 265
+  offset: 71, 10
+  index: -1
+images/jb_3
+  rotate: true
+  xy: 349, 645
+  size: 52, 245
+  orig: 264, 265
+  offset: 104, 10
+  index: -1
+images/jb_4
+  rotate: false
+  xy: 690, 452
+  size: 154, 245
+  orig: 264, 265
+  offset: 50, 10
+  index: -1
+images/jb_5
+  rotate: false
+  xy: 247, 149
+  size: 220, 246
+  orig: 264, 265
+  offset: 18, 9
+  index: -1
+images/jb_6
+  rotate: false
+  xy: 2, 397
+  size: 245, 246
+  orig: 264, 265
+  offset: 9, 9
+  index: -1
+images/jb_7
+  rotate: false
+  xy: 2, 149
+  size: 243, 246
+  orig: 264, 265
+  offset: 11, 9
+  index: -1
+images/jb_8
+  rotate: false
+  xy: 468, 397
+  size: 220, 246
+  orig: 264, 265
+  offset: 26, 9
+  index: -1
+images/jb_9
+  rotate: false
+  xy: 683, 150
+  size: 172, 245
+  orig: 264, 265
+  offset: 51, 10
+  index: -1
+images/zggg
+  rotate: false
+  xy: 2, 645
+  size: 345, 300
+  orig: 345, 300
+  offset: 0, 0
+  index: -1

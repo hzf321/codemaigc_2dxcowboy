@@ -1,0 +1,146 @@
+
+zjlx_01.png
+size: 588,588
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zjlx_0/zjlx_0
+  rotate: false
+  xy: 301, 172
+  size: 137, 115
+  orig: 260, 229
+  offset: 50, 60
+  index: -1
+zjlx_0/zjlx_1
+  rotate: false
+  xy: 0, 124
+  size: 126, 129
+  orig: 260, 229
+  offset: 51, 52
+  index: -1
+zjlx_0/zjlx_10
+  rotate: false
+  xy: 440, 132
+  size: 134, 117
+  orig: 260, 229
+  offset: 77, 65
+  index: -1
+zjlx_0/zjlx_11
+  rotate: false
+  xy: 463, 251
+  size: 125, 119
+  orig: 260, 229
+  offset: 86, 67
+  index: -1
+zjlx_0/zjlx_12
+  rotate: true
+  xy: 466, 485
+  size: 103, 121
+  orig: 260, 229
+  offset: 108, 66
+  index: -1
+zjlx_0/zjlx_13
+  rotate: true
+  xy: 466, 372
+  size: 111, 120
+  orig: 260, 229
+  offset: 98, 67
+  index: -1
+zjlx_0/zjlx_14
+  rotate: false
+  xy: 368, 12
+  size: 128, 118
+  orig: 260, 229
+  offset: 76, 69
+  index: -1
+zjlx_0/zjlx_15
+  rotate: false
+  xy: 0, 255
+  size: 145, 112
+  orig: 260, 229
+  offset: 57, 74
+  index: -1
+zjlx_0/zjlx_16
+  rotate: false
+  xy: 313, 383
+  size: 151, 102
+  orig: 260, 229
+  offset: 51, 84
+  index: -1
+zjlx_0/zjlx_17
+  rotate: false
+  xy: 156, 487
+  size: 153, 101
+  orig: 260, 229
+  offset: 50, 84
+  index: -1
+zjlx_0/zjlx_18
+  rotate: false
+  xy: 147, 208
+  size: 152, 93
+  orig: 260, 229
+  offset: 50, 89
+  index: -1
+zjlx_0/zjlx_19
+  rotate: false
+  xy: 311, 487
+  size: 153, 101
+  orig: 260, 229
+  offset: 50, 74
+  index: -1
+zjlx_0/zjlx_2
+  rotate: true
+  xy: 0, 0
+  size: 122, 129
+  orig: 260, 229
+  offset: 52, 52
+  index: -1
+zjlx_0/zjlx_3
+  rotate: false
+  xy: 131, 0
+  size: 107, 130
+  orig: 260, 229
+  offset: 54, 52
+  index: -1
+zjlx_0/zjlx_4
+  rotate: false
+  xy: 240, 46
+  size: 126, 124
+  orig: 260, 229
+  offset: 56, 51
+  index: -1
+zjlx_0/zjlx_5
+  rotate: false
+  xy: 0, 369
+  size: 148, 110
+  orig: 260, 229
+  offset: 56, 52
+  index: -1
+zjlx_0/zjlx_6
+  rotate: false
+  xy: 307, 289
+  size: 154, 92
+  orig: 260, 229
+  offset: 55, 52
+  index: -1
+zjlx_0/zjlx_7
+  rotate: false
+  xy: 156, 401
+  size: 155, 84
+  orig: 260, 229
+  offset: 56, 53
+  index: -1
+zjlx_0/zjlx_8
+  rotate: false
+  xy: 150, 303
+  size: 155, 96
+  orig: 260, 229
+  offset: 56, 54
+  index: -1
+zjlx_0/zjlx_9
+  rotate: false
+  xy: 0, 481
+  size: 154, 107
+  orig: 260, 229
+  offset: 56, 58
+  index: -1

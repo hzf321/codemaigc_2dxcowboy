@@ -1,0 +1,20 @@
+
+spine.png
+size: 321,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouzhi
+  rotate: false
+  xy: 194, 52
+  size: 125, 140
+  orig: 125, 140
+  offset: 0, 0
+  index: -1
+yuanlight
+  rotate: false
+  xy: 2, 2
+  size: 190, 190
+  orig: 192, 192
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,244 @@
+
+symbol_jiezhi.png
+size: 398,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/jiezhi/jiezhi_00
+  rotate: false
+  xy: 95, 128
+  size: 49, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_01
+  rotate: false
+  xy: 104, 28
+  size: 48, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_02
+  rotate: false
+  xy: 147, 108
+  size: 48, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_03
+  rotate: false
+  xy: 248, 95
+  size: 47, 48
+  orig: 51, 48
+  offset: 1, 0
+  index: -1
+ef/jiezhi/jiezhi_04
+  rotate: false
+  xy: 297, 95
+  size: 47, 48
+  orig: 51, 48
+  offset: 1, 0
+  index: -1
+ef/jiezhi/jiezhi_05
+  rotate: false
+  xy: 154, 0
+  size: 46, 45
+  orig: 51, 48
+  offset: 2, 1
+  index: -1
+ef/jiezhi/jiezhi_06
+  rotate: false
+  xy: 346, 51
+  size: 47, 44
+  orig: 51, 48
+  offset: 3, 1
+  index: -1
+ef/jiezhi/jiezhi_07
+  rotate: false
+  xy: 203, 49
+  size: 47, 44
+  orig: 51, 48
+  offset: 4, 1
+  index: -1
+ef/jiezhi/jiezhi_08
+  rotate: false
+  xy: 252, 49
+  size: 46, 44
+  orig: 51, 48
+  offset: 5, 1
+  index: -1
+ef/jiezhi/jiezhi_09
+  rotate: false
+  xy: 346, 6
+  size: 45, 43
+  orig: 51, 48
+  offset: 6, 1
+  index: -1
+ef/jiezhi/jiezhi_10
+  rotate: false
+  xy: 300, 50
+  size: 44, 43
+  orig: 51, 48
+  offset: 7, 1
+  index: -1
+ef/jiezhi/jiezhi_11
+  rotate: false
+  xy: 299, 4
+  size: 45, 43
+  orig: 51, 48
+  offset: 6, 2
+  index: -1
+ef/jiezhi/jiezhi_12
+  rotate: false
+  xy: 202, 0
+  size: 46, 45
+  orig: 51, 48
+  offset: 5, 0
+  index: -1
+ef/jiezhi/jiezhi_13
+  rotate: false
+  xy: 346, 97
+  size: 47, 46
+  orig: 51, 48
+  offset: 4, 0
+  index: -1
+ef/jiezhi/jiezhi_14
+  rotate: false
+  xy: 154, 47
+  size: 47, 46
+  orig: 51, 48
+  offset: 4, 0
+  index: -1
+ef/jiezhi/jiezhi_15
+  rotate: false
+  xy: 350, 145
+  size: 48, 47
+  orig: 51, 48
+  offset: 3, 0
+  index: -1
+ef/jiezhi/jiezhi_16
+  rotate: false
+  xy: 248, 145
+  size: 49, 47
+  orig: 51, 48
+  offset: 2, 0
+  index: -1
+ef/jiezhi/jiezhi_17
+  rotate: false
+  xy: 299, 145
+  size: 49, 47
+  orig: 51, 48
+  offset: 2, 0
+  index: -1
+ef/jiezhi/jiezhi_18
+  rotate: false
+  xy: 197, 95
+  size: 49, 47
+  orig: 51, 48
+  offset: 2, 0
+  index: -1
+ef/jiezhi/jiezhi_19
+  rotate: false
+  xy: 280, 244
+  size: 50, 48
+  orig: 51, 48
+  offset: 1, 0
+  index: -1
+ef/jiezhi/jiezhi_20
+  rotate: false
+  xy: 0, 28
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_21
+  rotate: false
+  xy: 227, 244
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_22
+  rotate: false
+  xy: 332, 244
+  size: 50, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_23
+  rotate: false
+  xy: 95, 78
+  size: 50, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_24
+  rotate: false
+  xy: 227, 194
+  size: 50, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_25
+  rotate: false
+  xy: 279, 194
+  size: 50, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_26
+  rotate: false
+  xy: 331, 194
+  size: 49, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_27
+  rotate: false
+  xy: 146, 158
+  size: 49, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_28
+  rotate: false
+  xy: 197, 144
+  size: 49, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+ef/jiezhi/jiezhi_29
+  rotate: false
+  xy: 53, 28
+  size: 49, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+jiezhi/g
+  rotate: false
+  xy: 0, 178
+  size: 131, 114
+  orig: 131, 114
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi
+  rotate: false
+  xy: 0, 78
+  size: 93, 98
+  orig: 93, 98
+  offset: 0, 0
+  index: -1
+jiezhi/ying
+  rotate: false
+  xy: 133, 208
+  size: 92, 84
+  orig: 104, 84
+  offset: 12, 0
+  index: -1
+xianglian/xx
+  rotate: false
+  xy: 250, 4
+  size: 47, 43
+  orig: 52, 46
+  offset: 1, 2
+  index: -1

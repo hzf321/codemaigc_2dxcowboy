@@ -1,0 +1,20 @@
+
+k_1.png
+size: 121,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k2_33
+  rotate: false
+  xy: 2, 61
+  size: 59, 58
+  orig: 145, 131
+  offset: 44, 35
+  index: -1
+theme220_s_8
+  rotate: false
+  xy: 2, 2
+  size: 58, 57
+  orig: 105, 75
+  offset: 24, 7
+  index: -1

@@ -1,0 +1,202 @@
+
+jp_tanchuang.png
+size: 901,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gggg
+  rotate: false
+  xy: 802, 63
+  size: 72, 63
+  orig: 74, 65
+  offset: 1, 1
+  index: -1
+gra
+  rotate: false
+  xy: 2, 170
+  size: 438, 88
+  orig: 438, 88
+  offset: 0, 0
+  index: -1
+jp
+  rotate: false
+  xy: 442, 87
+  size: 358, 39
+  orig: 358, 39
+  offset: 0, 0
+  index: -1
+jp_00
+  rotate: false
+  xy: 850, 495
+  size: 49, 25
+  orig: 184, 39
+  offset: 68, 9
+  index: -1
+jp_01
+  rotate: false
+  xy: 368, 54
+  size: 61, 24
+  orig: 184, 39
+  offset: 62, 9
+  index: -1
+jp_02
+  rotate: false
+  xy: 295, 2
+  size: 76, 24
+  orig: 184, 39
+  offset: 54, 9
+  index: -1
+jp_03
+  rotate: false
+  xy: 295, 28
+  size: 86, 24
+  orig: 184, 39
+  offset: 49, 9
+  index: -1
+jp_04
+  rotate: false
+  xy: 780, 11
+  size: 100, 24
+  orig: 184, 39
+  offset: 42, 9
+  index: -1
+jp_05
+  rotate: false
+  xy: 780, 37
+  size: 112, 24
+  orig: 184, 39
+  offset: 36, 9
+  index: -1
+jp_06
+  rotate: false
+  xy: 168, 28
+  size: 125, 24
+  orig: 184, 39
+  offset: 29, 9
+  index: -1
+jp_07
+  rotate: false
+  xy: 156, 2
+  size: 137, 24
+  orig: 184, 39
+  offset: 23, 9
+  index: -1
+jp_08
+  rotate: false
+  xy: 2, 2
+  size: 152, 24
+  orig: 184, 39
+  offset: 15, 9
+  index: -1
+jp_09
+  rotate: false
+  xy: 2, 28
+  size: 164, 24
+  orig: 184, 39
+  offset: 9, 9
+  index: -1
+jp_10
+  rotate: false
+  xy: 188, 54
+  size: 178, 24
+  orig: 184, 39
+  offset: 2, 9
+  index: -1
+jp_11
+  rotate: false
+  xy: 594, 61
+  size: 184, 24
+  orig: 184, 39
+  offset: 0, 9
+  index: -1
+jp_12
+  rotate: false
+  xy: 594, 35
+  size: 184, 24
+  orig: 184, 39
+  offset: 0, 9
+  index: -1
+jp_13
+  rotate: false
+  xy: 594, 9
+  size: 184, 24
+  orig: 184, 39
+  offset: 0, 9
+  index: -1
+jp_14
+  rotate: false
+  xy: 2, 54
+  size: 184, 24
+  orig: 184, 39
+  offset: 0, 9
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 260
+  size: 406, 260
+  orig: 406, 264
+  offset: 0, 4
+  index: -1
+major
+  rotate: false
+  xy: 410, 432
+  size: 438, 88
+  orig: 438, 88
+  offset: 0, 0
+  index: -1
+maxi
+  rotate: false
+  xy: 410, 342
+  size: 438, 88
+  orig: 438, 88
+  offset: 0, 0
+  index: -1
+mini
+  rotate: false
+  xy: 442, 128
+  size: 438, 88
+  orig: 438, 88
+  offset: 0, 0
+  index: -1
+minor
+  rotate: false
+  xy: 2, 80
+  size: 438, 88
+  orig: 438, 88
+  offset: 0, 0
+  index: -1
+theme194_jp_popup_grand
+  rotate: false
+  xy: 628, 218
+  size: 228, 58
+  orig: 228, 58
+  offset: 0, 0
+  index: -1
+theme194_jp_popup_major
+  rotate: false
+  xy: 410, 280
+  size: 241, 60
+  orig: 241, 60
+  offset: 0, 0
+  index: -1
+theme194_jp_popup_maxi
+  rotate: false
+  xy: 442, 218
+  size: 184, 60
+  orig: 184, 60
+  offset: 0, 0
+  index: -1
+theme194_jp_popup_mini
+  rotate: false
+  xy: 442, 25
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+theme194_jp_popup_minor
+  rotate: false
+  xy: 653, 278
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1

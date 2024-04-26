@@ -1,0 +1,111 @@
+
+lunpanxuanzhong.png
+size: 1253,386
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yepian/yepian_00
+  rotate: true
+  xy: 741, 2
+  size: 188, 153
+  orig: 241, 230
+  offset: 27, 42
+  index: -1
+yepian/yepian_01
+  rotate: true
+  xy: 585, 2
+  size: 188, 154
+  orig: 241, 230
+  offset: 27, 41
+  index: -1
+yepian/yepian_02
+  rotate: true
+  xy: 940, 195
+  size: 189, 156
+  orig: 241, 230
+  offset: 27, 40
+  index: -1
+yepian/yepian_03
+  rotate: true
+  xy: 896, 3
+  size: 187, 153
+  orig: 241, 230
+  offset: 28, 43
+  index: -1
+yepian/yepian_04
+  rotate: true
+  xy: 788, 192
+  size: 192, 150
+  orig: 241, 230
+  offset: 27, 46
+  index: -1
+yepian/yepian_05
+  rotate: true
+  xy: 160, 187
+  size: 197, 151
+  orig: 241, 230
+  offset: 25, 46
+  index: -1
+yepian/yepian_06
+  rotate: true
+  xy: 313, 188
+  size: 196, 155
+  orig: 241, 230
+  offset: 25, 46
+  index: -1
+yepian/yepian_07
+  rotate: true
+  xy: 470, 192
+  size: 192, 158
+  orig: 241, 230
+  offset: 25, 47
+  index: -1
+yepian/yepian_08
+  rotate: false
+  xy: 2, 24
+  size: 191, 161
+  orig: 241, 230
+  offset: 25, 46
+  index: -1
+yepian/yepian_09
+  rotate: false
+  xy: 195, 25
+  size: 191, 160
+  orig: 241, 230
+  offset: 24, 46
+  index: -1
+yepian/yepian_10
+  rotate: false
+  xy: 388, 28
+  size: 195, 158
+  orig: 241, 230
+  offset: 20, 45
+  index: -1
+yepian/yepian_11
+  rotate: true
+  xy: 2, 187
+  size: 197, 156
+  orig: 241, 230
+  offset: 18, 45
+  index: -1
+yepian/yepian_12
+  rotate: true
+  xy: 630, 192
+  size: 192, 156
+  orig: 241, 230
+  offset: 21, 45
+  index: -1
+yepian/yepian_13
+  rotate: true
+  xy: 1051, 4
+  size: 189, 155
+  orig: 241, 230
+  offset: 25, 45
+  index: -1
+yepian/yepian_14
+  rotate: true
+  xy: 1098, 198
+  size: 186, 153
+  orig: 241, 230
+  offset: 28, 42
+  index: -1

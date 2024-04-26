@@ -1,0 +1,90 @@
+
+banshend.png
+size: 281,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dabi
+  rotate: false
+  xy: 109, 1
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+images/dz
+  rotate: false
+  xy: 245, 149
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+images/gebo
+  rotate: false
+  xy: 245, 176
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+images/hua
+  rotate: false
+  xy: 0, 17
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+images/lh
+  rotate: false
+  xy: 259, 65
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+images/pfeng
+  rotate: false
+  xy: 135, 75
+  size: 108, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+images/shou1
+  rotate: false
+  xy: 245, 117
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+images/shou2
+  rotate: false
+  xy: 245, 92
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+images/st
+  rotate: false
+  xy: 0, 60
+  size: 133, 149
+  orig: 133, 149
+  offset: 0, 0
+  index: -1
+images/tou
+  rotate: false
+  xy: 209, 10
+  size: 48, 63
+  orig: 48, 63
+  offset: 0, 0
+  index: -1
+images/xbi
+  rotate: false
+  xy: 65, 0
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+xin
+  rotate: false
+  xy: 143, 9
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

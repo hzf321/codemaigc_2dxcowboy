@@ -1,0 +1,62 @@
+
+symbol_baibao.png
+size: 658,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baibao/di
+  rotate: false
+  xy: 0, 3
+  size: 164, 109
+  orig: 164, 109
+  offset: 0, 0
+  index: -1
+baibao/houer
+  rotate: false
+  xy: 449, 0
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+baibao/huxu
+  rotate: false
+  xy: 555, 74
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+baibao/kuang
+  rotate: false
+  xy: 166, 2
+  size: 163, 110
+  orig: 163, 110
+  offset: 0, 0
+  index: -1
+baibao/shangya
+  rotate: false
+  xy: 630, 54
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+baibao/shen
+  rotate: false
+  xy: 331, 23
+  size: 116, 89
+  orig: 116, 89
+  offset: 0, 0
+  index: -1
+baibao/tou
+  rotate: false
+  xy: 449, 34
+  size: 104, 78
+  orig: 104, 78
+  offset: 0, 0
+  index: -1
+baibao/xiaba
+  rotate: false
+  xy: 555, 28
+  size: 73, 44
+  orig: 73, 44
+  offset: 0, 0
+  index: -1

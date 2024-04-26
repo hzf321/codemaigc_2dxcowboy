@@ -1,0 +1,216 @@
+
+jpzhongjiang.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jpzhongjiang/jpzhongjiang_00
+  rotate: false
+  xy: 1232, 106
+  size: 164, 73
+  orig: 192, 90
+  offset: 11, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_01
+  rotate: false
+  xy: 716, 108
+  size: 168, 73
+  orig: 192, 90
+  offset: 9, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_02
+  rotate: false
+  xy: 350, 181
+  size: 177, 73
+  orig: 192, 90
+  offset: 4, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_03
+  rotate: false
+  xy: 707, 183
+  size: 177, 71
+  orig: 192, 90
+  offset: 4, 12
+  index: -1
+jpzhongjiang/jpzhongjiang_04
+  rotate: false
+  xy: 886, 182
+  size: 176, 72
+  orig: 192, 90
+  offset: 5, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_05
+  rotate: false
+  xy: 529, 181
+  size: 176, 73
+  orig: 192, 90
+  offset: 5, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_06
+  rotate: false
+  xy: 2, 179
+  size: 176, 75
+  orig: 192, 90
+  offset: 5, 10
+  index: -1
+jpzhongjiang/jpzhongjiang_07
+  rotate: true
+  xy: 2, 2
+  size: 175, 73
+  orig: 192, 90
+  offset: 5, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_08
+  rotate: true
+  xy: 77, 2
+  size: 175, 73
+  orig: 192, 90
+  offset: 5, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_09
+  rotate: true
+  xy: 152, 2
+  size: 175, 73
+  orig: 192, 90
+  offset: 5, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_10
+  rotate: true
+  xy: 227, 3
+  size: 174, 73
+  orig: 192, 90
+  offset: 6, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_11
+  rotate: false
+  xy: 1064, 181
+  size: 174, 73
+  orig: 192, 90
+  offset: 6, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_12
+  rotate: false
+  xy: 1240, 181
+  size: 173, 73
+  orig: 192, 90
+  offset: 6, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_13
+  rotate: false
+  xy: 1415, 181
+  size: 172, 73
+  orig: 192, 90
+  offset: 7, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_14
+  rotate: false
+  xy: 1589, 181
+  size: 171, 73
+  orig: 192, 90
+  offset: 7, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_15
+  rotate: false
+  xy: 548, 29
+  size: 169, 73
+  orig: 192, 90
+  offset: 8, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_16
+  rotate: false
+  xy: 719, 33
+  size: 169, 73
+  orig: 192, 90
+  offset: 8, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_17
+  rotate: false
+  xy: 1762, 181
+  size: 171, 73
+  orig: 192, 90
+  offset: 7, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_18
+  rotate: true
+  xy: 302, 7
+  size: 170, 72
+  orig: 192, 90
+  offset: 8, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_19
+  rotate: false
+  xy: 886, 108
+  size: 170, 72
+  orig: 192, 90
+  offset: 8, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_20
+  rotate: false
+  xy: 376, 106
+  size: 170, 73
+  orig: 192, 90
+  offset: 8, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_21
+  rotate: false
+  xy: 376, 31
+  size: 170, 73
+  orig: 192, 90
+  offset: 8, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_22
+  rotate: false
+  xy: 890, 33
+  size: 169, 73
+  orig: 192, 90
+  offset: 8, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_23
+  rotate: false
+  xy: 1061, 106
+  size: 169, 73
+  orig: 192, 90
+  offset: 8, 11
+  index: -1
+jpzhongjiang/jpzhongjiang_24
+  rotate: false
+  xy: 180, 179
+  size: 168, 75
+  orig: 192, 90
+  offset: 9, 10
+  index: -1
+jpzhongjiang/jpzhongjiang_25
+  rotate: false
+  xy: 548, 104
+  size: 166, 75
+  orig: 192, 90
+  offset: 10, 10
+  index: -1
+jpzhongjiang/jpzhongjiang_26
+  rotate: false
+  xy: 1398, 104
+  size: 163, 75
+  orig: 192, 90
+  offset: 11, 10
+  index: -1
+jpzhongjiang/jpzhongjiang_27
+  rotate: false
+  xy: 1563, 104
+  size: 157, 75
+  orig: 192, 90
+  offset: 14, 10
+  index: -1
+jpzhongjiang/jpzhongjiang_28
+  rotate: false
+  xy: 1061, 29
+  size: 148, 75
+  orig: 192, 90
+  offset: 19, 10
+  index: -1
+jpzhongjiang/jpzhongjiang_29
+  rotate: false
+  xy: 1722, 106
+  size: 150, 73
+  orig: 192, 90
+  offset: 18, 11
+  index: -1

@@ -1,0 +1,69 @@
+
+qp_jinkuai.png
+size: 992,990
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/475
+  rotate: false
+  xy: 729, 135
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tx/ci_6
+  rotate: false
+  xy: 504, 722
+  size: 486, 266
+  orig: 500, 500
+  offset: 14, 118
+  index: -1
+tx/ci_8
+  rotate: false
+  xy: 2, 86
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+tx/glow2
+  rotate: false
+  xy: 850, 476
+  size: 114, 114
+  orig: 128, 128
+  offset: 7, 7
+  index: -1
+tx/image_0009
+  rotate: false
+  xy: 2, 488
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+tx/star_3
+  rotate: false
+  xy: 850, 592
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+tx/tiao_1_0
+  rotate: false
+  xy: 2, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+tx/zuanshi_0
+  rotate: true
+  xy: 404, 70
+  size: 321, 323
+  orig: 467, 462
+  offset: 101, 42
+  index: -1
+tx/zuanshi_2
+  rotate: true
+  xy: 504, 393
+  size: 327, 344
+  orig: 467, 462
+  offset: 62, 76
+  index: -1

@@ -1,0 +1,111 @@
+
+map_yepian.png
+size: 1276,1274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhongjiang_00
+  rotate: true
+  xy: 2, 637
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_01
+  rotate: true
+  xy: 309, 967
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_02
+  rotate: false
+  xy: 332, 637
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_03
+  rotate: false
+  xy: 969, 287
+  size: 305, 325
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_04
+  rotate: true
+  xy: 2, 23
+  size: 305, 324
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_05
+  rotate: true
+  xy: 328, 23
+  size: 305, 324
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_06
+  rotate: false
+  xy: 654, 4
+  size: 305, 324
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_07
+  rotate: true
+  xy: 2, 330
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_08
+  rotate: true
+  xy: 332, 330
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_09
+  rotate: true
+  xy: 639, 967
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_10
+  rotate: true
+  xy: 639, 660
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_11
+  rotate: false
+  xy: 662, 330
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_12
+  rotate: false
+  xy: 969, 944
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_13
+  rotate: false
+  xy: 969, 614
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1
+zhongjiang_14
+  rotate: false
+  xy: 2, 944
+  size: 305, 328
+  orig: 305, 329
+  offset: 0, 0
+  index: -1

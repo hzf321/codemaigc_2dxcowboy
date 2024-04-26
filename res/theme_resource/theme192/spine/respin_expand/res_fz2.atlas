@@ -1,0 +1,146 @@
+
+res_fz2.png
+size: 903,903
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_01
+  rotate: false
+  xy: 2, 727
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_02
+  rotate: false
+  xy: 204, 727
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_03
+  rotate: false
+  xy: 406, 727
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_04
+  rotate: false
+  xy: 608, 727
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_05
+  rotate: false
+  xy: 2, 551
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_06
+  rotate: false
+  xy: 204, 551
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_07
+  rotate: false
+  xy: 406, 551
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_08
+  rotate: false
+  xy: 608, 551
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_09
+  rotate: false
+  xy: 2, 375
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_10
+  rotate: false
+  xy: 204, 375
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_11
+  rotate: false
+  xy: 406, 375
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_12
+  rotate: false
+  xy: 608, 375
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_14
+  rotate: false
+  xy: 2, 199
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_16
+  rotate: false
+  xy: 204, 199
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 5
+  index: -1
+b_18
+  rotate: false
+  xy: 406, 196
+  size: 200, 177
+  orig: 200, 200
+  offset: 0, 3
+  index: -1
+b_20
+  rotate: false
+  xy: 608, 192
+  size: 200, 181
+  orig: 200, 200
+  offset: 0, 1
+  index: -1
+b_22
+  rotate: false
+  xy: 2, 13
+  size: 200, 184
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+b_24
+  rotate: false
+  xy: 204, 10
+  size: 200, 187
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+b_26
+  rotate: false
+  xy: 406, 6
+  size: 200, 188
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+b_28
+  rotate: false
+  xy: 608, 2
+  size: 200, 188
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

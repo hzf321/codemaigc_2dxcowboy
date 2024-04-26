@@ -1,0 +1,97 @@
+
+scatter.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cmn_dis00
+  rotate: false
+  xy: 2, 491
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+fangsheguang_00030_00
+  rotate: false
+  xy: 750, 852
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+guang_00
+  rotate: false
+  xy: 408, 804
+  size: 156, 150
+  orig: 156, 150
+  offset: 0, 0
+  index: -1
+images/ciguang
+  rotate: false
+  xy: 2, 27
+  size: 107, 139
+  orig: 107, 139
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 2, 290
+  size: 169, 199
+  orig: 169, 199
+  offset: 0, 0
+  index: -1
+images/faguang
+  rotate: false
+  xy: 2, 698
+  size: 218, 256
+  orig: 218, 256
+  offset: 0, 0
+  index: -1
+images/shangkuang
+  rotate: false
+  xy: 222, 721
+  size: 170, 38
+  orig: 170, 38
+  offset: 0, 0
+  index: -1
+images/wuzi
+  rotate: false
+  xy: 222, 761
+  size: 184, 193
+  orig: 184, 193
+  offset: 0, 0
+  index: -1
+images/xiakuang
+  rotate: false
+  xy: 566, 843
+  size: 170, 38
+  orig: 170, 38
+  offset: 0, 0
+  index: -1
+images/yun
+  rotate: false
+  xy: 566, 883
+  size: 182, 71
+  orig: 182, 71
+  offset: 0, 0
+  index: -1
+impact_base
+  rotate: false
+  xy: 854, 852
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+storm_ringoffrost_ground
+  rotate: false
+  xy: 408, 700
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+zhuanguang01 (2)(1)
+  rotate: false
+  xy: 2, 168
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1

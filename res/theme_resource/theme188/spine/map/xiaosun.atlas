@@ -1,0 +1,76 @@
+
+xiaosun.png
+size: 907,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/biyan
+  rotate: false
+  xy: 647, 24
+  size: 88, 50
+  orig: 88, 50
+  offset: 0, 0
+  index: -1
+images/lian
+  rotate: false
+  xy: 700, 76
+  size: 207, 216
+  orig: 207, 216
+  offset: 0, 0
+  index: -1
+images/meimao
+  rotate: false
+  xy: 0, 0
+  size: 114, 45
+  orig: 114, 45
+  offset: 0, 0
+  index: -1
+images/pifeng
+  rotate: false
+  xy: 390, 3
+  size: 81, 110
+  orig: 81, 110
+  offset: 0, 0
+  index: -1
+images/shenti
+  rotate: false
+  xy: 229, 115
+  size: 257, 177
+  orig: 257, 177
+  offset: 0, 0
+  index: -1
+images/toufa
+  rotate: false
+  xy: 0, 47
+  size: 227, 245
+  orig: 227, 245
+  offset: 0, 0
+  index: -1
+images/toufa2
+  rotate: false
+  xy: 488, 112
+  size: 210, 180
+  orig: 210, 180
+  offset: 0, 0
+  index: -1
+images/yanjing
+  rotate: false
+  xy: 229, 18
+  size: 159, 95
+  orig: 159, 95
+  offset: 0, 0
+  index: -1
+images/youyezi
+  rotate: false
+  xy: 473, 3
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+images/zuoyezi
+  rotate: false
+  xy: 582, 32
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1

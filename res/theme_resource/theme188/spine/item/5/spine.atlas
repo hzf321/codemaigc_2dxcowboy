@@ -1,0 +1,139 @@
+
+jiezhi_01.png
+size: 380,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiezhi/beijing
+  rotate: false
+  xy: 0, 165
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhi
+  rotate: true
+  xy: 94, 82
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhixingguang01
+  rotate: false
+  xy: 165, 82
+  size: 68, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+jiezhi/jiezhixingguang02
+  rotate: false
+  xy: 146, 289
+  size: 94, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+jiezhi/shandian
+  rotate: false
+  xy: 0, 270
+  size: 144, 110
+  orig: 145, 111
+  offset: 0, 0
+  index: -1
+shandian01_0/shandian01_0
+  rotate: false
+  xy: 126, 1
+  size: 74, 79
+  orig: 119, 107
+  offset: 35, 12
+  index: -1
+shandian01_0/shandian01_1
+  rotate: true
+  xy: 253, 1
+  size: 82, 77
+  orig: 119, 107
+  offset: 27, 12
+  index: -1
+shandian01_0/shandian01_10
+  rotate: true
+  xy: 192, 201
+  size: 86, 85
+  orig: 119, 107
+  offset: 13, 11
+  index: -1
+shandian01_0/shandian01_11
+  rotate: true
+  xy: 116, 173
+  size: 95, 74
+  orig: 119, 107
+  offset: 13, 19
+  index: -1
+shandian01_0/shandian01_12
+  rotate: false
+  xy: 279, 213
+  size: 79, 83
+  orig: 119, 107
+  offset: 29, 12
+  index: -1
+shandian01_0/shandian01_13
+  rotate: false
+  xy: 242, 298
+  size: 91, 82
+  orig: 119, 107
+  offset: 17, 13
+  index: -1
+shandian01_0/shandian01_2
+  rotate: false
+  xy: 0, 82
+  size: 92, 81
+  orig: 119, 107
+  offset: 15, 12
+  index: -1
+shandian01_0/shandian01_3
+  rotate: false
+  xy: 0, 0
+  size: 72, 80
+  orig: 119, 107
+  offset: 26, 12
+  index: -1
+shandian01_0/shandian01_4
+  rotate: false
+  xy: 74, 0
+  size: 50, 80
+  orig: 119, 107
+  offset: 48, 12
+  index: -1
+shandian01_0/shandian01_5
+  rotate: false
+  xy: 202, 1
+  size: 49, 79
+  orig: 119, 107
+  offset: 48, 13
+  index: -1
+shandian01_0/shandian01_6
+  rotate: true
+  xy: 235, 85
+  size: 65, 73
+  orig: 119, 107
+  offset: 25, 21
+  index: -1
+shandian01_0/shandian01_7
+  rotate: true
+  xy: 146, 273
+  size: 14, 39
+  orig: 119, 107
+  offset: 16, 26
+  index: -1
+shandian01_0/shandian01_8
+  rotate: false
+  xy: 235, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+shandian01_0/shandian01_9
+  rotate: false
+  xy: 192, 152
+  size: 83, 47
+  orig: 119, 107
+  offset: 20, 49
+  index: -1

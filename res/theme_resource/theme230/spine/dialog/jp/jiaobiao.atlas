@@ -1,0 +1,195 @@
+
+jiaobiao.png
+size: 733,731
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sgg_000
+  rotate: false
+  xy: 661, 121
+  size: 70, 108
+  orig: 174, 182
+  offset: 8, 59
+  index: -1
+effect/sgg_001
+  rotate: true
+  xy: 271, 15
+  size: 84, 116
+  orig: 174, 182
+  offset: 2, 52
+  index: -1
+effect/sgg_002
+  rotate: true
+  xy: 534, 135
+  size: 94, 125
+  orig: 174, 182
+  offset: 0, 44
+  index: -1
+effect/sgg_003
+  rotate: true
+  xy: 426, 463
+  size: 101, 135
+  orig: 174, 182
+  offset: 0, 38
+  index: -1
+effect/sgg_004
+  rotate: true
+  xy: 389, 230
+  size: 108, 143
+  orig: 174, 182
+  offset: 0, 33
+  index: -1
+effect/sgg_005
+  rotate: false
+  xy: 271, 101
+  size: 115, 149
+  orig: 174, 182
+  offset: 0, 28
+  index: -1
+effect/sgg_006
+  rotate: true
+  xy: 395, 340
+  size: 121, 155
+  orig: 174, 182
+  offset: 0, 24
+  index: -1
+effect/sgg_007
+  rotate: true
+  xy: 563, 337
+  size: 126, 159
+  orig: 174, 182
+  offset: 2, 20
+  index: -1
+effect/sgg_008
+  rotate: false
+  xy: 141, 233
+  size: 127, 162
+  orig: 174, 182
+  offset: 6, 17
+  index: -1
+effect/sgg_009
+  rotate: true
+  xy: 563, 598
+  size: 131, 164
+  orig: 174, 182
+  offset: 8, 15
+  index: -1
+effect/sgg_010
+  rotate: false
+  xy: 2, 62
+  size: 135, 165
+  orig: 174, 182
+  offset: 9, 13
+  index: -1
+effect/sgg_011
+  rotate: false
+  xy: 2, 229
+  size: 137, 166
+  orig: 174, 182
+  offset: 11, 11
+  index: -1
+effect/sgg_012
+  rotate: false
+  xy: 2, 397
+  size: 139, 165
+  orig: 174, 182
+  offset: 13, 10
+  index: -1
+effect/sgg_013
+  rotate: false
+  xy: 144, 565
+  size: 140, 164
+  orig: 174, 182
+  offset: 16, 9
+  index: -1
+effect/sgg_014
+  rotate: false
+  xy: 2, 564
+  size: 140, 165
+  orig: 174, 182
+  offset: 19, 5
+  index: -1
+effect/sgg_015
+  rotate: false
+  xy: 286, 565
+  size: 138, 164
+  orig: 174, 182
+  offset: 23, 3
+  index: -1
+effect/sgg_016
+  rotate: false
+  xy: 426, 566
+  size: 135, 163
+  orig: 174, 182
+  offset: 28, 2
+  index: -1
+effect/sgg_017
+  rotate: true
+  xy: 563, 465
+  size: 131, 164
+  orig: 174, 182
+  offset: 33, 0
+  index: -1
+effect/sgg_018
+  rotate: false
+  xy: 139, 66
+  size: 130, 161
+  orig: 174, 182
+  offset: 38, 0
+  index: -1
+effect/sgg_019
+  rotate: false
+  xy: 143, 404
+  size: 126, 158
+  orig: 174, 182
+  offset: 44, 0
+  index: -1
+effect/sgg_020
+  rotate: false
+  xy: 271, 408
+  size: 122, 155
+  orig: 174, 182
+  offset: 50, 0
+  index: -1
+effect/sgg_021
+  rotate: false
+  xy: 270, 252
+  size: 117, 150
+  orig: 174, 182
+  offset: 57, 1
+  index: -1
+effect/sgg_022
+  rotate: true
+  xy: 388, 117
+  size: 111, 143
+  orig: 174, 182
+  offset: 63, 3
+  index: -1
+effect/sgg_023
+  rotate: true
+  xy: 534, 231
+  size: 104, 136
+  orig: 174, 182
+  offset: 70, 5
+  index: -1
+effect/sgg_024
+  rotate: true
+  xy: 389, 18
+  size: 97, 125
+  orig: 174, 182
+  offset: 77, 10
+  index: -1
+effect/sgg_025
+  rotate: true
+  xy: 533, 46
+  size: 87, 118
+  orig: 174, 182
+  offset: 85, 10
+  index: -1
+effect/yueya
+  rotate: false
+  xy: 2, 18
+  size: 135, 42
+  orig: 135, 42
+  offset: 0, 0
+  index: -1

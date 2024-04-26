@@ -1,0 +1,27 @@
+
+sandian_1.png
+size: 149,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandian01
+  rotate: true
+  xy: 2, 57
+  size: 50, 130
+  orig: 50, 131
+  offset: 0, 1
+  index: -1
+shandian02
+  rotate: true
+  xy: 2, 2
+  size: 53, 145
+  orig: 53, 145
+  offset: 0, 0
+  index: -1
+shandian03
+  rotate: true
+  xy: 2, 109
+  size: 45, 134
+  orig: 45, 134
+  offset: 0, 0
+  index: -1

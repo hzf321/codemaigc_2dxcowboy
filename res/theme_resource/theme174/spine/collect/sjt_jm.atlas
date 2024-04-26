@@ -1,0 +1,118 @@
+
+sjt_jm.png
+size: 1804,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bj
+  rotate: false
+  xy: 2, 142
+  size: 1333, 98
+  orig: 1333, 98
+  offset: 0, 0
+  index: -1
+images/glow_0
+  rotate: false
+  xy: 1700, 99
+  size: 102, 141
+  orig: 132, 172
+  offset: 0, 24
+  index: -1
+images/lzii_0
+  rotate: false
+  xy: 1398, 63
+  size: 216, 24
+  orig: 224, 32
+  offset: 4, 4
+  index: -1
+images/lzii_1
+  rotate: false
+  xy: 222, 5
+  size: 217, 24
+  orig: 224, 32
+  offset: 3, 4
+  index: -1
+images/lzii_2
+  rotate: false
+  xy: 1586, 10
+  size: 216, 24
+  orig: 224, 32
+  offset: 5, 4
+  index: -1
+images/lzii_3
+  rotate: false
+  xy: 1398, 89
+  size: 217, 24
+  orig: 224, 32
+  offset: 5, 4
+  index: -1
+images/lzii_4
+  rotate: false
+  xy: 1368, 36
+  size: 216, 25
+  orig: 224, 32
+  offset: 6, 3
+  index: -1
+images/lzii_5
+  rotate: false
+  xy: 1368, 9
+  size: 216, 25
+  orig: 224, 32
+  offset: 6, 3
+  index: -1
+images/lzii_6
+  rotate: false
+  xy: 441, 5
+  size: 217, 24
+  orig: 224, 32
+  offset: 5, 4
+  index: -1
+images/lzii_7
+  rotate: false
+  xy: 1586, 36
+  size: 216, 25
+  orig: 224, 32
+  offset: 5, 4
+  index: -1
+images/lzii_8
+  rotate: false
+  xy: 1398, 115
+  size: 217, 25
+  orig: 224, 32
+  offset: 5, 3
+  index: -1
+images/lzii_9
+  rotate: false
+  xy: 2, 3
+  size: 218, 26
+  orig: 224, 32
+  offset: 4, 3
+  index: -1
+images/yun1
+  rotate: false
+  xy: 1337, 142
+  size: 361, 98
+  orig: 362, 98
+  offset: 1, 0
+  index: -1
+images/yun2
+  rotate: false
+  xy: 2, 31
+  size: 743, 109
+  orig: 746, 110
+  offset: 0, 0
+  index: -1
+images/yun3
+  rotate: false
+  xy: 747, 2
+  size: 619, 59
+  orig: 620, 59
+  offset: 0, 0
+  index: -1
+images/yun4
+  rotate: false
+  xy: 747, 63
+  size: 649, 77
+  orig: 651, 78
+  offset: 1, 0
+  index: -1

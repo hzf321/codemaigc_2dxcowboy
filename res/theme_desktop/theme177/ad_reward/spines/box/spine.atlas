@@ -1,0 +1,293 @@
+
+spine.png
+size: 742,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ic/guangxian_039
+  rotate: false
+  xy: 109, 35
+  size: 102, 105
+  orig: 110, 110
+  offset: 4, 2
+  index: -1
+ic/img_baoxiang1
+  rotate: true
+  xy: 390, 86
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00000
+  rotate: false
+  xy: 2, 2
+  size: 22, 17
+  orig: 100, 100
+  offset: 29, 36
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00001
+  rotate: true
+  xy: 286, 2
+  size: 32, 28
+  orig: 100, 100
+  offset: 28, 32
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00002
+  rotate: true
+  xy: 290, 36
+  size: 36, 34
+  orig: 100, 100
+  offset: 28, 31
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00003
+  rotate: false
+  xy: 700, 101
+  size: 40, 39
+  orig: 100, 100
+  offset: 28, 30
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00004
+  rotate: true
+  xy: 532, 97
+  size: 43, 41
+  orig: 100, 100
+  offset: 27, 30
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00005
+  rotate: false
+  xy: 610, 53
+  size: 42, 42
+  orig: 100, 100
+  offset: 28, 30
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00006
+  rotate: true
+  xy: 616, 98
+  size: 42, 41
+  orig: 100, 100
+  offset: 28, 31
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00007
+  rotate: true
+  xy: 646, 9
+  size: 42, 40
+  orig: 100, 100
+  offset: 29, 32
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00008
+  rotate: false
+  xy: 700, 61
+  size: 40, 38
+  orig: 100, 100
+  offset: 31, 34
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00009
+  rotate: false
+  xy: 437, 2
+  size: 38, 35
+  orig: 100, 100
+  offset: 33, 37
+  index: -1
+ic/img_baoxiang1/img_baoxiang1_00010
+  rotate: false
+  xy: 109, 2
+  size: 33, 31
+  orig: 100, 100
+  offset: 38, 41
+  index: -1
+ic/img_baoxiang1_2
+  rotate: false
+  xy: 326, 6
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+ic/img_baoxiang2
+  rotate: true
+  xy: 334, 84
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00000
+  rotate: false
+  xy: 408, 5
+  size: 23, 19
+  orig: 100, 100
+  offset: 27, 35
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00001
+  rotate: false
+  xy: 144, 3
+  size: 34, 30
+  orig: 100, 100
+  offset: 26, 31
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00002
+  rotate: true
+  xy: 253, 36
+  size: 36, 35
+  orig: 100, 100
+  offset: 27, 31
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00003
+  rotate: true
+  xy: 659, 98
+  size: 42, 39
+  orig: 100, 100
+  offset: 26, 30
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00004
+  rotate: true
+  xy: 481, 48
+  size: 45, 41
+  orig: 100, 100
+  offset: 26, 30
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00005
+  rotate: true
+  xy: 437, 39
+  size: 45, 42
+  orig: 100, 100
+  offset: 26, 30
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00006
+  rotate: true
+  xy: 489, 95
+  size: 45, 41
+  orig: 100, 100
+  offset: 27, 31
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00007
+  rotate: true
+  xy: 567, 52
+  size: 43, 41
+  orig: 100, 100
+  offset: 28, 32
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00008
+  rotate: true
+  xy: 575, 97
+  size: 43, 39
+  orig: 100, 100
+  offset: 29, 34
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00009
+  rotate: false
+  xy: 213, 36
+  size: 38, 36
+  orig: 100, 100
+  offset: 33, 37
+  index: -1
+ic/img_baoxiang2/img_baoxiang2_00010
+  rotate: false
+  xy: 214, 2
+  size: 34, 32
+  orig: 100, 100
+  offset: 37, 40
+  index: -1
+ic/img_baoxiang2_2
+  rotate: false
+  xy: 274, 74
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+ic/img_baoxiang3
+  rotate: true
+  xy: 381, 26
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00000
+  rotate: false
+  xy: 381, 4
+  size: 25, 20
+  orig: 100, 100
+  offset: 28, 34
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00001
+  rotate: false
+  xy: 180, 4
+  size: 32, 29
+  orig: 100, 100
+  offset: 28, 32
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00002
+  rotate: true
+  xy: 688, 14
+  size: 38, 34
+  orig: 100, 100
+  offset: 26, 31
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00003
+  rotate: true
+  xy: 654, 54
+  size: 42, 40
+  orig: 100, 100
+  offset: 26, 30
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00004
+  rotate: true
+  xy: 518, 2
+  size: 44, 42
+  orig: 100, 100
+  offset: 26, 30
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00005
+  rotate: true
+  xy: 445, 95
+  size: 45, 42
+  orig: 100, 100
+  offset: 26, 30
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00006
+  rotate: true
+  xy: 524, 49
+  size: 44, 41
+  orig: 100, 100
+  offset: 28, 31
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00007
+  rotate: true
+  xy: 562, 3
+  size: 44, 41
+  orig: 100, 100
+  offset: 28, 31
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00008
+  rotate: true
+  xy: 605, 7
+  size: 43, 39
+  orig: 100, 100
+  offset: 29, 33
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00009
+  rotate: false
+  xy: 477, 3
+  size: 39, 34
+  orig: 100, 100
+  offset: 33, 38
+  index: -1
+ic/img_baoxiang3/img_baoxiang3_00010
+  rotate: false
+  xy: 250, 2
+  size: 34, 32
+  orig: 100, 100
+  offset: 38, 41
+  index: -1
+ic/img_baoxiang3_2
+  rotate: false
+  xy: 213, 74
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+ic/img_xin_04
+  rotate: true
+  xy: 2, 21
+  size: 119, 105
+  orig: 128, 107
+  offset: 0, 0
+  index: -1

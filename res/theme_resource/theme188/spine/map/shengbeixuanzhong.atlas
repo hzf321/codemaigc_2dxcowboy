@@ -1,0 +1,13 @@
+
+shengbeixuanzhong.png
+size: 54,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_00
+  rotate: false
+  xy: 0, 0
+  size: 54, 54
+  orig: 72, 78
+  offset: 5, 12
+  index: -1

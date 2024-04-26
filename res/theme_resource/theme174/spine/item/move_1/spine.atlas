@@ -1,0 +1,90 @@
+
+bf.png
+size: 730,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bf1
+  rotate: false
+  xy: 91, 166
+  size: 130, 76
+  orig: 130, 76
+  offset: 0, 0
+  index: -1
+bf2
+  rotate: false
+  xy: 0, 187
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+wuqi_0
+  rotate: false
+  xy: 345, 122
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+wuqi_1
+  rotate: false
+  xy: 467, 122
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+wuqi_2
+  rotate: false
+  xy: 589, 122
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+wuqi_3
+  rotate: false
+  xy: 0, 44
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+wuqi_4
+  rotate: false
+  xy: 122, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+wuqi_5
+  rotate: false
+  xy: 244, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+wuqi_6
+  rotate: false
+  xy: 366, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+wuqi_7
+  rotate: false
+  xy: 488, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+wuqi_8
+  rotate: false
+  xy: 610, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+wuqi_9
+  rotate: false
+  xy: 223, 122
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+fg_bg.png
+size: 1027,1025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ggg
+  rotate: false
+  xy: 2, 459
+  size: 241, 246
+  orig: 267, 270
+  offset: 11, 13
+  index: -1
+wu_00
+  rotate: false
+  xy: 2, 212
+  size: 241, 245
+  orig: 256, 256
+  offset: 9, 6
+  index: -1
+yun
+  rotate: false
+  xy: 2, 707
+  size: 1023, 316
+  orig: 1023, 317
+  offset: 0, 0
+  index: -1

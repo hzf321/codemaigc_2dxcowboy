@@ -1,0 +1,62 @@
+
+scatter_01.png
+size: 311,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base_store_0
+  rotate: false
+  xy: 211, 6
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+base_store_1
+  rotate: false
+  xy: 125, 0
+  size: 84, 87
+  orig: 84, 87
+  offset: 0, 0
+  index: -1
+guangci01
+  rotate: false
+  xy: 264, 271
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+guangquan01
+  rotate: false
+  xy: 264, 237
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+kuoguang01_0
+  rotate: false
+  xy: 151, 89
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+scatter_01/beijing
+  rotate: false
+  xy: 151, 188
+  size: 111, 123
+  orig: 111, 123
+  offset: 0, 0
+  index: -1
+scatter_01/biankuang
+  rotate: false
+  xy: 0, 24
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+scatter_01/longtou
+  rotate: false
+  xy: 0, 154
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1

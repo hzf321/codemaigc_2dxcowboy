@@ -1,0 +1,146 @@
+
+jieshou.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jieshou/jieshou_00
+  rotate: true
+  xy: 368, 174
+  size: 151, 158
+  orig: 268, 224
+  offset: 53, 36
+  index: -1
+jieshou/jieshou_01
+  rotate: false
+  xy: 528, 172
+  size: 154, 153
+  orig: 268, 224
+  offset: 51, 41
+  index: -1
+jieshou/jieshou_02
+  rotate: true
+  xy: 367, 16
+  size: 156, 157
+  orig: 268, 224
+  offset: 50, 39
+  index: -1
+jieshou/jieshou_03
+  rotate: false
+  xy: 1749, 345
+  size: 160, 159
+  orig: 268, 224
+  offset: 48, 38
+  index: -1
+jieshou/jieshou_04
+  rotate: false
+  xy: 1585, 342
+  size: 162, 162
+  orig: 268, 224
+  offset: 47, 36
+  index: -1
+jieshou/jieshou_05
+  rotate: false
+  xy: 1419, 339
+  size: 164, 165
+  orig: 268, 224
+  offset: 46, 35
+  index: -1
+jieshou/jieshou_06
+  rotate: false
+  xy: 1250, 336
+  size: 167, 168
+  orig: 268, 224
+  offset: 44, 33
+  index: -1
+jieshou/jieshou_07
+  rotate: false
+  xy: 1078, 333
+  size: 170, 171
+  orig: 268, 224
+  offset: 43, 32
+  index: -1
+jieshou/jieshou_08
+  rotate: true
+  xy: 903, 332
+  size: 172, 173
+  orig: 268, 224
+  offset: 42, 31
+  index: -1
+jieshou/jieshou_09
+  rotate: false
+  xy: 547, 329
+  size: 174, 175
+  orig: 268, 224
+  offset: 41, 30
+  index: -1
+jieshou/jieshou_10
+  rotate: false
+  xy: 368, 327
+  size: 177, 177
+  orig: 268, 224
+  offset: 40, 29
+  index: -1
+jieshou/jieshou_11
+  rotate: false
+  xy: 185, 142
+  size: 180, 179
+  orig: 268, 224
+  offset: 38, 28
+  index: -1
+jieshou/jieshou_12
+  rotate: false
+  xy: 2, 321
+  size: 181, 183
+  orig: 268, 224
+  offset: 38, 26
+  index: -1
+jieshou/jieshou_13
+  rotate: false
+  xy: 2, 138
+  size: 181, 181
+  orig: 268, 224
+  offset: 38, 28
+  index: -1
+jieshou/jieshou_14
+  rotate: false
+  xy: 185, 323
+  size: 181, 181
+  orig: 268, 224
+  offset: 37, 28
+  index: -1
+jieshou/jieshou_15
+  rotate: true
+  xy: 723, 333
+  size: 171, 178
+  orig: 268, 224
+  offset: 43, 29
+  index: -1
+jieshou/jieshou_16
+  rotate: true
+  xy: 526, 20
+  size: 150, 155
+  orig: 268, 224
+  offset: 62, 40
+  index: -1
+jieshou/jieshou_17
+  rotate: true
+  xy: 2, 2
+  size: 134, 156
+  orig: 268, 224
+  offset: 62, 39
+  index: -1
+jieshou/jieshou_18
+  rotate: false
+  xy: 684, 173
+  size: 134, 154
+  orig: 268, 224
+  offset: 62, 41
+  index: -1
+jieshou/jieshou_19
+  rotate: false
+  xy: 1911, 350
+  size: 134, 154
+  orig: 268, 224
+  offset: 62, 41
+  index: -1

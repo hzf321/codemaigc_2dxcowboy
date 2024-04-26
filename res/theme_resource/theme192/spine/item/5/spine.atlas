@@ -1,0 +1,69 @@
+
+m4.png
+size: 197,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/by
+  rotate: false
+  xy: 181, 116
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+images/c1
+  rotate: false
+  xy: 2, 90
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+images/c2
+  rotate: false
+  xy: 61, 86
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+images/d
+  rotate: false
+  xy: 2, 25
+  size: 112, 55
+  orig: 112, 55
+  offset: 0, 0
+  index: -1
+images/dise
+  rotate: false
+  xy: 2, 118
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+images/k
+  rotate: false
+  xy: 2, 6
+  size: 118, 17
+  orig: 118, 17
+  offset: 0, 0
+  index: -1
+images/st
+  rotate: false
+  xy: 109, 126
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+images/st2
+  rotate: false
+  xy: 166, 101
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+images/t
+  rotate: false
+  xy: 109, 82
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1

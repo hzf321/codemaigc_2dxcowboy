@@ -1,0 +1,286 @@
+
+325_popup_gm.png
+size: 1023,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GMbanzikaishi@2x
+  rotate: false
+  xy: 2, 594
+  size: 749, 425
+  orig: 749, 425
+  offset: 0, 0
+  index: -1
+images/t1
+  rotate: true
+  xy: 753, 635
+  size: 384, 184
+  orig: 384, 184
+  offset: 0, 0
+  index: -1
+images/t1_1
+  rotate: false
+  xy: 113, 20
+  size: 221, 138
+  orig: 221, 138
+  offset: 0, 0
+  index: -1
+images/t1_2
+  rotate: true
+  xy: 113, 284
+  size: 308, 187
+  orig: 308, 187
+  offset: 0, 0
+  index: -1
+images/t2
+  rotate: false
+  xy: 113, 160
+  size: 360, 122
+  orig: 360, 122
+  offset: 0, 0
+  index: -1
+images/t4
+  rotate: true
+  xy: 753, 8
+  size: 625, 110
+  orig: 625, 110
+  offset: 0, 0
+  index: -1
+images/t5
+  rotate: true
+  xy: 865, 159
+  size: 474, 62
+  orig: 474, 62
+  offset: 0, 0
+  index: -1
+sg/1_0
+  rotate: true
+  xy: 977, 238
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_1
+  rotate: true
+  xy: 398, 296
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_10
+  rotate: true
+  xy: 501, 18
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_11
+  rotate: true
+  xy: 547, 18
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_12
+  rotate: true
+  xy: 675, 156
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_13
+  rotate: true
+  xy: 593, 2
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_14
+  rotate: true
+  xy: 639, 2
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_2
+  rotate: false
+  xy: 444, 356
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_3
+  rotate: false
+  xy: 444, 310
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_4
+  rotate: false
+  xy: 475, 264
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_5
+  rotate: false
+  xy: 598, 356
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_6
+  rotate: false
+  xy: 598, 310
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_7
+  rotate: false
+  xy: 475, 218
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_8
+  rotate: false
+  xy: 475, 172
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg/1_9
+  rotate: true
+  xy: 629, 156
+  size: 152, 44
+  orig: 152, 44
+  offset: 0, 0
+  index: -1
+sg2/1_0
+  rotate: true
+  xy: 929, 227
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_1
+  rotate: false
+  xy: 336, 112
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_10
+  rotate: false
+  xy: 475, 450
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_11
+  rotate: false
+  xy: 302, 450
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_12
+  rotate: false
+  xy: 475, 402
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_13
+  rotate: true
+  xy: 302, 285
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_14
+  rotate: true
+  xy: 350, 285
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_2
+  rotate: false
+  xy: 336, 64
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_3
+  rotate: false
+  xy: 336, 16
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_4
+  rotate: false
+  xy: 475, 546
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_5
+  rotate: false
+  xy: 302, 546
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_6
+  rotate: true
+  xy: 640, 429
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_7
+  rotate: true
+  xy: 688, 429
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_8
+  rotate: false
+  xy: 475, 498
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+sg2/1_9
+  rotate: false
+  xy: 302, 498
+  size: 163, 46
+  orig: 163, 46
+  offset: 0, 0
+  index: -1
+t1
+  rotate: true
+  xy: 2, 10
+  size: 582, 109
+  orig: 582, 109
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 939, 392
+  size: 627, 54
+  orig: 627, 54
+  offset: 0, 0
+  index: -1
+theme325_master1
+  rotate: true
+  xy: 865, 36
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1

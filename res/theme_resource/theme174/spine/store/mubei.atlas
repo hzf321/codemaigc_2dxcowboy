@@ -1,0 +1,118 @@
+
+mubei.png
+size: 1594,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao/bai_0
+  rotate: false
+  xy: 1530, 39
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+texiao/lizi_0
+  rotate: false
+  xy: 0, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_1
+  rotate: false
+  xy: 102, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_10
+  rotate: false
+  xy: 1020, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_11
+  rotate: false
+  xy: 1122, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_12
+  rotate: false
+  xy: 1224, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_13
+  rotate: false
+  xy: 1326, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_14
+  rotate: false
+  xy: 1428, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_2
+  rotate: false
+  xy: 204, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_3
+  rotate: false
+  xy: 306, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_4
+  rotate: false
+  xy: 408, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_5
+  rotate: false
+  xy: 510, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_6
+  rotate: false
+  xy: 612, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_7
+  rotate: false
+  xy: 714, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_8
+  rotate: false
+  xy: 816, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1
+texiao/lizi_9
+  rotate: false
+  xy: 918, 0
+  size: 100, 106
+  orig: 100, 106
+  offset: 0, 0
+  index: -1

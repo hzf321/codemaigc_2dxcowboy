@@ -1,0 +1,34 @@
+
+325_logo.png
+size: 1767,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chibang
+  rotate: false
+  xy: 1516, 9
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+images/wenzi
+  rotate: false
+  xy: 2, 6
+  size: 760, 133
+  orig: 760, 133
+  offset: 0, 0
+  index: -1
+images/xingguang
+  rotate: false
+  xy: 1708, 82
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+images/yy
+  rotate: false
+  xy: 764, 2
+  size: 750, 137
+  orig: 750, 137
+  offset: 0, 0
+  index: -1

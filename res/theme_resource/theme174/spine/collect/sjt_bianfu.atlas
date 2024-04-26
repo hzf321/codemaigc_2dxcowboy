@@ -1,0 +1,27 @@
+
+sjt_bianfu.png
+size: 155,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chib1
+  rotate: false
+  xy: 55, 8
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+images/chib2
+  rotate: false
+  xy: 0, 0
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+images/st
+  rotate: false
+  xy: 107, 50
+  size: 48, 30
+  orig: 48, 31
+  offset: 0, 1
+  index: -1

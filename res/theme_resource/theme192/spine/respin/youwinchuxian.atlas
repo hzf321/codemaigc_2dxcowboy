@@ -1,0 +1,125 @@
+
+youwinchuxian.png
+size: 1715,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+respin/theme192_r_sp2
+  rotate: true
+  xy: 0, 0
+  size: 165, 97
+  orig: 166, 97
+  offset: 0, 0
+  index: -1
+respin/theme192_r_sp7
+  rotate: false
+  xy: 1419, 103
+  size: 287, 65
+  orig: 287, 65
+  offset: 0, 0
+  index: -1
+tuowei/tuowei_00
+  rotate: false
+  xy: 1089, 11
+  size: 328, 155
+  orig: 382, 189
+  offset: 33, 25
+  index: -1
+tuowei/tuowei_01
+  rotate: true
+  xy: 1563, 170
+  size: 327, 152
+  orig: 382, 189
+  offset: 35, 25
+  index: -1
+tuowei/tuowei_02
+  rotate: true
+  xy: 1100, 169
+  size: 328, 153
+  orig: 382, 189
+  offset: 35, 25
+  index: -1
+tuowei/tuowei_03
+  rotate: false
+  xy: 759, 7
+  size: 328, 159
+  orig: 382, 189
+  offset: 35, 25
+  index: -1
+tuowei/tuowei_04
+  rotate: false
+  xy: 99, 4
+  size: 328, 161
+  orig: 382, 189
+  offset: 35, 25
+  index: -1
+tuowei/tuowei_05
+  rotate: false
+  xy: 429, 4
+  size: 328, 161
+  orig: 382, 189
+  offset: 35, 25
+  index: -1
+tuowei/tuowei_06
+  rotate: true
+  xy: 635, 168
+  size: 329, 156
+  orig: 382, 189
+  offset: 34, 25
+  index: -1
+tuowei/tuowei_07
+  rotate: true
+  xy: 0, 167
+  size: 330, 161
+  orig: 382, 189
+  offset: 33, 25
+  index: -1
+tuowei/tuowei_08
+  rotate: true
+  xy: 163, 167
+  size: 330, 158
+  orig: 382, 189
+  offset: 33, 25
+  index: -1
+tuowei/tuowei_09
+  rotate: true
+  xy: 1406, 170
+  size: 327, 155
+  orig: 382, 189
+  offset: 33, 25
+  index: -1
+tuowei/tuowei_10
+  rotate: true
+  xy: 1255, 169
+  size: 328, 149
+  orig: 382, 189
+  offset: 34, 25
+  index: -1
+tuowei/tuowei_11
+  rotate: true
+  xy: 947, 168
+  size: 329, 151
+  orig: 382, 189
+  offset: 34, 25
+  index: -1
+tuowei/tuowei_12
+  rotate: true
+  xy: 323, 167
+  size: 330, 158
+  orig: 382, 189
+  offset: 33, 25
+  index: -1
+tuowei/tuowei_13
+  rotate: true
+  xy: 483, 167
+  size: 330, 150
+  orig: 382, 189
+  offset: 33, 25
+  index: -1
+tuowei/tuowei_14
+  rotate: true
+  xy: 793, 168
+  size: 329, 152
+  orig: 382, 189
+  offset: 33, 25
+  index: -1
